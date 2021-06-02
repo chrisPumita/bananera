@@ -203,29 +203,30 @@
         <title>Hello, world!</title>
     </head>
     <body>
+
         <!--Hey! This is the original version of Simple CSS Waves-->
         <header>
             <div class="overlay"></div>
             <div class="video-container">
 
                 <div class="video-inline">
-                  <video class="video" poster="./assets/image/bg-img1.png"  playsinline="playsinline"  autoplay="autoplay" muted="muted" loop="loop" height="100%">
-                    <source src="./assets/image/bg-video.mp4" type="video/mp4" />
-                    Tu navegador no soporta video HTML5.
-                  </video>
-                  <canvas class="canvas"></canvas>
-                  <div class="video-timeline js-timeline">
-                    <div class="video-timeline-passed js-timeline-passed"></div>
-                  </div>
+                    <video class="video" poster="./assets/image/bg-img1.png"  playsinline="playsinline"  autoplay="autoplay" muted="muted" loop="loop" height="100%">
+                        <source src="./assets/image/bg-video.mp4" type="video/mp4" />
+                        Tu navegador no soporta video HTML5.
+                    </video>
+                    <canvas class="canvas"></canvas>
+                    <div class="video-timeline js-timeline">
+                        <div class="video-timeline-passed js-timeline-passed"></div>
+                    </div>
                 </div>
             </div>
             <nav id="menu" class="navbar sticky-top navbar-expand-lg navbar-inverse navbar-light bg-light bg-trasparente">
                 <div class="container-sm">
                     <a class="navbar-brand" href="#">
-                    <img src="./assets/image/logo.svg" alt="" width="auto" height="50" class="d-inline-block align-text-top">
+                        <img src="./assets/image/logo.svg" alt="" width="auto" height="50" class="d-inline-block align-text-top">
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menuvar" aria-controls="menuvar" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                        <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="menuvar">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -250,9 +251,7 @@
                     </div>
                 </div>
             </nav>
-
-
-            <div class="" style="height: 100vh;">
+            <div class="container" style="height: 100vh;">
                 <div class="d-flex h-100 text-center align-items-center">
                     <div class="w-100 text-white">
                         <h1 class="display-3">Video Header</h1>
@@ -281,26 +280,35 @@
             -->
             <script type="text/javascript" src="assets/js/canva.js"></script>
         <script>
-    var isIOS = /iPad|iPhone|iPod/.test(navigator.platform);
-    
-    if (isIOS) {
- 
-        var canvasVideo = new CanvasVideoPlayer({
-            videoSelector: '.video',
-            canvasSelector: '.canvas',
-            timelineSelector: false,
-            autoplay: true,
-            makeLoop: true,
-            pauseOnClick: false,
-            audio: false
-        });
-        
-    }else {
-        
-        // Use HTML5 video
-        document.querySelectorAll('.canvas')[0].style.display = 'none';
-        
-    }   
+            var isIOS = /iPad|iPhone|iPod/.test(navigator.platform);
+            if (isIOS) {
+                var canvasVideo = new CanvasVideoPlayer({
+                    videoSelector: '.video',
+                    canvasSelector: '.canvas',
+                    timelineSelector: false,
+                    autoplay: true,
+                    makeLoop: true,
+                    pauseOnClick: false,
+                    audio: false
+                });
+            }else {
+                // Use HTML5 video
+                document.querySelectorAll('.canvas')[0].style.display = 'none';
+            }
+        </script>
+
+        <script>
+            $(window).scroll(function () {
+               if ($("#menu").offset().top>56){
+                   $("#menu").removeClass("bg-trasparente");
+                   $("#menu").addClass("bg-light");
+                }
+               else{
+                   $("#menu").removeClass("bg-light");
+                   $("#menu").removeClass("bg-trasparente");
+
+                }
+            });
         </script>
     </body>
 </html>
