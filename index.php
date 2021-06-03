@@ -6,13 +6,15 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Bootstrap CSS -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+        <!-- Font Awesome -->
+
         <style>
             .bg-trasparente {
             background-color: transparent !important;
             transition: all 1s ease;
             }
-            .bg-primary{
-            transition: all 1s ease;
+            .bg-light{
+                transition: all 1s ease;
             }
             header {
             height: 100vh;
@@ -63,7 +65,7 @@
                 z-index: 99;
                 height: 25vh;
                 overflow: hidden;
-                margin-top: -25vh;
+                margin-top: 0vh;
                 position: absolute;
                 width: 100%;
             }
@@ -110,94 +112,78 @@
             font-size:14px;
             color: #333333;
             }
-            .header {
-            position:relative;
-            text-align:center;
-            background: url(assets/image/bg-img1.png) top center no-repeat;
-            color:white;
-            }
-            .logo {
-            width:50px;
-            fill:white;
-            padding-right:15px;
-            display:inline-block;
-            vertical-align: middle;
-            }
-            .inner-header {
-            height:65vh;
-            width:100%;
-            margin: 0;
-            padding: 0;
-            }
-            .flex { /*Flexbox for containers*/
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-            }
-            .waves {
-            position:relative;
-            width: 100%;
-            height:15vh;
-            margin-bottom:-7px; /*Fix for safari gap*/
-            min-height:100px;
-            max-height:150px;
-            }
-            .content {
-            position:relative;
-            height:20vh;
-            text-align:center;
-            background-color: white;
-            }
-            /* Animation */
-            .parallax > use {
-            animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)     infinite;
-            }
-            .parallax > use:nth-child(1) {
-            animation-delay: -2s;
-            animation-duration: 7s;
-            }
-            .parallax > use:nth-child(2) {
-            animation-delay: -3s;
-            animation-duration: 10s;
-            }
-            .parallax > use:nth-child(3) {
-            animation-delay: -4s;
-            animation-duration: 13s;
-            }
-            .parallax > use:nth-child(4) {
-            animation-delay: -5s;
-            animation-duration: 20s;
-            }
-            @keyframes move-forever {
-            0% {
-            transform: translate3d(-90px,0,0);
-            }
-            100% { 
-            transform: translate3d(85px,0,0);
-            }
-            }
             /*Shrinking for mobile*/
             @media (max-width: 768px) {
-            .waves {
-            height:40px;
-            min-height:40px;
-            }
-            .content {
-            height:30vh;
-            }
             h1 {
             font-size:24px;
             }
+            .bg-trasparente{
+                background-color: #fff !important;
+            }
 
+
+
+            .video-container {
+                    height: 95vh;
+                }
+            header .overlay {
+                position: absolute;
+                height: 950%;
+            }
             .wabe {
                 z-index: 99;
                 height: 10vh;
                 overflow: hidden;
-                margin-top: -15vh;
-                position: absolute;
+                margin-top: 0vh;
+                position: relative;
                 width: 100%;
             }
+            }
+        </style>
+        <style>
+
+            .menu {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                max-width: 720px;
+                list-style: none;
+            }
+
+            .menu li {
+                width: 125px;
+                height: 50px;
+                transition: background-position-x 0.9s linear;
+                text-align: center;
+            }
+            .menu li a {
+                font-size: 12px;
+                color: #777;
+                text-decoration: none;
+                transition: all 0.45s;
+            }
+            .menu li:hover {
+                border-bottom: 1px solid #C00;
+                 -webkit-animation: line 1s;
+                animation: line 1s;
+            }
+            .menu li:hover a {
+                color: #a71a1a !important;
+            }
+            .menu li:not(:last-child) {
+                margin-right: 10px;
+            }
+
+            @-webkit-keyframes line {
+                0% {
+                    background-position-x: 390px;
+                }
+            }
+
+            @keyframes line {
+                0% {
+                    background-position-x: 390px;
+                }
             }
         </style>
         <title>Hello, world!</title>
@@ -205,7 +191,7 @@
     <body>
 
         <!--Hey! This is the original version of Simple CSS Waves-->
-        <header>
+        <header style="height: 100vh">
             <div class="overlay"></div>
             <div class="video-container">
 
@@ -231,7 +217,7 @@
                     <div class="collapse navbar-collapse" id="menuvar">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         </ul>
-                        <ul class="navbar-nav mb-2 mb-lg-0 justify-content-end">
+                        <ul class="navbar-nav mb-2 mb-lg-0 justify-content-end menu">
                             <li class="nav-item">
                                 <a class="nav-link active" aria-current="page" href="#">NOSOTROS</a>
                             </li>
@@ -251,13 +237,18 @@
                     </div>
                 </div>
             </nav>
-            <div class="container" style="height: 100vh;">
-                <div class="d-flex h-100 text-center align-items-center">
-                    <div class="w-100 text-white">
-                        <h1 class="display-3">Video Header</h1>
-                        <p class="lead mb-0">With HTML5 Video and Bootstrap 4</p>
+            <div class="container" style="height: 75vh;">
+                    <div class="d-flex justify-content-center align-items-center h-100">
+
+                        <div class="text-white text-center">
+                            <h1 class="mb-3">Learn Bootstrap 5 with MDB</h1>
+                            <h5 class="mb-4">Best & free guide of responsive web design</h5>
+                            <a class="btn btn-outline-light btn-lg m-2" href="https://www.youtube.com/watch?v=c9B4TPnak1A"
+                               role="button" rel="nofollow" target="_blank">Start tutorial</a>
+                            <a class="btn btn-outline-light btn-lg m-2" href="https://mdbootstrap.com/docs/standard/"
+                               target="_blank" role="button">Download MDB UI KIT</a>
+                        </div>
                     </div>
-                </div>
             </div>
             <div class="wabe" >
                 <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
@@ -268,6 +259,11 @@
         <section>
             <div  style="height: 1600px; background-color: white;"> </div>
         </section>
+        <!-- MDB -->
+        <script
+                type="text/javascript"
+                src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.5.0/mdb.min.js"
+        ></script>
         <!-- Optional JavaScript; choose one of the two! -->
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
         <!-- Optional JavaScript; choose one of the two! -->
