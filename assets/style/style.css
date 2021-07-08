@@ -7,9 +7,11 @@
     --greyligth: #EDEDED;
     --alert:  indianred;
     --greybold: #7E7E7E;
+    --redmarck: #d20036;
 }
-
-
+*{
+    font-family: 'Cabin', sans-serif;
+}
 /*@over botstrap styles*/
 .bg-primary{background-color: var(--primary) !important;}
 .bg-light{background-color: var(--ligth) !important;}
@@ -34,7 +36,7 @@
 
 .mark, mark {
     padding: .2em;
-    background-color: red;
+    background-color: var(--redmarck);
     color: var(--ligth) !important;
     font-size: 2em;
 }
@@ -60,7 +62,7 @@
 
 .certificates
 {
-    margin-right: 10px;
+    margin-right: 2em;
 }
 
 .world{
@@ -221,6 +223,10 @@ p {
     .circule-home-img{
         width: 150px !important;
     }
+
+    .finca-box{
+        width:50%;
+    }
     .welcome-title{
         text-align: center;
         padding-top: 2em;
@@ -233,6 +239,75 @@ p {
     header{
         height: 100vh;
     }
+
+    .counts {
+        font-size: 1em !important;
+    }
+
+    .certificates {
+        height: 20px !important;
+        margin-right: 1em ;
+    }
+
+    .contador-cont {
+        width: 75%;
+    }
+
+    .border-menu{
+        border-bottom: 1px solid #cccccc !important;
+        border-top: 1px solid #dee2e6!important;
+    }
+
+    .world {
+        margin-bottom: 0rem;
+        width: 100%;
+    }
+
+    .container-experience {
+        margin-top: 15rem;
+    }
+
+    .cita-world{
+        flex: 0 0 auto;
+        width: 100%;
+        text-align: start;
+        margin-left: 1rem;
+        text-align: center;
+    }
+
+    .bg-mg {
+        padding-bottom: 10rem;
+    }
+
+    .footer{
+        text-align: center;
+    }
+    .privacidad{
+        display: block;
+    }
+    .hr-div-notice {
+        margin: auto;
+    }
+
+    .cite{
+        text-align: initial;
+    }
+    .bg-down {
+        margin-top: -25vh;
+        height: 25vh;
+        width: 100%;
+        background-size: cover !important;
+    }
+
+    .text-mje, .mje-2 {
+        /* margin: 0px; */
+        font-size: medium;
+    }
+
+    .comilla {
+        width: 2em;
+    }
+
 }
 /**********/
 
@@ -245,10 +320,11 @@ p {
 }
 header {
     height: 100vh;
-    /* padding: 200px 0; */
-    background: url(./assets/image/bg-img1.png) top center no-repeat;
     background-size: cover;
     color: #ffffff;
+}
+.platano{
+    width: 100%;
 }
 .video-container {
     position: absolute;
@@ -282,11 +358,13 @@ header .overlay {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: #041d11;
+    background-color: #0a401d85;
     opacity: 0.8;
     z-index: 1;
 }
-
+img:hover {
+    filter: drop-shadow(5px 5px 10px #444);
+}
 .circule-home-img{
     width: 400px;
 }
@@ -307,7 +385,7 @@ header .overlay {
 }
 
 .counts{
-    font-size: x-large;
+    font-size: 2em;
 }
 
 .container-wolrd{
@@ -345,6 +423,10 @@ header .overlay {
         display: block;
     }
 
+    .platano {
+        width: 350px;
+    }
+
 }
 /**********/
 
@@ -363,7 +445,7 @@ header .overlay {
     text-align: center;
 }
 .menu li a {
-    font-size: 12px;
+    font-size: 14px;
     color: var(--ligth);
     text-decoration: none;
     transition: all 0.45s;

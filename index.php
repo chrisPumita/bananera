@@ -8,6 +8,8 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
         <link rel="stylesheet" href="./assets/style/style.css">
 
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cabin&display=swap" rel="stylesheet">
 
         <!-- jQuery Library -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -40,7 +42,7 @@
                 position: absolute;
                 bottom: 0;
                 left: 0;
-                padding: 3em 3em;
+                padding: 8em 0em;
                 width: 100%;
                 height: 100%;
             }
@@ -93,6 +95,7 @@
                 color: #ffffff;
             }
             figure.snip0015:hover img {
+                filter: blur(5px);
                 opacity: 0.35;
             }
             figure.snip0015:hover figcaption h2 {
@@ -126,28 +129,11 @@
                 font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important
             }
 
-            .bold-text {
-                color: #989c9e !important
-            }
-
-            .mt-55 {
-                margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))) !important
-            }
-
-            .social {
-                font-size: 21px !important
-            }
-
-            .rights {
-                font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))) !important
-            }
         </style>
         <title>Bienvenidos - Grupo Esfuerzo</title>
     </head>
     <body>
-
-        <!--Hey! This is the original version of Simple CSS Waves-->
-        <header>
+        <header style="background: url(./assets/image/bg-img1.png) top center no-repeat;">
             <div class="overlay"></div>
             <div class="video-container">
 
@@ -170,7 +156,7 @@
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menuvar" aria-controls="menuvar" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
-                    <div class="collapse navbar-collapse" id="menuvar">
+                    <div class="collapse navbar-collapse border-menu" id="menuvar">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         </ul>
                         <ul class="navbar-nav mb-2 mb-lg-0 justify-content-end menu">
@@ -196,14 +182,14 @@
             <div class="container d-flex justify-content-center align-items-center" style="height: 70vh;">
                 <div class="row container-headers">
                     <div class="col">
-                        <img src="./assets/image/circleHome.png" class="rounded mx-auto d-block circule-home-img" alt="Grupo Esfuerzo" width="300">
+                        <img src="./assets/image/circleHome.png" class="rounded mx-auto d-block circule-home-img" alt="Grupo Esfuerzo">
                     </div>
                     <div class="col welcome-title">
                         <div class="row">
                             <div class="text-white text-light">
-                                <h4 class="mb-3">GRUPO ESFUERZO,</h4>
-                                <h3 class="mb-4">Producimos desde Costa Rica <br>
-                                    con prácticas sostenibles <br> <span class="text-primary">alimentos que nutren al planeta.</span></h3>
+                                <h3 class="mb-3">GRUPO ESFUERZO,</h3>
+                                <h2 class="mb-4">Producimos desde Costa Rica <br>
+                                    con prácticas sostenibles <br> <span class="text-primary">alimentos que nutren al planeta.</span></h2>
                             </div>
                         </div>
                         <picture>
@@ -211,9 +197,9 @@
                         </picture>
                         <div class="py-3">
                             <picture>
-                                <img class="certificates" src="./assets/image/certificado-en-proceso.svg" height="30" class="" alt="carbono natural">
-                                <img class="certificates" src="./assets/image/certificado-global.svg" height="30" class="" alt="Global G.A.P.">
-                                <img class="certificates" src="./assets/image/certificacion-frog.svg" height="30" class="" alt="...">
+                                <img class="certificates" src="./assets/image/certificado-en-proceso.svg" height="35" class="" alt="carbono natural">
+                                <img class="certificates" src="./assets/image/certificado-global.svg" height="35" class="" alt="Global G.A.P.">
+                                <img class="certificates" src="./assets/image/certificacion-frog.svg" height="35" class="" alt="...">
                             </picture>
                         </div>
 
@@ -233,14 +219,14 @@
                 <div class="container d-flex justify-content-center align-items-center">
                     <div class="row">
                         <div class="col">
-                            <img src="./assets/image/banana.png" class="rounded mx-auto d-block" width="350" alt="platano">
+                            <img src="./assets/image/banana.png" class="rounded mx-auto d-block platano" alt="platano">
                         </div>
                         <div class="col welcome-title">
-                            <h4 class="text-primary">Lo que hacemos</h4>
-                            <p class="my-5">Trabajamos por ser el proveedor referente a nivel
-                                mundial del mejor banano costarricense, siempre
-                                bajo estrictos estándares de producción sostenible
-                                y priorizando el bienestar de nuestros
+                            <h2 class="text-primary">Lo que hacemos</h2>
+                            <p class="py-5 text-grey">Trabajamos por ser el proveedor referente a nivel <br>
+                                mundial del mejor banano costarricense, siempre <br>
+                                bajo estrictos estándares de producción sostenible <br>
+                                y priorizando el bienestar de nuestros <br>
                                 colaboradores y comunidades.</p>
                             <button type="button" class="btn btn-outline-primary">Conozca nuestro producto</button>
                         </div>
@@ -259,11 +245,12 @@
                     </div>
                     <div class="col p-4">
                         <span class="counts">màs de</span>
-                        <h2 class="text-primary" data-toggle="counterUp">500</h2>
+                        <h1 class="text-primary" data-toggle="counterUp">500</h1>
                         <span class="counts">colaboradores(as)</span>
                     </div>
                     <div class="col p-4">
-                        <h2 class="text-primary" data-toggle="counterUp">960</h2>
+                        <span> </span>
+                        <h1 class="text-primary" data-toggle="counterUp">960</h1>
                         <span class="counts">hectáreas</span>
                     </div>
                 </div>
@@ -272,9 +259,9 @@
             <div class="container-sm">
                 <div class="row text-center text-grey py-5 contador-cont">
                     <picture>
-                        <img class="certificates" src="./assets/image/certificado-en-proceso.svg" height="35" class="" alt="carbono natural">
-                        <img class="certificates" src="./assets/image/certificado-global.svg" height="35" class="" alt="Global G.A.P.">
-                        <img class="certificates" src="./assets/image/certificacion-frog.svg" height="35" class="" alt="...">
+                        <img class="certificates" src="./assets/image/certificado-en-proceso.svg" height="60" class="" alt="carbono natural">
+                        <img class="certificates" src="./assets/image/certificado-global.svg" height="60" class="" alt="Global G.A.P.">
+                        <img class="certificates" src="./assets/image/certificacion-frog.svg" height="60" class="" alt="...">
                     </picture>
                 </div>
             </div>
@@ -288,7 +275,7 @@
                     </div>
                 </div>
                 <div class="row row-cols-1 row-cols-md-4 g-4">
-                    <div class="col">
+                    <div class="col finca-box">
                         <div class="card h-100 ">
                             <figure class="snip0015">
                                 <img src="./assets/image/AgroJPEG.jpg" class="card-img-top" alt="...">
@@ -298,7 +285,7 @@
                             </figure>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col finca-box">
                         <div class="card h-100">
                             <figure class="snip0015">
                                 <img src="./assets/image/EsfuerzoJPEG.jpg" class="card-img-top" alt="...">
@@ -308,7 +295,7 @@
                             </figure>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col finca-box">
                         <div class="card h-100">
                             <figure class="snip0015">
                                 <img src="./assets/image/VestaJPEG.jpg" class="card-img-top" alt="...">
@@ -318,7 +305,7 @@
                             </figure>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col finca-box">
                         <div class="card h-100 ">
                             <figure class="snip0015">
                                 <img src="./assets/image/BristolJPEG.jpg" class="card-img-top" alt="...">
@@ -332,12 +319,13 @@
             </div>
         </section>
         <section class="bg-greyligth">
-            <div class="container-sm">
+            <div class="container-sm py-5">
                 <div class="row">
-                    <div class="col">
-                        <h4>Exportamos desde</h4>
+                    <div class="col-1"></div>
+                    <div class="col-11">
+                        <h2 class="text-grey">Exportamos desde</h2>
                         <mark>Costa Rica</mark>
-                        <h4>al mundo.</h4>
+                        <h2 class="text-grey">al mundo.</h2>
                     </div>
                 </div>
             </div>
@@ -348,14 +336,14 @@
                     </div>
                     <div class="row">
                         <div class="container-experience">
-                            <div class="col-6 d-flex">
+                            <div class="col-6 d-flex cita-world">
                                 <div class="col-2">
                                     <img class="comilla" src="./assets/image/comilla.png" height="auto" width="150" alt="">
                                 </div>
-                                <div class="col-10 text-light text-mje" >
-                                    <h4 class="mje-2">Mas de <span class="text-primary">30 años de experiencia</span></h4>
-                                    <h4 class="mje-2">en la exportación de banano</h4>
-                                    <h4 class="mje-2">costarricense”</h4>
+                                <div class="col-10 text-light text-mje cite" >
+                                    <h2 class="mje-2">Mas de <span class="text-primary"><strong>30 años de experiencia</strong></span></h2>
+                                    <h2 class="mje-2">en la exportación de banano</h2>
+                                    <h2 class="mje-2">costarricense”</h2>
                                 </div>
                             </div>
                             <div class="col-6">
@@ -368,12 +356,12 @@
                                 <img src="./assets/image/line-green.svg" width="200" class="rounded float-start text-primary line-text" alt="...">
                             </picture>
                         </div>
-                        <div class="col-6 d-flex">
-                            <div class="col-2">
+                        <div class="col-6 d-flex cita-world">
+                            <div class="col-2 d-none">
                             </div>
                             <div class="col-10 text-light text-mje" >
                                 <div class="row">
-                                    <h6>GRUPO ESFUERZO</h6>
+                                    <h4>GRUPO ESFUERZO</h4>
                                 </div>
                                 <div class="row py-3">
                                     <picture>
@@ -387,7 +375,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6">
+                        <div class="col-6 d-none">
                         </div>
                     </div>
                 </div>
@@ -400,61 +388,7 @@
                 </div>
             </div>
         </section>
-        <footer class="footer">
-            <div class="container my-5 justify-content-center py-5">
-                <div class="row ">
-                    <div class="col-xl-4 col-md-4 col-sm-4 col-12 my-auto mx-auto a">
-                        <h6 class="mb-3 mb-lg-4 text-grey "><b>Grupo Esfuerzo, Costa Rica</b></h6>
-                            <ul class="list-unstyled text-grey">
-                                <li><a class="linkfooter" href="#">Finca Agro</a></li>
-                                <li><a class="linkfooter" href="#">Finca Esfuerzo</a></li>
-                                <li><a class="linkfooter" href="#">Finca Vesta</a></li>
-                                <li><a class="linkfooter" href="#">Finca Brístol</a></li>
-                            </ul>
-
-                        <p class="text-grey" py-3>
-                            Oficinas San José, Costa Rica. <br>
-                            200 Metros Norte del Parque la <br>
-                            Amistad, Rohrmoser # 103.
-                        </p>
-                    </div>
-                    <div class="col-xl-4 col-md-4 col-sm-4 col-12">
-                        <h6 class="mb-3 mb-lg-4 text-grey "><b>Últimas Noticias</b></h6>
-                        <p class="text-grey notice-footer">
-                            <a class="linkfooter" href="#">Nuestro compromiso</a>
-                            <hr class="hr-div-notice">
-                            Mayo 2021
-                        </p>
-                        <p class="text-grey notice-footer">
-                            <a class="linkfooter" href="#">Nuestro compromiso</a>
-                        <hr class="hr-div-notice">
-                        Mayo 2021
-                        </p>
-                    </div>
-                    <div class="col-xl-4 col-md-4 col-sm-4 col-12">
-                        <h6 class="mb-3 mb-lg-4 text-grey "><b>Contáctenos</b></h6>
-                        <ul class="list-unstyled text-grey">
-                            <li>info@grupoesfuerzo.com</li>
-                            <li>+506 4036 7160</li>
-                            <li>+506 8702 7972</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row ">
-                    <div class="col-xl-4 col-md-4 col-sm-4 col-auto my-md-0 mt-5 order-sm-1 order-3 align-self-end">
-                        <h6>Política de privacidad</h6>
-                    </div>
-                    <div class="col-xl-4 col-md-4 col-sm-4 col-auto order-1 align-self-end ">
-                        </div>
-                    <div class="col-xl-4 col-md-4 col-sm-4 col-auto order-2 align-self-end mt-3 ">
-                        <a href="#">
-                        <img class="icon-youtube" src="./assets/image/youtube.svg" width="60" class="rounded float-start text-primary line-text" alt="...">
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </footer>
-
+        <?php include_once "footer.php"?>
         <script type="text/javascript">
             // jQuery counterUp
             $('[data-toggle="counterUp"]').counterUp({
