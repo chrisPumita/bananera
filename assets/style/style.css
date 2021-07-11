@@ -45,7 +45,39 @@
     background-color: var(--primary);
     border-color:  var(--primary);
 }
+.border-primary {
+    border-color: var(--primary) !important;
+}
+.border-secondary {
+    border-color: var(--second) !important;
+}
 
+.cont-limine{
+    background-position-x: right;
+    background-position-y: bottom;
+    position: relative;
+    z-index: 1;
+}
+
+.icon-home-img {
+    width: 300px;
+}
+
+.wabe-backimg{
+    background-position-x: right !important;
+    background-position-y: bottom !important;
+    /* background-attachment: fixed; */
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+}
+
+.podcast{
+    padding: 4em;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url(../image/greenMenu.svg);
+}
 .btn-outline-primary:hover{
 
 }
@@ -71,12 +103,33 @@
     margin: auto;
 }
 
+.historia{
+    border-left: var(--primary) solid 5px;
+    padding: 4em;
+}
 .working-img{
     position: absolute;
 }
 
 .container-experience{
     margin-top: 30rem;
+}
+.container-vitamina{
+    margin-top: 10rem;
+    text-align: right;
+}
+.bg-mg-producto{
+    position: relative;
+    padding-bottom: 32rem;
+}
+.wabe-button-producto {
+    margin-top: -15rem;
+}
+.mark-vitamina{
+    padding: 0em;
+    background-color: gold;
+    color: var(--secondary) !important;
+    font-size: 1em;
 }
 .comilla{
     width: 3em;
@@ -89,13 +142,15 @@
     width:100%;
 }
 
-line-text{
-    width: 150px;
-    height: 2px !important;
-}
 .btn-contact{
     max-width: 150px !important;
     margin-top: 2rem;
+    border: var(--ligth) solid 2px !important;
+    border-radius: 0px;
+}
+
+.position-front{
+    z-index: 99;
 }
 
 .image-principal{
@@ -103,6 +158,15 @@ line-text{
     position: relative;
     margin-top: -10rem;
     display: flex;
+}
+
+.time-text:hover{
+        color: var(--ligth);
+        background-color: var(--primary);
+}
+
+.time-responsive{
+    width:750px;
 }
 
 .img-down{
@@ -195,6 +259,24 @@ p {
     font-size:14px;
     color: #333333;
 }
+
+.flayer-producto{
+    background-size: cover !important;
+    height: 65vh;
+    position: relative;
+}
+
+.slider-border{
+    padding-bottom: 10em;
+    padding-top: 5em;
+}
+
+
+.container-headers-parrafo {
+    width: 50%;
+    text-align: center;
+}
+
 /*Shrinking for mobile*/
 @media (max-width: 768px) {
     h1 {
@@ -267,6 +349,10 @@ p {
         margin-top: 15rem;
     }
 
+    .container-vitamina{
+        margin-top: 5rem;
+    }
+
     .cita-world{
         flex: 0 0 auto;
         width: 100%;
@@ -307,9 +393,31 @@ p {
     .comilla {
         width: 2em;
     }
+    .icon-home-img {
+        width: 150px;
+    }
 
+    .wabe-button-producto {
+        margin-top: -5rem;
+    }
+    .img-producto-bk{
+        background-size: cover !important;
+    }
+    .carricel-size {
+        max-width: 150px;
+        margin-top: 50px !important;
+        margin-bottom: 50px !important;
+    }
+
+    .container-headers-parrafo {
+        width: 100%;
+    }
 }
 /**********/
+.carricel-size{
+    max-width: 400px;
+    margin: auto;
+}
 
 .bg-trasparente {
     background-color: transparent !important;
@@ -320,6 +428,7 @@ p {
 }
 header {
     height: 100vh;
+    background-attachment: fixed !important;
     background-size: cover;
     color: #ffffff;
 }
@@ -358,7 +467,8 @@ header .overlay {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: #0a401d85;
+    /*
+    background-color: #0a401d85;*/
     opacity: 0.8;
     z-index: 1;
 }
@@ -382,6 +492,12 @@ img:hover {
 
 .welcome-title{
     margin: auto;
+}
+
+.text-parrafo {
+    margin: auto;
+    margin-left: 10%;
+    margin-right: 15%;
 }
 
 .counts{
@@ -426,6 +542,11 @@ img:hover {
     .platano {
         width: 350px;
     }
+    .text-parrafo {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
 
 }
 /**********/
@@ -481,3 +602,234 @@ img:hover {
     position: relative;
     padding-top: 5rem;
 }
+
+/*FIGURE*/
+
+figure.snip0015 {
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    background: #000000;
+    text-align: center;
+    margin: 0;
+}
+figure.snip0015 * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+figure.snip0015 img {
+    opacity: 1;
+    width: 100%;
+    -webkit-transition: opacity 0.35s;
+    transition: opacity 0.35s;
+}
+figure.snip0015 figcaption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 8em 0em;
+    width: 100%;
+    height: 100%;
+}
+figure.snip0015 figcaption::before {
+    position: absolute;
+    top: 50%;
+    right: 30px;
+    bottom: 50%;
+    left: 30px;
+    border-top: 1px solid rgba(255, 255, 255, 0.8);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.8);
+    content: "";
+    opacity: 0;
+    background-color: #ffffff;
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s;
+    -webkit-transition-delay: 0.6s;
+    transition-delay: 0.6s;
+}
+figure.snip0015 h2,
+figure.snip0015 p {
+    margin: 0 0 5px;
+    opacity: 0;
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, -webkit-transform 0.35s, -moz-transform 0.35s,
+    -o-transform 0.35s, transform 0.35s;
+}
+figure.snip0015 h2 {
+    word-spacing: -0.15em;
+    font-weight: 300;
+    -webkit-transform: translate3d(0%, 50%, 0);
+    transform: translate3d(0%, 50%, 0);
+    -webkit-transition-delay: 0.3s;
+    transition-delay: 0.3s;
+}
+figure.snip0015 h2 span {
+    font-weight: 800;
+}
+figure.snip0015 p {
+    font-weight: 200;
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+}
+figure.snip0015 a {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    color: #ffffff;
+}
+figure.snip0015:hover img {
+    filter: blur(5px);
+    opacity: 0.35;
+}
+figure.snip0015:hover figcaption h2 {
+    opacity: 1;
+    -webkit-transform: translate3d(0%, 0%, 0);
+    transform: translate3d(0%, 0%, 0);
+    -webkit-transition-delay: 0.3s;
+    transition-delay: 0.3s;
+}
+figure.snip0015:hover figcaption p {
+    opacity: 0.9;
+    -webkit-transition-delay: 0.6s;
+    transition-delay: 0.6s;
+}
+figure.snip0015:hover figcaption::before {
+    background: rgba(255, 255, 255, 0);
+    top: 30px;
+    bottom: 30px;
+    opacity: 1;
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+}
+
+
+/*PANORAMICA*/
+
+.imagenPano {
+    -webkit-animation: animatedBackground 110s alternate ease-in-out infinite;
+    animation-name: mov-izq;
+    animation-duration: 110s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    -moz-animation-name: mov-izq;
+    -moz-animation-duration: 110s;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -moz-animation-delay: 0s;
+    -webkit-animation-name: mov-izq;
+    -webkit-animation-duration: 110s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: 0s;
+}
+
+/*       EEFCTOS DE IMAGENES        */
+.imagenPano{
+    background-image: url(../../assets/image/people-wabe.png);
+    background-repeat: repeat-x;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-size: cover;
+}
+.imagenPano{
+    -webkit-animation: animatedBackground 60s alternate ease-in-out infinite;
+    animation-name: mov-izq;
+    /*280 seg*/
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    -moz-animation-name: mov-izq;
+    -moz-animation-duration: 60s;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -moz-animation-delay: 0s;
+    -webkit-animation-name: mov-izq;
+    -webkit-animation-duration: 60s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: 0s;
+}
+/*
+
+ */
+@keyframes mov-izq{
+    0% { background-position: 0em }
+    100%{background-position:-800px}
+}
+@-webkit-keyframes mov-izq{
+    0% { background-position: 0em }
+    100%{background-position:-800px}
+}
+
+
+
+/*efecto ball*/
+
+
+.container-ball {
+    width: 380px;
+    height: 380px;
+    right: 60px;
+    margin: 0 auto;
+    top: 20px;
+}
+.div-img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.div-img .img-ball {
+    display: block;
+    z-index: 99;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+    border-radius: 50% !important;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    transform: translate(0px);
+    -ms-transform: translate(0px);
+    -moz-transform: translate(0px);
+    -webkit-transform: translate(0px);
+    -o-transform: translate(0px);
+    -webkit-transition: all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    -ms-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+}
+.div-img .text {
+    position: absolute;
+    z-index: 0;
+    display: block;
+    height: 380px;
+    width: 380px;
+    bottom: 0;
+    border-radius: 50%;
+    left: 10px;
+    padding-right: 5px;
+
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#89bf00+0,156339+100 */
+    background: #89bf00; /* Old browsers */
+    background: -moz-linear-gradient(top,  #89bf00 0%, #156339 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #89bf00 0%,#156339 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #89bf00 0%,#156339 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#89bf00', endColorstr='#156339',GradientType=0 ); /* IE6-9 */
+
+}
+.div-img:hover .img-ball {
+    transform: translate(-60px, -5px);
+    -ms-transform: translate(-60px, -5px);
+    -moz-transform: translate(-60px, -5px);
+    -webkit-transform: translate(-60px, -5px);
+    -o-transform: translate(-60px, -5px);
+}
+
+/*efecto ball*/

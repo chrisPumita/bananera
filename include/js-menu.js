@@ -1,0 +1,30 @@
+$(window).scroll(function () {
+    if ($("#menu").offset().top>56){
+        $("#menu").removeClass("bg-trasparente");
+        $("#menu").addClass("bg-light");
+        $("#m1").removeClass("text-light");
+        $("#m1").addClass("text-secondary");
+        $("#m2").removeClass("text-light");
+        $("#m2").addClass("text-secondary");
+        $("#m3").removeClass("text-light");
+        $("#m3").addClass("text-secondary");
+        $("#m4").removeClass("text-light");
+        $("#m4").addClass("text-secondary");
+        $("#m5").removeClass("text-light");
+        $("#m5").addClass("text-secondary");
+    }
+    else{
+        $("#menu").removeClass("bg-light");
+        $("#menu").addClass("bg-trasparente");
+        $("#m1").addClass("text-light");
+        $("#m1").removeClass("text-secondary");
+        $("#m2").addClass("text-light");
+        $("#m2").removeClass("text-secondary");
+        $("#m3").addClass("text-light");
+        $("#m3").removeClass("text-secondary");
+        $("#m4").addClass("text-light");
+        $("#m4").removeClass("text-secondary");
+        $("#m5").addClass("text-light");
+        $("#m5").removeClass("text-secondary");
+    }
+});
