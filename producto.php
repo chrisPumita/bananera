@@ -19,7 +19,7 @@
     <div class="container d-flex justify-content-center align-items-center" style="height: 70vh;">
         <div class="row container-headers">
             <div class="col">
-                <img src="./assets/image/banana-vector.svg" class="rounded mx-auto d-block icon-home-img" alt="Grupo Esfuerzo">
+                <img src="./assets/image/banana-vector.svg" class="rounded mx-auto d-block icon-home-img img-gost" alt="Grupo Esfuerzo">
             </div>
             <div class="col welcome-title">
                 <div class="row">
@@ -74,7 +74,7 @@
                 </div>
             </div>
             <div class="col">
-                <img src="./assets/image/banana-circle.png" class="rounded mx-auto d-block circule-home-img" alt="Grupo Esfuerzo">
+                <img src="./assets/image/banana-circle.png" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
             </div>
         </div>
     </div>

@@ -44,7 +44,7 @@ if($idioma=='en'){
             <div class="container d-flex justify-content-center align-items-center" style="height: 70vh;">
                 <div class="row container-headers">
                     <div class="col">
-                        <img src="./assets/image/circleHome.png" class="rounded mx-auto d-block circule-home-img" alt="Grupo Esfuerzo">
+                        <img src="./assets/image/circleHome.png" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
                     </div>
                     <div class="col welcome-title">
                         <div class="row">
@@ -81,7 +81,7 @@ if($idioma=='en'){
                 <div class="container d-flex justify-content-center align-items-center">
                     <div class="row">
                         <div class="col">
-                            <img src="./assets/image/banana.png" class="rounded mx-auto d-block platano" alt="platano">
+                            <img src="./assets/image/banana.png" class="rounded mx-auto d-block platano img-gost" alt="platano">
                         </div>
                         <div class="col welcome-title">
                             <h2 class="text-primary">Lo que hacemos</h2>
