@@ -20,7 +20,7 @@
                     <a class="nav-link text-light" id="m3"  href="./sostenibilidad.php">SOSTENIBILIDAD</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" id="m4" href="#">NOTICIAS</a>
+                    <a class="nav-link text-light" id="m4" href="./noticias.php">NOTICIAS</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-light" id="m5" href="./contacto.php">CONTACTO</a>
