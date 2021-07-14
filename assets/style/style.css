@@ -283,6 +283,28 @@ p {
     text-align: center;
 }
 
+.header-top-contact{
+    background-position-x: right !important;
+    background-position-y: -25vh !important;
+    background-attachment: inherit !important;
+}
+
+.top-z{
+    margin-top: -50vh;
+    margin-bottom: -20vh;
+}
+
+.footer-img-contacto{
+    position: relative;
+    height: 30rem;
+    background-position-x: right !important;
+    background-position-y: bottom !important;
+    /* background-attachment: fixed; */
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    z-index: 0;
+}
+
 /*Shrinking for mobile*/
 @media (max-width: 768px) {
     h1 {
@@ -444,6 +466,10 @@ p {
     .focus-img-ok{
         background-position-x: 75% !important;
     }
+
+    .contacto-header {
+        height: 75vh !important;
+    }
 }
 /**********/
 .carricel-size{
@@ -579,6 +605,14 @@ header .overlay {
         margin-right: 0;
     }
 
+
+    .footer-img-contacto {
+        height: 10rem;
+    }
+
+    .var-contacto{
+        background: var(--greyligth) !important;
+    }
 
 }
 /**********/
@@ -865,3 +899,130 @@ figure.snip0015:hover figcaption::before {
 }
 
 /*efecto ball*/
+
+
+/* IMG HOVER EFFECTS*/
+
+.column {
+    margin: auto;
+    padding: 0;
+}
+.column:last-child {
+    padding-bottom: 60px;
+}
+.column::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.column div:first-child {
+    margin-left: 0;
+}
+.column div span {
+    position: absolute;
+    bottom: -20px;
+    left: 0;
+    z-index: -1;
+    display: block;
+    width: 300px;
+    margin: 0;
+    padding: 0;
+    color: #444;
+    font-size: 18px;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+    opacity: 0;
+}
+figure {
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    overflow: hidden;
+}
+figure:hover + span {
+    bottom: -36px;
+    opacity: 1;
+}
+
+/* Shine */
+.hover14 figure {
+    position: relative;
+}
+.hover14 figure::before {
+    position: absolute;
+    top: 0;
+    left: -60%;
+    z-index: 2;
+    display: block;
+    content: "";
+    width: 50%;
+    height: 100%;
+    background: -webkit-linear-gradient(
+            left,
+            rgba(255, 255, 255, 0) 0%,
+            rgba(255, 255, 255, 0.3) 100%
+    );
+    background: linear-gradient(
+            to right,
+            rgba(255, 255, 255, 0) 0%,
+            rgba(255, 255, 255, 0.3) 100%
+    );
+    -webkit-transform: skewX(-25deg);
+    transform: skewX(-25deg);
+}
+.hover14 figure:hover::before {
+    -webkit-animation: shine 0.75s;
+    animation: shine 0.75s;
+}
+@-webkit-keyframes shine {
+    100% {
+        left: 125%;
+    }
+}
+@keyframes shine {
+    100% {
+        left: 125%;
+    }
+}
+
+
+
+.style_prevu_kit {
+    display: inline-block;
+    border: 0;
+    width: auto;
+    height: 300px;
+    position: relative;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);
+}
+.style_prevu_kit:hover {
+    box-shadow: 0px 0px 10px #000000;
+    z-index: 99;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1.1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1.1);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1.1);
+    transition: all 200ms ease-in;
+    transform: scale(1.1);
+}
+
+.whatsapp-btn{
+    background: #2fb250 !important;
+}
+.mail-btn{
+    background: #00336a !important;
+}

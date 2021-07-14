@@ -23,7 +23,7 @@
                     <a class="nav-link text-light" id="m4" href="#">NOTICIAS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" id="m5" href="#">CONTACTO</a>
+                    <a class="nav-link text-light" id="m5" href="./contacto.php">CONTACTO</a>
                 </li>
             </ul>
         </div>
