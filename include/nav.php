@@ -16,8 +16,17 @@
                 <li class="nav-item">
                     <a class="nav-link text-light"  id="m2"  href="./producto.php">PRODUCTOS</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link text-light" id="m3"  href="./sostenibilidad.php">SOSTENIBILIDAD</a>
+                <li class="nav-item dropdown">
+                    <a class="dropdown-toggle nav-link text-light" href="#" id="mdrop" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        SOSTENIBILIDAD
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-dark postition-menu" aria-labelledby="mdrop">
+                        <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Responsabilidades</a></li>
+                        <div class="dropdown-divider"></div>
+                        <li class="link-menu"><a class="dropdown-item" href="./social.php">Social</a></li>
+                        <li class="link-menu"><a class="dropdown-item" href="./gobernanza.php">Gobernanza</a></li>
+                        <li class="link-menu"><a class="dropdown-item" href="./ambiental.php">Ambiental</a></li>
+                    </ul>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-light" id="m4" href="./noticias.php">NOTICIAS</a>

@@ -5,7 +5,7 @@
 
     <?php include "include/header.php";?>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="./assets/style/style-contact.css">
+    <link rel="stylesheet" href="assets/style/styleContact.css">
     <style>
 
 
@@ -33,8 +33,17 @@
                     <li class="nav-item">
                         <a class="nav-link text-secondary" aria-current="page" id="m2"  href="./producto.php"><span class="text-grey">PRODUCTOS</span></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-secondary" aria-current="page" id="m3"  href="./sostenibilidad.php"><span class="text-grey">SOSTENIBILIDAD</span></a>
+                    <li class="nav-item text-secondary dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            SOSTENIBILIDAD
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-dark postition-menu" aria-labelledby="navbarDarkDropdownMenuLink">
+                            <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Responsabilidades</a></li>
+                            <div class="dropdown-divider"></div>
+                            <li class="link-menu"><a class="dropdown-item" href="#">Social</a></li>
+                            <li class="link-menu"><a class="dropdown-item" href="#">Sostenibilidad</a></li>
+                            <li class="link-menu"><a class="dropdown-item" href="#">Ambiental</a></li>
+                        </ul>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-secondary" aria-current="page" id="m4" href="./noticias.php"><span class="text-grey">NOTICIAS</span></a>

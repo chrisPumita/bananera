@@ -16,7 +16,7 @@
 
     <?php include "./include/nav.php" ?>
 
-    <div class="container d-flex justify-content-center align-items-center" style="height: 70vh;">
+    <div class="container d-flex justify-content-center align-items-center" style="height: 50vh;">
         <div class="row container-headers-parrafo">
             <div class="col">
                 <div class="text-white text-light">
@@ -40,13 +40,13 @@
     </div>
 </header>
 
-<section class="bg-ligth">
+<section class="bg-ligth top-header">
     <div class="container d-flex justify-content-center align-items-center py-5">
         <div class="row container-headers">
             <div class="col">
                 <div class="container-ball">
                     <div class="div-img" >
-                        <img class="img-ball img-gost" src="./assets/image/banana-circle.png" title="Foto5" alt="Foto5">
+                        <img class="img-ball" src="./assets/image/banana-circle.png" title="Foto5" alt="Foto5">
                         <div class="text"></div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
         </svg>
     </div>
 </section>
-<section class="bg-greyligth">
+<section class="bg-greyligth top-header">
     <div class="container-sm py-5">
         <div class="col align-items-center">
             <div class="row">

@@ -45,7 +45,7 @@
     </div>
 </header>
 
-<section class="bg-greyligth">
+<section class="bg-greyligth top-header">
     <div class="container d-flex justify-content-center align-items-center">
         <div class="row container-headers">
             <div class="col text-parrafo">

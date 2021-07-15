@@ -11,7 +11,9 @@ $(window).scroll(function () {
         $("#m4").removeClass("text-light");
         $("#m4").addClass("text-secondary");
         $("#m5").removeClass("text-light");
+        $("#mdrop").removeClass("text-light");
         $("#m5").addClass("text-secondary");
+        $("#mdrop").addClass("text-secondary");
     }
     else{
         $("#menu").removeClass("bg-light");
@@ -25,6 +27,8 @@ $(window).scroll(function () {
         $("#m4").addClass("text-light");
         $("#m4").removeClass("text-secondary");
         $("#m5").addClass("text-light");
+        $("#mdrop").addClass("text-light");
         $("#m5").removeClass("text-secondary");
+        $("#mdrop").removeClass("text-secondary");
     }
 });

@@ -131,4 +131,9 @@ blockquote {
         border-width: 10px 15px 10px 0;
         border-color: transparent var(--second) transparent transparent;
     }
+
+    .date{
+        left: 0 !important;
+        right: auto !important;
+    }
 }
