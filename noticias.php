@@ -21,7 +21,6 @@
         <div class="row container-headers">
             <div class="col welcome-title">
                 <img src="./assets/image/icon-notice.svg" width="150" class="rounded mx-auto d-block img-gost py-5" alt="Grupo Esfuerzo">
-
                 <div class="row text-center">
                     <div class="text-white text-light">
                         <h3 class="mb-3">Últimas noticias de Grupo Esfuerzo</h3>
@@ -58,7 +57,6 @@
 
         <div class="timeline-item">
             <div class="timeline-img"></div>
-
             <div class="timeline-content js--fadeInRight">
                 <img src="./assets/notice/notice2/pin-notice.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
                 <h5 class="text-grey">Grupo esfuerzo participa en la

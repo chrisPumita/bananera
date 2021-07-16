@@ -1,13 +1,13 @@
 :root{
-    --primary: #89C100FF;
-    --second: #156339FF;
-    --yellow : #cace00;
+    --primary: #76bc21;
+    --second: #1a5632;
+    --yellow : #ffd100;
     --ligth : #ffffff;
     --grey: #3d3f41;
     --greyligth: #EDEDED;
     --alert:  indianred;
     --greybold: #7E7E7E;
-    --redmarck: #d20036;
+    --redmarck: #d50037;
     --blue: #00255a;
 }
 *{
@@ -15,6 +15,7 @@
 }
 /*@over botstrap styles*/
 .bg-primary{background-color: var(--primary) !important;}
+.bg-red{background-color: var(--redmarck) !important;}
 .bg-light{background-color: var(--ligth) !important;}
 .bg-mix{background: linear-gradient(180deg,var(--ligth)50%,var(--grey));}
 .bg-grey{background-color: var(--grey) !important;}
@@ -45,6 +46,13 @@
     background-color: var(--redmarck);
     color: var(--ligth) !important;
     font-size: 2em;
+}
+
+.mark-green{
+    padding: 0em;
+    background-color: var(--primary);
+    color: var(--second) !important;
+    font-size: 1em;
 }
 .btn-outline-primary:hover {
     color: var(--ligth) !important;
@@ -310,8 +318,15 @@ p {
     z-index: 0;
 }
 
+.imgBoxSocial{
+    height: 150px;
+}
 /*Shrinking for mobile*/
 @media (max-width: 768px) {
+
+    .imgBoxSocial {
+        height: 60px;
+    }
 
     .top-header{
         margin-top: -11vh;
@@ -833,6 +848,34 @@ figure.snip0015:hover figcaption::before {
     -webkit-animation-timing-function: linear;
     -webkit-animation-delay: 0s;
 }
+
+.imagenPano2{
+    background-image: url(../../assets/image/houses-wabe.png);
+    background-repeat: repeat-x;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-size: cover;
+}
+.imagenPano2{
+    -webkit-animation: animatedBackground 60s alternate ease-in-out infinite;
+    animation-name: mov-izq;
+    /*280 seg*/
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    -moz-animation-name: mov-izq;
+    -moz-animation-duration: 60s;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -moz-animation-delay: 0s;
+    -webkit-animation-name: mov-izq;
+    -webkit-animation-duration: 60s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: 0s;
+}
 /*
 
  */
@@ -1088,5 +1131,8 @@ ____________________________ shadow effect*/
     margin:40px auto;
 }
 
+.social-footer-globe{
+    margin-top: -25vh;
+}
 
 /*______________________________________ CONTACTO STYLE*/
