@@ -11,7 +11,7 @@
 <?php include "./include/nav-static.php" ?>
 <header style="height: auto;">
 </header>
-<section style="background: url(./assets/image/headerGober.jpg) top center no-repeat;">
+<section style="background: url(./assets/image/headerGober.jpg) top center no-repeat;"  class="bg-img-bottom">
     <div class="container-sm d-flex justify-content-center align-items-center" style="height: 40vh;">
         <div class="row container-headers-parrafo">
             <div class="col">
@@ -30,7 +30,7 @@
             <div class="col-4 p-3 text-end">
             </div>
             <div class="col-4 p-3 text-center">
-                <img  class="img-responsive imgBoxSocial" src="./assets/image/gobernanza-1.jpg"  alt="">
+                <img  class="img-responsive imgBoxSocial bg-img-bottom" src="./assets/image/gobernanza-1.jpg"  alt="">
             </div>
             <div class="col-4 p-3 text-start">
             </div>

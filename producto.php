@@ -11,7 +11,7 @@
 
 </head>
 <body>
-<header style="background: url(./assets/image/header-producto1.jpg) top center no-repeat;">
+<header style="background: url(./assets/image/header-producto1.jpg) top center no-repeat;" class="bg-img-bottom">
     <div class="overlay"></div>
 
     <?php include "./include/nav.php" ?>

@@ -133,34 +133,41 @@
                     <div class="py-3">
                         <img src="./assets/image/action-home.svg" class="m-3" height="150" alt="">
                     </div>
-                    <div class="col d-flex justify-content-center align-items-center">
-                        <div class="position-absolute text-center">
-                            <h3 class="text-light m-0">SOCIAL</h3>
+                    <a href="./social.php">
+                        <div class="col d-flex justify-content-center align-items-center">
+                            <div class="position-absolute text-center">
+                                <h3 class="text-light m-0">SOCIAL</h3>
+                            </div>
+                            <img src="./assets/image/bg-red.ods.jpg" width="200" alt="">
                         </div>
-                        <img src="./assets/image/bg-red.ods.jpg" width="200" alt="">
-                    </div>
+                    </a>
+
                 </div>
                 <div class="col d-block text-center style_prevu_kit">
                     <div class="py-3">
                         <img src="./assets/image/action-foco.svg" class="m-3" height="150" alt="">
                     </div>
-                    <div class="col d-flex justify-content-center align-items-center">
-                        <div class="position-absolute text-center">
-                            <h3 class="text-light m-0">GOBERNANZA</h3>
+                    <a href="./gobernanza.php">
+                        <div class="col d-flex justify-content-center align-items-center">
+                            <div class="position-absolute text-center">
+                                <h3 class="text-light m-0">GOBERNANZA</h3>
+                            </div>
+                            <img src="./assets/image/bg-blue-rd.jpg" width="200" alt="">
                         </div>
-                        <img src="./assets/image/bg-blue-rd.jpg" width="200" alt="">
-                    </div>
+                    </a>
                 </div>
                 <div class="col d-block text-center style_prevu_kit">
                     <div class="py-3">
                         <img src="./assets/image/action-premio.svg" class="m-3" height="150" alt="">
                     </div>
-                    <div class="col d-flex justify-content-center align-items-center">
-                        <div class="position-absolute text-center">
-                            <h3 class="text-light m-0">AMBIENTAL</h3>
+                    <a href="./ambiental.php">
+                        <div class="col d-flex justify-content-center align-items-center">
+                            <div class="position-absolute text-center">
+                                <h3 class="text-light m-0">AMBIENTAL</h3>
+                            </div>
+                            <img src="./assets/image/bg-rd-cr.jpg" width="200" alt="">
                         </div>
-                        <img src="./assets/image/bg-rd-cr.jpg" width="200" alt="">
-                    </div>
+                    </a>
                 </div>
 
             </div>

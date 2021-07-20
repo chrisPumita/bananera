@@ -336,6 +336,21 @@ p {
 .globe-contain{
     height:75vh;
 }
+
+.border-center-certificate{
+    border-left: var(--greyligth) 3px solid;
+    border-right: var(--greyligth) 3px solid;
+}
+
+.border-six-footer{
+    border-radius: 2rem;
+    margin-bottom: 1rem;
+}
+
+.bg-img-bottom{
+    background-position-y: bottom !important;
+    background-size: contain !important;
+}
 /*Shrinking for mobile*/
 @media (max-width: 768px) {
 
