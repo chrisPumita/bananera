@@ -69,25 +69,39 @@
         <div class="container-sm py-3">
             <div class="row row-cols-7 text-center  g-2 py-5  hover14 column">
                 <div class="col finca-box">
-                    <figure><img src="./assets/image/ods1.jpg" alt=""></figure>
+                    <a href="./social.php">
+                        <figure><img src="./assets/image/ods1.jpg" alt=""></figure>
+                    </a>
                 </div>
                 <div class="col finca-box">
+                    <a href="./ambiental.php">
                     <figure><img src="./assets/image/ods2.jpg" alt=""></figure>
+                    </a>
                 </div>
                 <div class="col finca-box">
+                    <a href="./social.php">
                     <figure><img src="./assets/image/ods3.jpg" alt=""></figure>
+                    </a>
                 </div>
                 <div class="col finca-box">
+                    <a href="./social.php">
                     <figure><img src="./assets/image/ods4.jpg" alt=""></figure>
+                    </a>
                 </div>
                 <div class="col finca-box">
+                    <a href="./ambiental.php">
                     <figure><img src="./assets/image/ods5.jpg" alt=""></figure>
+                    </a>
                 </div>
                 <div class="col finca-box">
+                    <a href="./ambiental.php">
                     <figure><img src="./assets/image/ods6.jpg" alt=""></figure>
+                    </a>
                 </div>
                 <div class="col finca-box">
+                    <a href="./gobernanza.php">
                     <figure><img src="./assets/image/ods7.jpg" alt=""></figure>
+                    </a>
                 </div>
             </div>
         </div>
@@ -129,11 +143,13 @@
                 </div>
             </div>
             <div class="row d-flex justify-content-center align-items-center px-5 py-5">
+
                 <div class="col d-block text-center style_prevu_kit">
-                    <div class="py-3">
-                        <img src="./assets/image/action-home.svg" class="m-3" height="150" alt="">
-                    </div>
                     <a href="./social.php">
+                        <div class="py-3">
+                            <img src="./assets/image/action-home.svg" class="m-3" height="150" alt="">
+                        </div>
+
                         <div class="col d-flex justify-content-center align-items-center">
                             <div class="position-absolute text-center">
                                 <h3 class="text-light m-0">SOCIAL</h3>
@@ -141,13 +157,12 @@
                             <img src="./assets/image/bg-red.ods.jpg" width="200" alt="">
                         </div>
                     </a>
-
                 </div>
                 <div class="col d-block text-center style_prevu_kit">
+                    <a href="./gobernanza.php">
                     <div class="py-3">
                         <img src="./assets/image/action-foco.svg" class="m-3" height="150" alt="">
                     </div>
-                    <a href="./gobernanza.php">
                         <div class="col d-flex justify-content-center align-items-center">
                             <div class="position-absolute text-center">
                                 <h3 class="text-light m-0">GOBERNANZA</h3>
@@ -157,10 +172,11 @@
                     </a>
                 </div>
                 <div class="col d-block text-center style_prevu_kit">
+                    <a href="./ambiental.php">
                     <div class="py-3">
                         <img src="./assets/image/action-premio.svg" class="m-3" height="150" alt="">
                     </div>
-                    <a href="./ambiental.php">
+
                         <div class="col d-flex justify-content-center align-items-center">
                             <div class="position-absolute text-center">
                                 <h3 class="text-light m-0">AMBIENTAL</h3>

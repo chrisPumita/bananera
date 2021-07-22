@@ -351,9 +351,20 @@ p {
     background-position-y: bottom !important;
     background-size: contain !important;
 }
+
+.wabe-top-ambiental {
+    margin-top: 0rem;
+}
+
+.header-ajuste{
+    background-position-y: bottom !important;
+}
 /*Shrinking for mobile*/
 @media (max-width: 768px) {
 
+    .form-again{
+        width:100% !important;
+    }
     .mje-wabe{
         width: 100%;
     }

@@ -81,33 +81,33 @@
     <div class="container-sm p-5">
         <div class="row">
             <div class="col m-auto text-center">
+                <h2 class="text-secondary">Historia</h2>
                 <img src="./assets/image/pergamino.svg" width="60" alt="">
-                <h2 class="text-secondary">Propósito y valores</h2>
             </div>
             <div class="col border-left border-secondary historia">
                 <p class="text-grey">
-                    Somos una empresa caracterizada por su ética,
-                    compromiso y confiabilidad, que se guía por las buenas
-                    prácticas de responsabilidad social y ambiental.
+                    Grupo Esfuerzo es una empresa familiar costarricense,
+                    con más de 30 años de experiencia en la exportación de
+                    banano de excelente calidad y bajo las mejores prácticas
+                    de producción ética y sostenible
                 </p>
                 <p class="text-grey">
-                    Trabajamos por ser el proveedor referente a nivel
-                    mundial del mejor banano costarricense, siempre bajo
-                    estrictos estándares de sostenibilidad y en armonía con
-                    el planeta, priorizando el bienestar de nuestros
-                    trabajadores, sus familias y comunidades.
+                    Nacimos inicialmente como Bananera El Esfuerzo en
+                    1988, con el desarrollo de una finca en 28 Millas de
+                    Matina, en Limón de Costa Rica.
                 </p>
                 <p class="text-grey">
-                    Además, aspiramos a expandir nuestra oferta a
-                    tubérculos y piña. Nosotros no soñamos con un planeta
-                    mejor. Nosotros lo construimos al ofrecer soluciones
-                    locales para necesidades globales, a través de la
-                    producción de alimentos y gracias al apoyo de socios,
-                    colaboradores, proveedores, clientes y consumidores.
+                    Desde entonces, hemos ampliado nuestra área de
+                    siembra de una finca a cuatro para un área total de 960
+                    hectáreas de siembra, y exportamos a regiones tales
+                    como Norteamérica, Caribe, Europa, Medio Oriente y
+                    Asia.
                 </p>
                 <p class="text-grey">
-                    ¡Hagamos negocios y descubra cómo el banano
-                    costarricense puede cambiar el mundo!
+                    Cada año, vendemos en promedio 1.6 millones de cajas,
+                    lo que equivale al 1.5% del mercado costarricense,
+                    impactando la economía local y aportando a la
+                    construcción de marca país alrededor del mundo.
                 </p>
             </div>
         </div>
@@ -124,7 +124,7 @@
         <div class="row">
             <div class="col m-auto text-center">
                 <img src="./assets/image/medalla.svg" width="60" alt="">
-                <h2 class="text-primary">Historia</h2>
+                <h2 class="text-primary">Propósito y valores</h2>
             </div>
             <div class="col border-left border-primary historia">
                 <p class="text-grey">

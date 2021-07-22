@@ -11,7 +11,7 @@
 
 </head>
 <body>
-<header style="background: url(./assets/image/header-producto1.jpg) top center no-repeat;" class="bg-img-bottom">
+<header style="background: url(./assets/image/header-producto1.jpg) top center no-repeat;">
     <div class="overlay"></div>
 
     <?php include "./include/nav.php" ?>
@@ -92,7 +92,7 @@
                             <div class="col-auto text-secondary text-mje cite" >
                                 <h2 class="mje-2">Contiene unos 400mg de</h2>
                                 <h2 class="mje-2">potasio por cada 100g de</h2>
-                                <h2 class="mje-2">fruta fresca. Son fuente de</h2>
+                                <h2 class="mje-2">fruta fresca. Es fuente de</h2>
                                 <h2 class="mje-2"><mark class="mark-vitamina">vitamina C y B6”</mark></h2>
                             </div>
                         </div>
@@ -125,9 +125,7 @@
                             la expresión globalmente conocida Costa Rican
                             Bananas, y la segunda en honor al apodo
                             cariñoso y familiar de nuestro fundador.
-                            También somos proveedores de compañías
-                            multinacionales que los exportan bajo sus
-                            propias marcas.
+                            También somos proveedores de compañías multinacionales que exportan nuestros bananos bajo sus propias marcas.
                         </p>
                     </div>
                 </div>

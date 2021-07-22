@@ -11,17 +11,16 @@
 <?php include "./include/nav-static.php" ?>
 <header style="height: auto;">
 </header>
-<section style="background: url(./assets/image/header-ambiental.jpg) top center no-repeat;" class="bg-img-bottom">
+<section style="background: url(./assets/image/header-ambiental.jpg) top center no-repeat;" class="header-ajuste">
     <div class="container-sm d-flex justify-content-center align-items-center" style="height: 40vh;">
         <div class="row container-headers-parrafo">
             <div class="col">
                 <div class="text-white text-light">
                     <h6 class="mb-4 py-3">Sostenibilidad</h6>
                     <h2 class="mb-3">Ambiental</h2>
-                    <h5 class="mb-4">Aportamos a los ODS 4 Educación de calidad; 8
-                        Trabajo decente y crecimiento económico y 11
-                        Ciudades y comunidades sostenibles
-                        Energía</h5>
+                    <h5 class="mb-4">Aportamos a los ODS 7 Energía asequible y no contaminante;
+                        12 Producción y consumo responsables y
+                        15 Vida de ecosistemas terrestres</h5>
                 </div>
             </div>
         </div>
@@ -76,7 +75,7 @@
             <div class="col  text-center">
                 <div class="text-white text-light py-5">
                     <img class="py-5" src="./assets/image/certificado-en-proceso.svg" height="150" alt="">
-                    <p class="text-grey py-5">
+                    <p class="text-grey my-5 p-3">
                         Trabajamos por obtener la<strong><span class="text-secondary"> Carbono Neutralidad</span></strong>
                         en 2021, lo que garantiza que nuestras
                         emisiones netas de Gases de Efecto Invernadero
@@ -91,7 +90,7 @@
             <div class="col text-center ">
                 <div class="text-white text-light py-5">
                     <img class="py-5" src="./assets/image/certificado-global.svg" height="150" alt="">
-                    <p class="text-grey py-5 p-3 border-center-certificate">
+                    <p class="text-grey my-5 p-3 border-center-certificate">
                         Estamos certificados<strong><span class="text-secondary"> Global G.A.P. </span></strong>, una norma para
                         las Buenas Prácticas Agrícolas (BPA) reconocida por
                         la Iniciativa Mundial de Seguridad Alimentaria
@@ -106,7 +105,7 @@
             <div class="col text-center">
                 <div class="text-white text-light py-5">
                     <img class="py-5" src="./assets/image/certificacion-frog.svg" height="150"  alt="">
-                    <p class="text-grey py-5">
+                    <p class="text-grey my-5 p-3">
                         Estamos certificados en la norma internacional
                         para agricultura sostenible,<strong><span class="text-secondary">  Rainforest Alliance </span></strong>,
                         por lo que nuestros clientes tienen la certeza de
@@ -124,7 +123,7 @@
 </section>
 
 <section style="background: url(./assets/image/bg-footer-ambiente1.png)center fixed no-repeat ">
-    <div class="wabe-button-producto">
+    <div class="wabe-top-ambiental">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
             <path fill="#FFFFFF" fill-opacity="1" d="M0,128L48,149.3C96,171,192,213,288,240C384,267,480,277,576,266.7C672,256,768,224,864,186.7C960,149,1056,107,1152,96C1248,85,1344,107,1392,117.3L1440,128L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z">
             </path>

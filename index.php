@@ -142,7 +142,7 @@ if($idioma=='en'){
                             <figure class="snip0015">
                                 <img src="./assets/image/AgroJPEG.jpg" class="card-img-top" alt="...">
                                 <figcaption>
-                                    <h2>Finca Agro</h2>
+                                    <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Agro</h2>
                                 </figcaption>
                             </figure>
                         </div>
@@ -152,7 +152,7 @@ if($idioma=='en'){
                             <figure class="snip0015">
                                 <img src="./assets/image/EsfuerzoJPEG.jpg" class="card-img-top" alt="...">
                                 <figcaption>
-                                    <h2>Finca Esfuerzo</h2>
+                                    <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Esfuerzo</h2>
                                 </figcaption>
                             </figure>
                         </div>
@@ -162,7 +162,7 @@ if($idioma=='en'){
                             <figure class="snip0015">
                                 <img src="./assets/image/VestaJPEG.jpg" class="card-img-top" alt="...">
                                 <figcaption>
-                                    <h2>Finca Vesta</h2>
+                                    <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Vesta</h2>
                                 </figcaption>
                             </figure>
                         </div>
@@ -172,7 +172,7 @@ if($idioma=='en'){
                             <figure class="snip0015">
                                 <img src="./assets/image/BristolJPEG.jpg" class="card-img-top" alt="...">
                                 <figcaption>
-                                    <h2>Finca Bristol</h2>
+                                    <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Bristol</h2>
                                 </figcaption>
                             </figure>
                         </div>

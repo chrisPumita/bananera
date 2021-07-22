@@ -11,7 +11,7 @@
 <?php include "./include/nav-static.php" ?>
 <header style="height: auto;">
 </header>
-<section style="background: url(./assets/image/headerSocial.png) top center no-repeat;" class="bg-img-bottom">
+<section style="background: url(./assets/image/headerSocial.png) top center no-repeat;" class="header-ajuste">
     <div class="container-sm d-flex justify-content-center align-items-center" style="height: 40vh;">
         <div class="row container-headers-parrafo">
             <div class="col">
@@ -183,7 +183,7 @@
         <div class="row">
             <div class="col">
                 <div class="text-white text-light py-5 text-center">
-                    <img src="./assets/image/equidadIcon.svg" width="100" alt="">
+                    <img src="./assets/image/Igualdad-green.svg" width="100" alt="">
                 </div>
             </div>
             <div class="col">

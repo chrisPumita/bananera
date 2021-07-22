@@ -12,7 +12,7 @@
 
 </head>
 <body>
-<header style="background: url(./assets/image/bg-notice-hectareas.jpg) top center no-repeat;">
+<header class="header-ajuste" style="background: url(./assets/image/bg-notice-hectareas.jpg) top center no-repeat;">
     <div class="overlay"></div>
 
     <?php include "./include/nav.php" ?>
@@ -46,7 +46,7 @@
                 <img src="./assets/notice/notice1/pin-notice.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
                 <h5 class="text-grey">Grupo Esfuerzo lanza nuevo sitio web para honrar
                     la confianza de sus clientes alrededor del mundo</h5>
-                <div class="date">JUN 2021</div>
+                <div class="date">JUL 2021</div>
                 <p class="text-grey">Como un esfuerzo alineado a su estrategia comercial y de la
                     mano de acciones para ampliar su presencia en el mercado
                     bananero global, Grupo Esfuerzo estrenó su nuevo sitio web, este
@@ -62,7 +62,7 @@
                 <h5 class="text-grey">Grupo esfuerzo participa en la
                     construcción de dique para evitar
                     inundaciones en comunidades del caribe</h5>
-                <div class="date">MAY 2021</div>
+                <div class="date">JUN 2021</div>
                 <p class="text-grey">Luego de que, en 2017, el Grupo Esfuerzo adquiriera una finca en
                     la comunidad de Bristol en Matina de Limón, sus directivos
                     tomaron consciencia de la necesidad que tenía la población de
@@ -79,7 +79,7 @@
                 <h5 class="text-grey">Grupo Esfuerzo amplía su presencia en el
                     mercado bananero con la adquisición de
                     dos fincas más</h5>
-                <div class="date">1 MAY 2016</div>
+                <div class="date">MAY 2021</div>
                 <p class="text-grey">LA ADQUISICIÓN DE DOS FINCAS MÁS <br>
                     En diciembre del 2020, el Grupo Esfuerzo, decidió ampliar su
                     presencia en el mercado bananero con la adquisición de dos
@@ -97,7 +97,7 @@
                 <h5 class="text-grey">Camiones de Grupo Esfuerzo ahora
                     cuentan con monitoreo por gps para
                     mayor seguridad</h5>
-                <div class="date">1 MAY 2016</div>
+                <div class="date">ABR 2021</div>
                 <p class="text-grey">Gracias a un Sistema de Posicionamiento Global (GPS), todos los
                     camiones del Grupo Esfuerzo cuentan con monitoreo en tiempo
                     real desde el 19 de mayo anterior.</p>

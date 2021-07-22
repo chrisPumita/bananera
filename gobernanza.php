@@ -11,7 +11,7 @@
 <?php include "./include/nav-static.php" ?>
 <header style="height: auto;">
 </header>
-<section style="background: url(./assets/image/headerGober.jpg) top center no-repeat;"  class="bg-img-bottom">
+<section style="background: url(./assets/image/headerGober.jpg) top center no-repeat;" class="header-ajuste">
     <div class="container-sm d-flex justify-content-center align-items-center" style="height: 40vh;">
         <div class="row container-headers-parrafo">
             <div class="col">
