@@ -406,7 +406,38 @@
     </div>
 </section>
 <section id="map">
-    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DLtvl3dQSV8XwM6xBEgUFvo7FPLvDCQ0" width="100%" height="540"></iframe>
+    <!-- RH: this is bootstrap 5 tabbed panel -->
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+        <li class="nav-item" role="presentation">
+            <a class="nav-link active" id="home-tab" data-bs-toggle="tab" href="#tab1" role="tab" aria-controls="home" aria-selected="true">Bananera El Esfuerzo</a>
+        </li>
+        <li class="nav-item" role="presentation">
+            <a class="nav-link" id="profile-tab" data-bs-toggle="tab" href="#tab2" role="tab" aria-controls="profile" aria-selected="false">Bananera Bristol</a>
+        </li>
+        <li class="nav-item" role="presentation">
+            <a class="nav-link" id="contact-tab" data-bs-toggle="tab" href="#tab3" role="tab" aria-controls="contact" aria-selected="false">AgroTuberculos</a>
+        </li>
+        <li class="nav-item" role="presentation">
+            <a class="nav-link" id="contact-tab" data-bs-toggle="tab" href="#tab4" role="tab" aria-controls="contact" aria-selected="false">Vesta</a>
+        </li>
+    </ul>
+    <div class="tab-content" id="myTabContent">
+        <div class="tab-pane fade show active" id="tab1" role="tabpanel" aria-labelledby="home-tab">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3899.6720266637394!2d-83.36783648876926!3d10.08080559523029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa73b20e227c68b%3A0x27291f4709409545!2sBananera%20El%20Esfuerzo!5e1!3m2!1ses!2smx!4v1626931662835!5m2!1ses!2smx" width="100%" height="540" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+        <div class="tab-pane fade" id="tab2" role="tabpanel" aria-labelledby="profile-tab">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4655.124942549033!2d-83.303452!3d10.0361269!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa73d5bb9329b31%3A0x272ae4518a7beb0b!2sBananera%20Bristol%20S.A.!5e1!3m2!1ses!2smx!4v1626931620385!5m2!1ses!2smx" width="100%" height="540" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+        <div class="tab-pane fade" id="tab3" role="tabpanel" aria-labelledby="contact-tab">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3904.9848510497095!2d-82.79922433937091!3d9.66034259542066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa651594f990b29%3A0xf7a94ae33c6aef8a!2sAgrotuberculos!5e1!3m2!1ses!2smx!4v1626931718367!5m2!1ses!2smx" width="100%" height="540" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+        <div class="tab-pane fade" id="tab4" role="tabpanel" aria-labelledby="contact-tab">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38383.63825047722!2d-83.0675096303943!3d9.716666354921152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa6fb13a90a2fdf%3A0x37540abfeaf28c6a!2sLim%C3%B3n%2C%20Vesta%2C%20Costa%20Rica!5e1!3m2!1ses!2smx!4v1626931739518!5m2!1ses!2smx" width="100%" height="540" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+    </div>
+
+
+
 </section>
 
 

@@ -36,6 +36,21 @@
                     <li>+506 4036 7160</li>
                     <li>+506 8702 7972</li>
                 </ul>
+                <a href="./">
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <img class="" src="./assets/image/l-spain.svg" width="30" class="rounded float-start text-primary line-text" alt="...">
+                    </div>
+                </a>
+                <a href="./en">
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <img class="" src="./assets/image/l-united-kingdom.svg" width="30" class="rounded float-start text-primary line-text" alt="...">
+                    </div>
+                </a>
+                <a href="./de">
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <img class="" src="./assets/image/l-germany.svg" width="30" class="rounded float-start text-primary line-text" alt="...">
+                    </div>
+                </a>
             </div>
         </div>
         <div class="row privacidad">
@@ -46,6 +61,7 @@
 
             </div>
             <div class="col-xl-4 col-md-4 col-sm-4 col-auto order-1 align-self-end ">
+
             </div>
             <div class="col-xl-4 col-md-4 col-sm-4 col-auto order-2 align-self-end mt-3 ">
                 <a href="#">

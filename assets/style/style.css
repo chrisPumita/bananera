@@ -51,6 +51,10 @@
     font-size: 2em;
 }
 
+.counter1, .counter2{
+    text-align: center;
+    font-size: 3em;
+}
 .mark-green{
     padding: 0em;
     background-color: var(--primary);
@@ -82,10 +86,10 @@
 }
 
 .wabe-backimg{
-    background-position-x: right !important;
-    background-position-y: bottom !important;
-    /* background-attachment: fixed; */
-    background-size: contain !important;
+    background-position-x: 25vh !important;
+    background-position-y: 100px !important;
+    /* background-attachment: fixed !important; */
+    background-size: cover !important;
     background-repeat: no-repeat !important;
 }
 
@@ -150,7 +154,7 @@
     padding-bottom: 32rem;
 }
 .wabe-button-producto {
-    margin-top: -15rem;
+    margin-top: -20rem;
 }
 .mark-vitamina{
     padding: 0em;
@@ -190,6 +194,11 @@
 .time-text:hover{
         color: var(--ligth);
         background-color: var(--primary);
+}
+
+.time-text:hover p{
+    color: var(--ligth);
+    background-color: var(--primary);
 }
 
 .time-responsive{
@@ -359,8 +368,36 @@ p {
 .header-ajuste{
     background-position-y: bottom !important;
 }
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: var(--second) !important;
+    background-color: var(--greyligth) !important;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #dee2e6;
+    /* left: 0 !important; */
+    /* right: 0 !important; */
+    /* display: flex; */
+    /* display: flex; */
+    /* flex-wrap: inherit; */
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.nav-link {
+    color: var(--primary) !important;
+}
+
+
 /*Shrinking for mobile*/
 @media (max-width: 768px) {
+
+    .wabe-backimg {
+        background-position-x: 10vh !important;
+        background-position-y: 10px !important;
+    }
 
     .form-again{
         width:100% !important;

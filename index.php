@@ -8,6 +8,11 @@ if($idioma=='en'){
 }else{
 }
 */
+//Header('Location: index.php?wlang=es');
+
+$thisPageLang = "es";
+include 'redireccionador.php';
+
 ?>
 <!doctype html>
 <?php $titulo = "Bienvenidos - Grupo Esfuerzo"; ?>
@@ -23,12 +28,12 @@ if($idioma=='en'){
     </head>
     <body>
 
-        <header style="background: url(./assets/image/bg-img1.png) top center no-repeat;">
+        <header style="background: url(./assets/image/min/bg-img1-min.png) top center no-repeat;">
             <div class="overlay"></div>
             <div class="video-container">
 
                 <div class="video-inline">
-                    <video class="video" poster="./assets/image/bg-img1.png"  playsinline="playsinline"  autoplay="autoplay" muted="muted" loop="loop" height="100%">
+                    <video class="video" poster="./assets/image/min/bg-img1-min.png"  playsinline="playsinline"  autoplay="autoplay" muted="muted" loop="loop" height="100%">
                         <source src="./assets/headerHome.mp4" type="video/mp4" />
                         Tu navegador no soporta video HTML5.
                     </video>
@@ -44,7 +49,7 @@ if($idioma=='en'){
             <div class="container d-flex justify-content-center align-items-center" style="height: 70vh;">
                 <div class="row container-headers">
                     <div class="col">
-                        <img src="./assets/image/circleHome.png" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
+                        <img src="./assets/image/min/circleHome-min.png" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
                     </div>
                     <div class="col welcome-title">
                         <div class="row">
@@ -59,8 +64,8 @@ if($idioma=='en'){
                         </picture>
                         <div class="py-3">
                             <picture>
-                                <img class="certificates" src="./assets/image/certificado-en-proceso.svg" height="35" class="" alt="carbono natural">
-                                <img class="certificates" src="./assets/image/certificado-global.svg" height="35" class="" alt="Global G.A.P.">
+                                <img class="certificates" src="./assets/image/certificado-en-proreso-whitte.svg" height="35" class="" alt="carbono natural">
+                                <img class="certificates" src="./assets/image/certificago-global-whitte.svg" height="35" class="" alt="Global G.A.P.">
                                 <img class="certificates" src="./assets/image/certificacion-frog.svg" height="35" class="" alt="...">
                             </picture>
                         </div>
@@ -68,7 +73,7 @@ if($idioma=='en'){
                     </div>
                 </div>
             </div>
-            <div class="circule-back-header" style="background: url('./assets/image/bg-img1.png')">
+            <div class="circule-back-header" style="background: url('./assets/image/min/bg-img1-min.png')">
             </div>
             <div class="wabe">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -81,7 +86,7 @@ if($idioma=='en'){
                 <div class="container d-flex justify-content-center align-items-center">
                     <div class="row">
                         <div class="col">
-                            <img src="./assets/image/banana.png" class="rounded mx-auto d-block platano img-gost" alt="platano">
+                            <img src="./assets/image/min/banana-min.png" class="rounded mx-auto d-block platano img-gost" alt="platano">
                         </div>
                         <div class="col welcome-title">
                             <h2 class="text-primary">Lo que hacemos</h2>
@@ -106,13 +111,18 @@ if($idioma=='en'){
                         <img src="./assets/image/cultivo.svg" class="rounded mx-auto d-block" width="100"  alt="...">
                     </div>
                     <div class="col p-4">
+
                         <span class="counts">màs de</span>
-                        <h1 class="text-primary" data-toggle="counterUp">500</h1>
+                        <div class="count-up">
+                            <p class="text-primary  counter1 counter-count">500</p>
+                        </div>
                         <span class="counts">colaboradores(as)</span>
                     </div>
                     <div class="col p-4">
-                        <span> </span>
-                        <h1 class="text-primary" data-toggle="counterUp">960</h1>
+                        <span class="text-light"> .</span>
+                        <div class="count-up">
+                            <p class="text-primary  counter1 counter-count">960</p>
+                        </div>
                         <span class="counts">hectáreas</span>
                     </div>
                 </div>
@@ -140,7 +150,7 @@ if($idioma=='en'){
                     <div class="col finca-box">
                         <div class="card h-100 ">
                             <figure class="snip0015">
-                                <img src="./assets/image/AgroJPEG.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/image/min/AgroJPEG-min.jpg" class="card-img-top" alt="...">
                                 <figcaption>
                                     <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Agro</h2>
                                 </figcaption>
@@ -249,6 +259,50 @@ if($idioma=='en'){
                 </div>
             </div>
         </section>
+
+        <!-- Modal -->
+
+        <!-- Modal HTML -->
+<?php
+if (!isset($_COOKIE["clang"])){?>
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Select your lenguage</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row row-cols-7 text-center  g-2 py-5  hover14 column">
+                            <div class="col finca-box">
+                                <a href="index.php?wlang=es">
+                                    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png" width="150" alt=""></figure>
+                                </a>
+                            </div>
+                            <div class="col finca-box">
+                                <a href="./en">
+                                    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/2560px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png" alt="" width="150"></figure>
+                                </a>
+                            </div>
+                            <div class="col finca-box">
+                                <a href="./de">
+                                    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png" width="150" alt=""></figure>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            $( document ).ready(function() {
+                $('#myModal').modal('toggle')
+            });
+        </script>
+
+    <?php } ?>
         <?php include_once "./include/footer.php" ?>
         <script type="text/javascript">
             // jQuery counterUp
@@ -256,8 +310,26 @@ if($idioma=='en'){
                 delay: 15,
                 time: 2500
             });
+
+
+            $('.counter-count').each(function () {
+                $(this).prop('Counter',0).animate({
+                    Counter: $(this).text()
+                }, {
+
+                    //chnage count up speed here
+                    duration: 4000,
+                    easing: 'swing',
+                    step: function (now) {
+                        $(this).text(Math.ceil(now));
+                    }
+                });
+            });
+
         </script>
     </body>
+
+
 </html>
 <?php include_once "./include/js.php";?>
 <script src="./include/js-menu.js"></script>

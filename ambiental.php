@@ -28,13 +28,13 @@
     <div class="container" style="height: 25vh;">
         <div class="row">
             <div class="col-4 p-3 text-end">
-                <img class="img-responsive imgBoxSocial" src="./assets/image/ambiental-1.jpg" alt="">
+                <img class="img-responsive imgBoxSocial" src="./assets/image/ods-7-box.svg" alt="">
             </div>
             <div class="col-4 p-3 text-center">
-                <img  class="img-responsive imgBoxSocial" src="./assets/image/ambiental-2.jpg"  alt="">
+                <img  class="img-responsive imgBoxSocial" src="./assets/image/ods-12-box.svg"  alt="">
             </div>
             <div class="col-4 p-3 text-start">
-                <img class="img-responsive imgBoxSocial" src="./assets/image/ambiental-3.jpg" alt="">
+                <img class="img-responsive imgBoxSocial" src="./assets/image/ods-15-box.svg" alt="">
             </div>
         </div>
     </div>
@@ -52,7 +52,7 @@
             <div class="col">
                 <div class="container-ball">
                     <div class="div-img" >
-                        <img class="img-ball" src="./assets/image/banana-circle.png" title="Foto5" alt="Foto5">
+                        <img class="img-ball" src="./assets/image/circle-celdas-solar.png" title="Foto5" alt="Foto5">
                         <div class="text"></div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
     <div class="container-sm d-flex justify-content-center align-items-center py-5">
         <div class="row">
             <h3 class="mb-4 py-3 text-secondary text-center">Producción y
-                <span class="text-primary">consumo responsable</span></h3>
+                <mark class="mark-vitamina">consumo responsable</mark></h3>
             <div class="col  text-center">
                 <div class="text-white text-light py-5">
                     <img class="py-5" src="./assets/image/certificado-en-proceso.svg" height="150" alt="">

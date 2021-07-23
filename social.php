@@ -30,13 +30,13 @@
     <div class="container" style="height: 25vh;">
         <div class="row">
             <div class="col-4 p-3 text-end">
-                <img class="img-responsive imgBoxSocial" src="./assets/image/social-1.jpg" alt="">
+                <img class="img-responsive imgBoxSocial" src="./assets/image/ods-4-box.svg" alt="">
             </div>
             <div class="col-4 p-3 text-center">
-                <img  class="img-responsive imgBoxSocial" src="./assets/image/social-2.jpg"  alt="">
+                <img  class="img-responsive imgBoxSocial" src="./assets/image/ods-8-box.svg"  alt="">
             </div>
             <div class="col-4 p-3 text-start">
-                <img class="img-responsive imgBoxSocial" src="./assets/image/social-3.jpg" alt="">
+                <img class="img-responsive imgBoxSocial" src="./assets/image/ods-11-box.svg" alt="">
             </div>
         </div>
     </div>
@@ -87,7 +87,7 @@
             <div class="col">
                 <div class="container-ball">
                     <div class="div-img" >
-                        <img class="img-ball" src="./assets/image/banana-circle.png" title="Foto5" alt="Foto5">
+                        <img class="img-ball" src="./assets/image/circule-school-social.png" title="Foto5" alt="Foto5">
                         <div class="text"></div>
                     </div>
                 </div>
