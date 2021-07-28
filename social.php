@@ -11,7 +11,7 @@
 <?php include "./include/nav-static.php" ?>
 <header style="height: auto;">
 </header>
-<section style="background: url(./assets/image/headerSocial.png) top center no-repeat;" class="header-ajuste">
+<section style="background: url(./assets/image/min/headerSocial-min.png) top center no-repeat;" class="header-ajuste">
     <div class="container-sm d-flex justify-content-center align-items-center" style="height: 40vh;">
         <div class="row container-headers-parrafo">
             <div class="col">
@@ -87,7 +87,7 @@
             <div class="col">
                 <div class="container-ball">
                     <div class="div-img" >
-                        <img class="img-ball" src="./assets/image/circule-school-social.png" title="Foto5" alt="Foto5">
+                        <img class="img-ball" src="./assets/image/min/circule-school-social-min.png" title="Foto5" alt="Foto5">
                         <div class="text"></div>
                     </div>
                 </div>
@@ -203,7 +203,7 @@
     <div class="container-fuid">
         <div class="contPano imagenPano2 d-block d-sm-block d-md-none">
         </div>
-        <img class="d-none d-sm-none d-md-block" src="./assets/image/houses-wabe.png" width="100%" alt="">
+        <img class="d-none d-sm-none d-md-block" src="./assets/image/min/houses-wabe-min.png" width="100%" alt="">
     </div>
     <div class="container d-flex justify-content-center align-items-center py-5">
         <div class="row d-flex justify-content-center align-items-center">
@@ -243,7 +243,7 @@
             </div>
             <div class="col">
                 <figure class="bg-greyligth">
-                    <img src="./assets/image/fundadores.png" width="300" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
+                    <img src="./assets/image/min/fundadores-min.png" width="300" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
                     <figcaption class="text-center text-grey py-5 small">Fotografía de los fundadores: Don Eduardo Gómez y Doña Beatriz</figcaption>
                 </figure>
                 </div>

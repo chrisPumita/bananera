@@ -11,7 +11,7 @@
 
 </head>
 <body>
-<header style="background: url(./assets/image/header-producto1.jpg) top center no-repeat;">
+<header style="background: url(./assets/image/min/header-producto1-min.jpg) top center no-repeat;">
     <div class="overlay"></div>
 
     <?php include "./include/nav.php" ?>
@@ -36,7 +36,7 @@
             </div>
         </div>
     </div>
-    <div class="circule-back-header" style="background: url('./assets/image/bg-img1.png')">
+    <div class="circule-back-header" style="background: url('./assets/image/min/bg-img1-min.png')">
     </div>
     <div class="wabe">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -74,11 +74,11 @@
                 </div>
             </div>
             <div class="col">
-                <img src="./assets/image/banana-circle.png" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
+                <img src="./assets/image/min/banana-circle-min.png" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
             </div>
         </div>
     </div>
-    <div class="container-fluid img-producto-bk" style="background: url(./assets/image/pano-2.png) no-repeat; background-size:auto;">
+    <div class="container-fluid img-producto-bk" style="background: url(./assets/image/min/pano-2-min.png) no-repeat; background-size:auto;">
         <div class="container-sm bg-mg-producto">
             <div class="row">
                 <div class="col d-none d-sm-none d-md-block">
@@ -87,7 +87,7 @@
                     <div class="container-vitamina">
                         <div class="col d-flex cita-world">
                             <div class="col-2">
-                                <img class="comilla" src="./assets/image/comilla.png" height="auto" width="150" alt="">
+                                <img class="comilla" src="./assets/image/min/comilla-min.png" height="auto" width="150" alt="">
                             </div>
                             <div class="col-auto text-secondary text-mje cite" >
                                 <h2 class="mje-2">Contiene unos 400mg de</h2>
@@ -138,10 +138,10 @@
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="./assets/image/slider-1.png" class="d-block w-100" alt="...">
+                            <img src="./assets/image/min/slider-1-min.png" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="./assets/image/slider-2.png" class="d-block w-100" alt="...">
+                            <img src="./assets/image/min/slider-2-min.png" class="d-block w-100" alt="...">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

@@ -160,7 +160,7 @@ include 'redireccionador.php';
                     <div class="col finca-box">
                         <div class="card h-100">
                             <figure class="snip0015">
-                                <img src="./assets/image/EsfuerzoJPEG.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/image/min/EsfuerzoJPEG-min.jpg" class="card-img-top" alt="...">
                                 <figcaption>
                                     <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Esfuerzo</h2>
                                 </figcaption>
@@ -170,7 +170,7 @@ include 'redireccionador.php';
                     <div class="col finca-box">
                         <div class="card h-100">
                             <figure class="snip0015">
-                                <img src="./assets/image/VestaJPEG.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/image/min/VestaJPEG-min.jpg" class="card-img-top" alt="...">
                                 <figcaption>
                                     <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Vesta</h2>
                                 </figcaption>
@@ -180,7 +180,7 @@ include 'redireccionador.php';
                     <div class="col finca-box">
                         <div class="card h-100 ">
                             <figure class="snip0015">
-                                <img src="./assets/image/BristolJPEG.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/image/min/BristolJPEG-min.jpg" class="card-img-top" alt="...">
                                 <figcaption>
                                     <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Bristol</h2>
                                 </figcaption>
@@ -201,16 +201,16 @@ include 'redireccionador.php';
                     </div>
                 </div>
             </div>
-            <div class="container-fluid" style="background: url(./assets/image/globe.png) no-repeat; background-size:cover;">
+            <div class="container-fluid" style="background: url(./assets/image/min/globe-min.png) no-repeat; background-size:cover;">
                 <div class="container-sm bg-mg">
                     <div class="row">
-                        <img class="world" src="./assets/image/world.png" alt="">
+                        <img class="world" src="./assets/image/min/world-min.png" alt="">
                     </div>
                     <div class="row">
                         <div class="container-experience">
                             <div class="col-6 d-flex cita-world">
                                 <div class="col-2">
-                                    <img class="comilla" src="./assets/image/comilla.png" height="auto" width="150" alt="">
+                                    <img class="comilla" src="./assets/image/min/comilla-min.png" height="auto" width="150" alt="">
                                 </div>
                                 <div class="col-10 text-light text-mje cite" >
                                     <h2 class="mje-2">Mas de <span class="text-primary"><strong>30 años de experiencia</strong></span></h2>
@@ -252,7 +252,7 @@ include 'redireccionador.php';
                     </div>
                 </div>
             </div>
-            <div class="container-fluid bg-down" style="background: url(./assets/image/working.png) no-repeat;">
+            <div class="container-fluid bg-down" style="background: url(./assets/image/min/working-min.png) no-repeat;">
                 <div class="col-6">
                 </div>
                 <div class="col-6 bh">
@@ -276,7 +276,7 @@ if (!isset($_COOKIE["clang"])){?>
                     <div class="modal-body">
                         <div class="row row-cols-7 text-center  g-2 py-5  hover14 column">
                             <div class="col finca-box">
-                                <a href="index.php?wlang=es">
+                                <a href="./index.php?wlang=es">
                                     <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png" width="150" alt=""></figure>
                                 </a>
                             </div>

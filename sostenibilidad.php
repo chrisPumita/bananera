@@ -11,7 +11,7 @@
 
 </head>
 <body>
-<header style="background: url(./assets/image/blue-header.jpg) top center no-repeat;">
+<header style="background: url(./assets/image/min/blue-header-min.jpg) top center no-repeat;">
     <div class="overlay"></div>
 
     <?php include "./include/nav.php" ?>
@@ -31,7 +31,7 @@
             </div>
         </div>
     </div>
-    <div class="circule-back-header" style="background: url('./assets/image/bg-img1.png')">
+    <div class="circule-back-header" style="background: url('./assets/image/min/bg-img1-min.png')">
     </div>
     <div class="wabe">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -46,7 +46,7 @@
             <div class="col">
                 <div class="container-ball">
                     <div class="div-img" >
-                        <img class="img-ball" src="./assets/image/circule-workin-female.png" title="Foto5" alt="Foto5">
+                        <img class="img-ball" src="./assets/image/min/circule-workin-female-min.png" title="Foto5" alt="Foto5">
                         <div class="text"></div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                             ODS
                         </h3>
                     </div>
-                    <img src="./assets/image/bg-red.ods.jpg" alt="">
+                    <img src="./assets/image/min/bg-red.ods-min.jpg">
                 </div>
             </div>
         </div>
@@ -127,13 +127,13 @@
     <div class="container-sm py-5">
         <div class="col align-items-center">
             <div class="row">
-                <video width=100%  height=100% controls poster="./assets/image/bg-img1.png">
+                <video width=100%  height=100% controls poster="./assets/image/min/bg-img1-min.png">
                     <source src="./assets/bg-video.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
     </div>
-    <div class="container-fluid img-producto-bk py-5 focus-img-ok" style="background: url(./assets/image/people-ok.png) no-repeat; background-size:cover;">
+    <div class="container-fluid img-producto-bk py-5 focus-img-ok" style="background: url(./assets/image/min/people-ok-min.png) no-repeat; background-size:cover;">
         <div class="container-sm bg-mg-producto">
             <div class="row py-3">
                 <div class="col text-center">
@@ -154,7 +154,7 @@
                             <div class="position-absolute text-center">
                                 <h3 class="text-light m-0">SOCIAL</h3>
                             </div>
-                            <img src="./assets/image/bg-red.ods.jpg" width="200" alt="">
+                            <img src="./assets/image/min/bg-red.ods-min.jpg" width="200" alt="">
                         </div>
                     </a>
                 </div>
@@ -167,7 +167,7 @@
                             <div class="position-absolute text-center">
                                 <h3 class="text-light m-0">GOBERNANZA</h3>
                             </div>
-                            <img src="./assets/image/bg-blue-rd.jpg" width="200" alt="">
+                            <img src="./assets/image/min/bg-red.ods-min.jpg" width="200" alt="">
                         </div>
                     </a>
                 </div>
@@ -181,7 +181,7 @@
                             <div class="position-absolute text-center">
                                 <h3 class="text-light m-0">AMBIENTAL</h3>
                             </div>
-                            <img src="./assets/image/bg-rd-cr.jpg" width="200" alt="">
+                            <img src="./assets/image/min/bg-rd-cr-min.jpg" width="200" alt="">
                         </div>
                     </a>
                 </div>

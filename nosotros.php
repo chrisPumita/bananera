@@ -41,33 +41,41 @@
                     </p>
                 </div>
                 <div class="col-2 time-text">
-                    <h5>1989</h5>
+                    <h5>1992</h5>
                     <p>
-                        Compra de tierras para desarrollo de finca.
+                        Venta de primer caja exportada.
                     </p>
                 </div>
                 <div class="col-2 time-text">
-                    <h5>1989</h5>
+                    <h5>2011</h5>
                     <p>
-                        Compra de tierras para desarrollo de finca.
+                        Incursión en venta a
+                        clientes directos
+                        (supermercados).
                     </p>
                 </div>
                 <div class="col-2 time-text">
-                    <h5>1989</h5>
+                    <h5>2012</h5>
                     <p>
-                        Compra de tierras para desarrollo de finca.
+                        Proyecto de
+                        urbanización
+                        “El Esfuerzo”.
                     </p>
                 </div>
                 <div class="col-2 time-text">
-                    <h5>1989</h5>
+                    <h5>2017</h5>
                     <p>
-                        Compra de tierras para desarrollo de finca.
+                        Crecimiento del
+                        50% con compra de
+                        segunda finca.
                     </p>
                 </div>
                 <div class="col-2 time-text">
-                    <h5>1989</h5>
+                    <h5>2020</h5>
                     <p>
-                        Compra de tierras para desarrollo de finca.
+                        Crecimiento del 60%
+                        con adquisición de
+                        tercera y cuarta finca.
                     </p>
                 </div>
             </div>
@@ -115,7 +123,7 @@
         <div class="contPano imagenPano d-block d-sm-block d-md-none">
 
         </div>
-        <img class="d-none d-sm-none d-md-block" src="./assets/image/people-wabe.png" width="100%" alt="">
+        <img class="d-none d-sm-none d-md-block" src="./assets/image/min/people-wabe-min.png" width="100%" alt="">
     </div>
 
     <div class="container-sm p-5">
@@ -177,31 +185,88 @@
     <div class="container-sm p-5">
         <div class="row">
             <div class="col podcast">
-                <p>
-                    Somos una empresa caracterizada por su ética, compromiso y confiabilidad, que se guía por las buenas prácticas de responsabilidad social y ambiental.
+                <p class="text-grey">
+                    Todos soñamos con dedicar nuestra vida a aquello que
+                    amamos; hacer un impacto en el mundo y dejar un legado.
+                    Por eso, muchos hombres deciden crear su propio negocio,
+                    pero pocos, como don Eduardo Gómez, lo convierten en un
+                    grupo empresarial exitoso, reconocido internacionalmente y
+                    sostenible durante más de 30 años, y contando…
                 </p>
-                <p>
-                    Trabajamos por ser el proveedor referente a nivel mundial del mejor banano costarricense, siempre bajo estrictos estándares de sostenibilidad y en armonía con el planeta, priorizando el bienestar de nuestros trabajadores, sus familias y comunidades.
+                <p class="text-grey">
+                    Y es que, sin duda alguna, este visionario, ha dedicado toda su
+                    vida al banano. Empezó casi siendo un niño, en 1948, como
+                    mensajero en la oficina de contabilidad de la empresa
+                    Chiquita Brands donde trabajaba su padre.
                 </p>
-                <p>
-                    Además, aspiramos a expandir nuestra oferta a tubérculos y piña. Nosotros no soñamos con un planeta mejor. Nosotros lo construimos al ofrecer soluciones locales para necesidades globales, a través de la producción de alimentos y gracias al apoyo de socios, colaboradores, proveedores, clientes y consumidores.
+                <p class="text-grey">
+                    Desde ese humilde puesto, dedicaba su tiempo libre a
+                    prepararse en contaduría y a sacar la secundaria por
+                    correspondencia. Mientras otros muchachos de su edad
+                    quizás jugaban al fútbol o andaban en bicicleta, Eduardo ya
+                    se alistaba para una carrera en finanzas, administración y
+                    hasta tecnología de la información, puestos que desempeñó
+                    con eficiencia, excelencia y esfuerzo durante sus 40 años en
+                    Chiquita.
                 </p>
-                <p>
-                    ¡Hagamos negocios y descubra cómo el banano costarricense puede cambiar el mundo!
+                <p class="text-grey">
+                    ¿Lo visualiza, joven y delgado, soñando con exportar su
+                    propia marca de bananos al resto del mundo?
+                    Por esa razón es que, desde antes de emprender, Eduardo
+                    Gómez, decidió que le pondría a su anhelada empresa el
+                    nombre de El Esfuerzo “para que reflejara el esfuerzo por
+                    tener algo propio después de ser empleado de una empresa
+                    bananera por muchos años”.
+                </p>
+                <p class="text-grey">
+                    Así fue como en el 88 compró las primeras 230 hectáreas en
+                    28 Millas de Bataán de Matina. Dos años después invirtió
+                    todos sus ahorros y consiguió un préstamo bancario que lo
+                    convertiría en empresario, para eso hasta hipotecó su propia
+                    casa.
                 </p>
             </div>
             <div class="col podcast">
-                <p>
-                    Somos una empresa caracterizada por su ética, compromiso y confiabilidad, que se guía por las buenas prácticas de responsabilidad social y ambiental.
+                <p class="text-grey">
+                    Pero El Esfuerzo no se transformaría en empresa hasta que,
+                    como pasa con los mejores líderes corporativos del mundo,
+                    enfrentara su primera crisis…
+                    El 22 de abril de 1991, un terremoto de nada más y nada
+                    menos que 7,7 grados en la escala sismológica de magnitud
+                    de momento sacudió Costa Rica y a la zona fronteriza de
+                    Panamá.
                 </p>
-                <p>
-                    Trabajamos por ser el proveedor referente a nivel mundial del mejor banano costarricense, siempre bajo estrictos estándares de sostenibilidad y en armonía con el planeta, priorizando el bienestar de nuestros trabajadores, sus familias y comunidades.
+                <p class="text-grey">
+                    Este evento sísmico casi destruye por completo todo lo
+                    avanzado para El Esfuerzo y sumió a la provincia de Limón en
+                    un ambiente espectral y de angustia mientras en las noticias
+                    se hablaba de decenas de muertos y heridos.
                 </p>
-                <p>
-                    Además, aspiramos a expandir nuestra oferta a tubérculos y piña. Nosotros no soñamos con un planeta mejor. Nosotros lo construimos al ofrecer soluciones locales para necesidades globales, a través de la producción de alimentos y gracias al apoyo de socios, colaboradores, proveedores, clientes y consumidores.
+                <p class="text-grey">
+                    ¿Cómo superar eso cuando se está empezando? ¿Cómo no
+                    renunciar? Pues haciendo lo que don Eduardo sabe bien, dar
+                    su mayor esfuerzo. ¿Su motivación? Construir un patrimonio
+                    para su familia y hacer un aporte al país.
                 </p>
-                <p>
-                    ¡Hagamos negocios y descubra cómo el banano costarricense puede cambiar el mundo!
+                <p class="text-grey">
+                    Ese, el esfuerzo, junto a la confiabilidad, el compromiso, la
+                    calidad y la responsabilidad social y ambiental son los valores
+                    que marcan su liderazgo hasta el día de hoy, como
+                    empresario y como miembro de la Junta Directiva de la
+                    Corporación Bananera Nacional (CORBANA).
+                </p>
+                <p class="text-grey">
+                    Esos también son los valores que inculcó a su hijo Jaime y a
+                    su nieto Roberto, quienes ahora comparten la dirección de la
+                    empresa.
+                </p>
+                <p class="text-grey">
+                    Ellos, y todas las personas que integran El Esfuerzo, han
+                    abrazado esta filosofía a través de una estrategia de
+                    Responsabilidad Social Empresarial que inició mucho antes
+                    de que las Naciones Unidas diseñara su agenda 2030 pero
+                    que también busca garantizar vivienda digna, acceso a la
+                    educación y la salud, y el cuidado del medio ambiente.
                 </p>
             </div>
         </div>

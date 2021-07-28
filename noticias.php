@@ -12,7 +12,7 @@
 
 </head>
 <body>
-<header class="header-ajuste" style="background: url(./assets/image/bg-notice-hectareas.jpg) top center no-repeat;">
+<header class="header-ajuste" style="background: url(./assets/image/min/bg-notice-hectareas-min.jpg) top center no-repeat;">
     <div class="overlay"></div>
 
     <?php include "./include/nav.php" ?>
@@ -43,7 +43,7 @@
         <div class="timeline-item">
             <div class="timeline-img"></div>
             <div class="timeline-content js--fadeInLeft">
-                <img src="./assets/notice/notice1/pin-notice.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
+                <img src="./assets/notice/notice1/pin-notice-min.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
                 <h5 class="text-grey">Grupo Esfuerzo lanza nuevo sitio web para honrar
                     la confianza de sus clientes alrededor del mundo</h5>
                 <div class="date">JUL 2021</div>
@@ -58,7 +58,7 @@
         <div class="timeline-item">
             <div class="timeline-img"></div>
             <div class="timeline-content js--fadeInRight">
-                <img src="./assets/notice/notice2/pin-notice.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
+                <img src="./assets/notice/notice2/pin-notice-min.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
                 <h5 class="text-grey">Grupo esfuerzo participa en la
                     construcción de dique para evitar
                     inundaciones en comunidades del caribe</h5>
@@ -75,7 +75,7 @@
         <div class="timeline-item">
             <div class="timeline-img"></div>
             <div class="timeline-content js--fadeInLeft">
-                <img src="./assets/notice/notice3/pin-notice.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
+                <img src="./assets/notice/notice3/pin-notice-min.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
                 <h5 class="text-grey">Grupo Esfuerzo amplía su presencia en el
                     mercado bananero con la adquisición de
                     dos fincas más</h5>
@@ -93,7 +93,7 @@
             <div class="timeline-img"></div>
 
             <div class="timeline-content js--fadeInRight">
-                <img src="./assets/notice/notice4/pin-notice.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
+                <img src="./assets/notice/notice4/pin-notice-min.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
                 <h5 class="text-grey">Camiones de Grupo Esfuerzo ahora
                     cuentan con monitoreo por gps para
                     mayor seguridad</h5>
