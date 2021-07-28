@@ -36,17 +36,17 @@
                     <li>+506 4036 7160</li>
                     <li>+506 8702 7972</li>
                 </ul>
-                <a href="./">
+                <a href="../">
                     <div class="btn-group" role="group" aria-label="Basic example">
                         <img class="" src="./assets/image/l-spain.svg" width="30" class="rounded float-start text-primary line-text" alt="...">
                     </div>
                 </a>
-                <a href="./en">
+                <a href="../en">
                     <div class="btn-group" role="group" aria-label="Basic example">
                         <img class="" src="./assets/image/l-united-kingdom.svg" width="30" class="rounded float-start text-primary line-text" alt="...">
                     </div>
                 </a>
-                <a href="./de">
+                <a href="./">
                     <div class="btn-group" role="group" aria-label="Basic example">
                         <img class="" src="./assets/image/l-germany.svg" width="30" class="rounded float-start text-primary line-text" alt="...">
                     </div>
