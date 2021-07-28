@@ -20,7 +20,7 @@
                     <a class="dropdown-toggle nav-link text-light" href="#" id="mdrop" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         SOSTENIBILIDAD
                     </a>
-                    <ul class="dropdown-menu dropdown-menu-dark postition-menu" aria-labelledby="mdrop">
+                    <ul class="dropdown-menu dropdown-menu postition-menu" aria-labelledby="mdrop">
                         <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Compromisos</a></li>
                         <div class="dropdown-divider"></div>
                         <li class="link-menu"><a class="dropdown-item" href="./social.php">Social</a></li>

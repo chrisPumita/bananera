@@ -12,7 +12,7 @@
 </head>
 <body>
 <header style="background: url(./assets/image/min/blue-header-min.jpg) top center no-repeat;">
-    <div class="overlay"></div>
+    <div class=""></div>
 
     <?php include "./include/nav.php" ?>
 

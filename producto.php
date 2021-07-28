@@ -52,17 +52,17 @@
                 <div class="row">
                     <div class="text-secondary">
                         <h3 class="mb-3">La variedad Cavedish</h3>
-                        <p>
+                        <p class="text-grey">
                             En el mundo hay más de mil variedades de
                             banano. De hecho, es un alimento básico esencial
                             en muchos países y cumple un rol fundamental
                             para la seguridad alimentaria.
                         </p>
-                        <p>
+                        <p class="text-grey">
                             En Grupo Esfuerzo nos especializados en producir
                             específicamente banano Cavendish.
                         </p>
-                        <p>
+                        <p class="text-grey">
                             De acuerdo con la Organización de las Naciones
                             Unidas para la Alimentación y la Agricultura (FAO),
                             esta variedad representa el 95% de todos los

@@ -37,7 +37,7 @@
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             SOSTENIBILIDAD
                         </a>
-                        <ul class="dropdown-menu dropdown-menu-dark postition-menu" aria-labelledby="navbarDarkDropdownMenuLink">
+                        <ul class="dropdown-menu dropdown-menu postition-menu" aria-labelledby="navbarDarkDropdownMenuLink">
                             <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Compromisos</a></li>
                             <div class="dropdown-divider"></div>
                             <li class="link-menu"><a class="dropdown-item" href="#">Social</a></li>

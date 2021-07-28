@@ -742,18 +742,20 @@ header .overlay {
 }
 .menu li a {
     font-size: 14px;
-    color: var(--ligth);
+    color: var(--second);
     text-decoration: none;
     transition: all 0.45s;
 }
 .menu li:hover {
-    border-bottom: 1px solid var(--second) !important;
+    border-bottom: 1px solid var(--primary) !important;
     -webkit-animation: line 1s;
     animation: line 1s;
 }
 .menu li:hover a {
     color: var(--primary) !important;
 }
+
+
 .menu li:not(:last-child) {
     margin-right: 10px;
 }

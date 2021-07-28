@@ -24,9 +24,9 @@
                 Mayo 2021
                 </p>
                 <p class="text-grey notice-footer">
-                    <a class="linkfooter" href="#">Nuestro compromiso</a>
+                    <a class="linkfooter" href="#">Nuestra responsabilidad </a>
                 <hr class="hr-div-notice">
-                Mayo 2021
+                Junio 2021
                 </p>
             </div>
             <div class="col-xl-4 col-md-4 col-sm-4 col-12">
