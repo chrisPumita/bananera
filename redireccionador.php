@@ -35,10 +35,10 @@ if (isset($_GET['wlang'])){
                     Header('Location: ./en');
                     break;
                 case "es":
-                    Header('Location: ./');
+                    Header('Location: ./?wlang=es');
                     break;
                 default:
-                    Header('Location: ./');
+                    Header('Location: ./?wlang=es');
                     break;
             }
         }
