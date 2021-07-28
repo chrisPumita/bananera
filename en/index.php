@@ -12,7 +12,7 @@
     </head>
     <body>
 
-        <header style="background: url(./assets/image/min/bg-img1-min.png) top center no-repeat;">
+        <header style="background: url(../assets/image/min/bg-img1-min.png) top center no-repeat;">
             <div class="overlay"></div>
             <div class="video-container">
 
@@ -44,20 +44,20 @@
                             </div>
                         </div>
                         <picture>
-                            <img src="./assets/image/line-green.svg" width="200" class="rounded float-start text-primary line-header" alt="...">
+                            <img src="../assets/image/line-green.svg" width="200" class="rounded float-start text-primary line-header" alt="...">
                         </picture>
                         <div class="py-3">
                             <picture>
-                                <img class="certificates" src="./assets/image/certificado-en-proreso-whitte.svg" height="35" class="" alt="carbono natural">
-                                <img class="certificates" src="./assets/image/certificago-global-whitte.svg" height="35" class="" alt="Global G.A.P.">
-                                <img class="certificates" src="./assets/image/certificacion-frog.svg" height="35" class="" alt="...">
+                                <img class="certificates" src="../assets/image/certificado-en-proreso-whitte.svg" height="35" class="" alt="carbono natural">
+                                <img class="certificates" src="../assets/image/certificago-global-whitte.svg" height="35" class="" alt="Global G.A.P.">
+                                <img class="certificates" src="../assets/image/certificacion-frog.svg" height="35" class="" alt="...">
                             </picture>
                         </div>
 
                     </div>
                 </div>
             </div>
-            <div class="circule-back-header" style="background: url('./assets/image/min/bg-img1-min.png')">
+            <div class="circule-back-header" style="background: url('../assets/image/min/bg-img1-min.png')">
             </div>
             <div class="wabe">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -70,7 +70,7 @@
                 <div class="container d-flex justify-content-center align-items-center">
                     <div class="row">
                         <div class="col">
-                            <img src="./assets/image/min/banana-min.png" class="rounded mx-auto d-block platano img-gost" alt="platano">
+                            <img src="../assets/image/min/banana-min.png" class="rounded mx-auto d-block platano img-gost" alt="platano">
                         </div>
                         <div class="col welcome-title">
                             <h2 class="text-primary">Lo que hacemos</h2>
@@ -92,7 +92,7 @@
             <div class="container-sm">
                 <div class="row text-center text-grey py-4 contador-cont">
                     <div class="col p-4">
-                        <img src="./assets/image/cultivo.svg" class="rounded mx-auto d-block" width="100"  alt="...">
+                        <img src="../assets/image/cultivo.svg" class="rounded mx-auto d-block" width="100"  alt="...">
                     </div>
                     <div class="col p-4">
 
@@ -115,9 +115,9 @@
             <div class="container-sm">
                 <div class="row text-center text-grey py-5 contador-cont">
                     <picture>
-                        <img class="certificates" src="./assets/image/certificado-en-proceso.svg" height="60" class="" alt="carbono natural">
-                        <img class="certificates" src="./assets/image/certificado-global.svg" height="60" class="" alt="Global G.A.P.">
-                        <img class="certificates" src="./assets/image/certificacion-frog.svg" height="60" class="" alt="...">
+                        <img class="certificates" src="../assets/image/certificado-en-proceso.svg" height="60" class="" alt="carbono natural">
+                        <img class="certificates" src="../assets/image/certificado-global.svg" height="60" class="" alt="Global G.A.P.">
+                        <img class="certificates" src="../assets/image/certificacion-frog.svg" height="60" class="" alt="...">
                     </picture>
                 </div>
             </div>
@@ -185,16 +185,16 @@
                     </div>
                 </div>
             </div>
-            <div class="container-fluid" style="background: url(./assets/image/min/globe-min.png) no-repeat; background-size:cover;">
+            <div class="container-fluid" style="background: url(../assets/image/min/globe-min.png) no-repeat; background-size:cover;">
                 <div class="container-sm bg-mg">
                     <div class="row">
-                        <img class="world" src="./assets/image/min/world-min.png" alt="">
+                        <img class="world" src="../assets/image/min/world-min.png" alt="">
                     </div>
                     <div class="row">
                         <div class="container-experience">
                             <div class="col-6 d-flex cita-world">
                                 <div class="col-2">
-                                    <img class="comilla" src="./assets/image/min/comilla-min.png" height="auto" width="150" alt="">
+                                    <img class="comilla" src="../assets/image/min/comilla-min.png" height="auto" width="150" alt="">
                                 </div>
                                 <div class="col-10 text-light text-mje cite" >
                                     <h2 class="mje-2">Mas de <span class="text-primary"><strong>30 años de experiencia</strong></span></h2>
@@ -209,7 +209,7 @@
                     <div class="row">
                         <div class="py-3">
                             <picture>
-                                <img src="./assets/image/line-green.svg" width="200" class="rounded float-start text-primary line-text" alt="...">
+                                <img src="../assets/image/line-green.svg" width="200" class="rounded float-start text-primary line-text" alt="...">
                             </picture>
                         </div>
                         <div class="col-6 d-flex cita-world">
@@ -221,9 +221,9 @@
                                 </div>
                                 <div class="row py-3">
                                     <picture>
-                                        <img class="certificates" src="./assets/image/certificado-en-proceso.svg" height="35" class="" alt="carbono natural">
-                                        <img class="certificates" src="./assets/image/certificado-global.svg" height="35" class="" alt="Global G.A.P.">
-                                        <img class="certificates" src="./assets/image/certificacion-frog.svg" height="35" class="" alt="...">
+                                        <img class="certificates" src="../assets/image/certificado-en-proceso.svg" height="35" class="" alt="carbono natural">
+                                        <img class="certificates" src="../assets/image/certificado-global.svg" height="35" class="" alt="Global G.A.P.">
+                                        <img class="certificates" src="../assets/image/certificacion-frog.svg" height="35" class="" alt="...">
                                     </picture>
                                 </div>
                                 <div class="row">
@@ -236,7 +236,7 @@
                     </div>
                 </div>
             </div>
-            <div class="container-fluid bg-down" style="background: url(./assets/image/min/working-min.png) no-repeat;">
+            <div class="container-fluid bg-down" style="background: url(../assets/image/min/working-min.png) no-repeat;">
                 <div class="col-6">
                 </div>
                 <div class="col-6 bh">

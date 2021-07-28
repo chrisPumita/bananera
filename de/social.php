@@ -11,7 +11,7 @@
 <?php include "./include/nav-static.php" ?>
 <header style="height: auto;">
 </header>
-<section style="background: url(./assets/image/min/headerSocial-min.png) top center no-repeat;" class="header-ajuste">
+<section style="background: url(../assets/image/min/headerSocial-min.png) top center no-repeat;" class="header-ajuste">
     <div class="container-sm d-flex justify-content-center align-items-center" style="height: 40vh;">
         <div class="row container-headers-parrafo">
             <div class="col">
@@ -30,13 +30,13 @@
     <div class="container" style="height: 25vh;">
         <div class="row">
             <div class="col-4 p-3 text-end">
-                <img class="img-responsive imgBoxSocial" src="./assets/image/ods-4-box.svg" alt="">
+                <img class="img-responsive imgBoxSocial" src="../assets/image/ods-4-box.svg" alt="">
             </div>
             <div class="col-4 p-3 text-center">
-                <img  class="img-responsive imgBoxSocial" src="./assets/image/ods-8-box.svg"  alt="">
+                <img  class="img-responsive imgBoxSocial" src="../assets/image/ods-8-box.svg"  alt="">
             </div>
             <div class="col-4 p-3 text-start">
-                <img class="img-responsive imgBoxSocial" src="./assets/image/ods-11-box.svg" alt="">
+                <img class="img-responsive imgBoxSocial" src="../assets/image/ods-11-box.svg" alt="">
             </div>
         </div>
     </div>
@@ -87,7 +87,7 @@
             <div class="col">
                 <div class="container-ball">
                     <div class="div-img" >
-                        <img class="img-ball" src="./assets/image/min/circule-school-social-min.png" title="Foto5" alt="Foto5">
+                        <img class="img-ball" src="../assets/image/min/circule-school-social-min.png" title="Foto5" alt="Foto5">
                         <div class="text"></div>
                     </div>
                 </div>
@@ -113,7 +113,7 @@
                         Universidad de Costa Rica.</h6>
                 </div>
                 <div class="text-white text-light py-5">
-                    <img src="./assets/image/hands.svg" width="60" alt="">
+                    <img src="../assets/image/hands.svg" width="60" alt="">
                     <h5 class="mb-4 text-primary py-3">Brindamos más de 500 puestos de trabajo; de los cuales
                         100 empleos son para indígenas Tayní – Cábecar.</h5>
                 </div>
@@ -183,7 +183,7 @@
         <div class="row">
             <div class="col">
                 <div class="text-white text-light py-5 text-center">
-                    <img src="./assets/image/Igualdad-green.svg" width="100" alt="">
+                    <img src="../assets/image/Igualdad-green.svg" width="100" alt="">
                 </div>
             </div>
             <div class="col">
@@ -203,7 +203,7 @@
     <div class="container-fuid">
         <div class="contPano imagenPano2 d-block d-sm-block d-md-none">
         </div>
-        <img class="d-none d-sm-none d-md-block" src="./assets/image/min/houses-wabe-min.png" width="100%" alt="">
+        <img class="d-none d-sm-none d-md-block" src="../assets/image/min/houses-wabe-min.png" width="100%" alt="">
     </div>
     <div class="container d-flex justify-content-center align-items-center py-5">
         <div class="row d-flex justify-content-center align-items-center">
@@ -243,14 +243,14 @@
             </div>
             <div class="col">
                 <figure class="bg-greyligth">
-                    <img src="./assets/image/min/fundadores-min.png" width="300" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
+                    <img src="../assets/image/min/fundadores-min.png" width="300" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
                     <figcaption class="text-center text-grey py-5 small">Fotografía de los fundadores: Don Eduardo Gómez y Doña Beatriz</figcaption>
                 </figure>
                 </div>
         </div>
     </div>
 
-    <div class="container-fluid img-producto-bk py-5 focus-img-ok social-footer-globe" style="background: url(./assets/image/dique-footer.png) no-repeat; background-size:cover;">
+    <div class="container-fluid img-producto-bk py-5 focus-img-ok social-footer-globe" style="background: url(../assets/image/dique-footer.png) no-repeat; background-size:cover;">
         <div class="container-sm bg-mg-producto">
         </div>
 

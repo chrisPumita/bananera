@@ -1,7 +1,7 @@
 <nav id="menu" class="navbar sticky-top navbar-expand-lg navbar-inverse navbar-light bg-light bg-trasparente">
     <div class="container-sm">
         <a class="navbar-brand" href="./">
-            <img src="./assets/image/logo.svg" alt="" width="100" height="auto" class="d-inline-block align-text-top">
+            <img src="../assets/image/logo.svg" alt="" width="100" height="auto" class="d-inline-block align-text-top">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menuvar" aria-controls="menuvar" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

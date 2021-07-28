@@ -14,7 +14,7 @@
 </head>
 <body>
 
-<header style="background: url(./assets/image/min/bg-dialog-grey-min.png) top center no-repeat;" class="header-top-contact bg-light contacto-header">
+<header style="background: url(../assets/image/min/bg-dialog-grey-min.png) top center no-repeat;" class="header-top-contact bg-light contacto-header">
     <nav id="menu" class="navbar var-contacto fixed-top navbar-expand-lg navbar-inverse navbar-light bg-light">
         <div class="container-sm">
             <a class="navbar-brand" href="./">
@@ -40,9 +40,9 @@
                         <ul class="dropdown-menu dropdown-menu postition-menu" aria-labelledby="navbarDarkDropdownMenuLink">
                             <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Compromisos</a></li>
                             <div class="dropdown-divider"></div>
-                            <li class="link-menu"><a class="dropdown-item" href="#">Social</a></li>
-                            <li class="link-menu"><a class="dropdown-item" href="#">Gobernanza</a></li>
-                            <li class="link-menu"><a class="dropdown-item" href="#">Ambiental</a></li>
+                            <li class="link-menu"><a class="dropdown-item" href="./social.php">Social</a></li>
+                            <li class="link-menu"><a class="dropdown-item" href="./gobernanza.php">Gobernanza</a></li>
+                            <li class="link-menu"><a class="dropdown-item" href="./ambiental.php">Ambiental</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -57,7 +57,7 @@
     </nav>
     <div class="container d-flex justify-content-center align-items-center" >
     </div>
-    <div class="circule-back-header" style="background: url('./assets/image/min/bg-img1-min.png')">
+    <div class="circule-back-header" style="background: url('../assets/image/min/bg-img1-min.png')">
     </div>
 </header>
 
@@ -361,13 +361,13 @@
                                         <button class="btn-grid" type="submit" disabled>
                                                 <span class="back">
                                                     <i class="fas fa-paper-plane"></i>
-                                                  <img src="./assets/image/email-icon.svg" alt="">
+                                                  <img src="../assets/image/email-icon.svg" alt="">
                                                 </span>
                                                 <span class="front">Enviar</span>
                                         </button>
                                         <button class="btn-grid" type="reset" disabled>
                                             <span class="back">
-                                              <img src="./assets/image/eraser-icon.svg" alt="">
+                                              <img src="../assets/image/eraser-icon.svg" alt="">
                                             </span>
                                             <span class="front">Limpiar</span>
                                         </button>
@@ -400,7 +400,7 @@
             </div>
         </div>
     </div>
-    <div class="cont-limine footer-img-contacto" style="background: url(./assets/image/min/img-footer--cntact-min.png);">
+    <div class="cont-limine footer-img-contacto" style="background: url(../assets/image/min/img-footer--cntact-min.png);">
         <div class="h-300">
         </div>
     </div>

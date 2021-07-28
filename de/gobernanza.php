@@ -11,7 +11,7 @@
 <?php include "./include/nav-static.php" ?>
 <header style="height: auto;">
 </header>
-<section style="background: url(./assets/image/min/headerGober-min.jpg) top center no-repeat;" class="header-ajuste">
+<section style="background: url(../assets/image/min/headerGober-min.jpg) top center no-repeat;" class="header-ajuste">
     <div class="container-sm d-flex justify-content-center align-items-center" style="height: 40vh;">
         <div class="row container-headers-parrafo">
             <div class="col">
@@ -30,7 +30,7 @@
             <div class="col-4 p-3 text-end">
             </div>
             <div class="col-4 p-3 text-center">
-                <img  class="img-responsive imgBoxSocial bg-img-bottom" src="./assets/image/ods-17-box.svg"  alt="">
+                <img  class="img-responsive imgBoxSocial bg-img-bottom" src="../assets/image/ods-17-box.svg"  alt="">
             </div>
             <div class="col-4 p-3 text-start">
             </div>
@@ -49,7 +49,7 @@
         <div class="row d-flex justify-content-center align-items-center px-5 py-5">
             <div class="col d-block text-center">
                 <div class="py-3">
-                    <img src="./assets/image/gob-r1.svg" class="m-3" height="100" alt="">
+                    <img src="../assets/image/gob-r1.svg" class="m-3" height="100" alt="">
                 </div>
                 <div class="col d-flex justify-content-center align-items-center">
                     <div class="position-relative text-center">
@@ -65,7 +65,7 @@
             </div>
             <div class="col d-block text-center">
                 <div class="py-3">
-                    <img src="./assets/image/gob-r2.svg" class="m-3" height="100" alt="">
+                    <img src="../assets/image/gob-r2.svg" class="m-3" height="100" alt="">
                 </div>
                 <div class="col d-flex justify-content-center align-items-center">
                     <div class="position-relative text-center">
@@ -81,7 +81,7 @@
             </div>
             <div class="col d-block text-center">
                 <div class="py-3">
-                    <img src="./assets/image/gob-r3.svg" class="m-3" height="100" alt="">
+                    <img src="../assets/image/gob-r3.svg" class="m-3" height="100" alt="">
                 </div>
                 <div class="col d-flex justify-content-center align-items-center">
                     <div class="position-relative text-center">
@@ -97,7 +97,7 @@
         </div><div class="row d-flex justify-content-center align-items-center px-5 py-5">
             <div class="col d-block text-center">
                 <div class="py-3">
-                    <img src="./assets/image/gob-r4.svg" class="m-3" height="100" alt="">
+                    <img src="../assets/image/gob-r4.svg" class="m-3" height="100" alt="">
                 </div>
                 <div class="col d-flex justify-content-center align-items-center">
                     <div class="position-relative text-center">
@@ -112,7 +112,7 @@
             </div>
             <div class="col d-block text-center">
                 <div class="py-3">
-                    <img src="./assets/image/gob-r5.svg" class="m-3" height="100" alt="">
+                    <img src="../assets/image/gob-r5.svg" class="m-3" height="100" alt="">
                 </div>
                 <div class="col d-flex justify-content-center align-items-center">
                     <div class="position-relative text-center">
@@ -126,7 +126,7 @@
             </div>
             <div class="col d-block text-center">
                 <div class="py-3">
-                    <img src="./assets/image/gob-r6.svg" class="m-3" height="100" alt="">
+                    <img src="../assets/image/gob-r6.svg" class="m-3" height="100" alt="">
                 </div>
                 <div class="col d-flex justify-content-center align-items-center">
                     <div class="position-relative text-center">
@@ -152,10 +152,10 @@
                     económica para Costa Rica.</h2>
             </div>
         </div>
-        <img class="d-none d-sm-none d-md-block" src="./assets/image/min/wabe-bg-gob-min.png" width="100%" alt="">
+        <img class="d-none d-sm-none d-md-block" src="../assets/image/min/wabe-bg-gob-min.png" width="100%" alt="">
     </div>
 
-    <div class="container-fluid img-producto-bk py-5 focus-img-ok " style="background: url(./assets/image/min/globe-footer.gob-min.png) no-repeat; background-size:cover;">
+    <div class="container-fluid img-producto-bk py-5 focus-img-ok " style="background: url(../assets/image/min/globe-footer.gob-min.png) no-repeat; background-size:cover;">
         <div class="container-sm globe-contain container-fuid d-flex justify-content-center align-items-center">
             <div class="row d-flex justify-content-center align-items-center position-absolute  mje-wabe">
                 <div class="col m-3 p-5">

@@ -31,7 +31,7 @@
         </div>
         <div class="container overflow-auto py-5">
             <div class="row my-3">
-                <img src="./assets/image/timeline.svg" alt="">
+                <img src="../assets/image/timeline.svg" alt="">
             </div>
             <div class="row text-center">
                 <div class="col-2 time-text">
@@ -88,7 +88,7 @@
         <div class="row">
             <div class="col m-auto text-center">
                 <h2 class="text-secondary">Historia</h2>
-                <img src="./assets/image/pergamino.svg" width="60" alt="">
+                <img src="../assets/image/pergamino.svg" width="60" alt="">
             </div>
             <div class="col border-left border-secondary historia">
                 <p class="text-grey">
@@ -123,13 +123,13 @@
         <div class="contPano imagenPano d-block d-sm-block d-md-none">
 
         </div>
-        <img class="d-none d-sm-none d-md-block" src="./assets/image/min/people-wabe-min.png" width="100%" alt="">
+        <img class="d-none d-sm-none d-md-block" src="../assets/image/min/people-wabe-min.png" width="100%" alt="">
     </div>
 
     <div class="container-sm p-5">
         <div class="row">
             <div class="col m-auto text-center">
-                <img src="./assets/image/medalla.svg" width="60" alt="">
+                <img src="../assets/image/medalla.svg" width="60" alt="">
                 <h2 class="text-primary">Propósito y valores</h2>
             </div>
             <div class="col border-left border-primary historia">
@@ -178,7 +178,7 @@
         <h2>Exitosa trayectoria</h2>
         <h2 class="text-primary">Escuche nuestro StoryTelling</h2>
         <audio preload="none" controls>
-            <source src="./assets/podcast.mp3" type="audio/mpeg">
+            <source src="../assets/podcast.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
     </div>
@@ -271,7 +271,7 @@
             </div>
         </div>
     </div>
-    <div class="cont-limine wabe-backimg" style="background: url(./assets/image/green-circle-wabe.svg);">
+    <div class="cont-limine wabe-backimg" style="background: url(../assets/image/green-circle-wabe.svg);">
         <div class="wabe-button">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#FFFF" fill-opacity="1" d="M0,160L80,144C160,128,320,96,480,122.7C640,149,800,235,960,240C1120,245,1280,171,1360,133.3L1440,96L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path></svg>
         </div>

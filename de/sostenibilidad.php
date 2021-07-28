@@ -11,7 +11,7 @@
 
 </head>
 <body>
-<header style="background: url(./assets/image/min/blue-header-min.jpg) top center no-repeat;">
+<header style="background: url(../assets/image/min/blue-header-min.jpg) top center no-repeat;">
     <div class=""></div>
 
     <?php include "./include/nav.php" ?>
@@ -31,7 +31,7 @@
             </div>
         </div>
     </div>
-    <div class="circule-back-header" style="background: url('./assets/image/min/bg-img1-min.png')">
+    <div class="circule-back-header" style="background: url('../assets/image/min/bg-img1-min.png')">
     </div>
     <div class="wabe">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -46,7 +46,7 @@
             <div class="col">
                 <div class="container-ball">
                     <div class="div-img" >
-                        <img class="img-ball" src="./assets/image/min/circule-workin-female-min.png" title="Foto5" alt="Foto5">
+                        <img class="img-ball" src="../assets/image/min/circule-workin-female-min.png" title="Foto5" alt="Foto5">
                         <div class="text"></div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                             ODS
                         </h3>
                     </div>
-                    <img src="./assets/image/min/bg-red.ods-min.jpg">
+                    <img src="../assets/image/min/bg-red.ods-min.jpg">
                 </div>
             </div>
         </div>
@@ -70,37 +70,37 @@
             <div class="row row-cols-7 text-center  g-2 py-5  hover14 column">
                 <div class="col finca-box">
                     <a href="./social.php">
-                        <figure><img src="./assets/image/ods-4.svg" width="150" alt=""></figure>
+                        <figure><img src="../assets/image/ods-4.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./ambiental.php">
-                    <figure><img src="./assets/image/ods-7.svg" alt="" width="150"></figure>
+                    <figure><img src="../assets/image/ods-7.svg" alt="" width="150"></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./social.php">
-                    <figure><img src="./assets/image/ods-8.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/ods-8.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./social.php">
-                    <figure><img src="./assets/image/ods-11.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/ods-11.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./ambiental.php">
-                    <figure><img src="./assets/image/ods-12.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/ods-12.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./ambiental.php">
-                    <figure><img src="./assets/image/ods-15.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/ods-15.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./gobernanza.php">
-                    <figure><img src="./assets/image/ods-17.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/ods-17.svg" width="150" alt=""></figure>
                     </a>
                 </div>
             </div>
@@ -127,13 +127,13 @@
     <div class="container-sm py-5">
         <div class="col align-items-center">
             <div class="row">
-                <video width=100%  height=100% controls poster="./assets/image/min/bg-img1-min.png">
-                    <source src="./assets/bg-video.mp4" type="video/mp4">
+                <video width=100%  height=100% controls poster="../assets/image/min/bg-img1-min.png">
+                    <source src="../assets/bg-video.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
     </div>
-    <div class="container-fluid img-producto-bk py-5 focus-img-ok" style="background: url(./assets/image/min/people-ok-min.png) no-repeat; background-size:cover;">
+    <div class="container-fluid img-producto-bk py-5 focus-img-ok" style="background: url(../assets/image/min/people-ok-min.png) no-repeat; background-size:cover;">
         <div class="container-sm bg-mg-producto">
             <div class="row py-3">
                 <div class="col text-center">
@@ -147,41 +147,41 @@
                 <div class="col d-block text-center style_prevu_kit">
                     <a href="./social.php">
                         <div class="py-3">
-                            <img src="./assets/image/action-home.svg" class="m-3" height="150" alt="">
+                            <img src="../assets/image/action-home.svg" class="m-3" height="150" alt="">
                         </div>
 
                         <div class="col d-flex justify-content-center align-items-center">
                             <div class="position-absolute text-center">
                                 <h3 class="text-light m-0">SOCIAL</h3>
                             </div>
-                            <img src="./assets/image/min/bg-red.ods-min.jpg" width="200" alt="">
+                            <img src="../assets/image/min/bg-red.ods-min.jpg" width="200" alt="">
                         </div>
                     </a>
                 </div>
                 <div class="col d-block text-center style_prevu_kit">
                     <a href="./gobernanza.php">
                     <div class="py-3">
-                        <img src="./assets/image/action-foco.svg" class="m-3" height="150" alt="">
+                        <img src="../assets/image/action-foco.svg" class="m-3" height="150" alt="">
                     </div>
                         <div class="col d-flex justify-content-center align-items-center">
                             <div class="position-absolute text-center">
                                 <h3 class="text-light m-0">GOBERNANZA</h3>
                             </div>
-                            <img src="./assets/image/min/bg-red.ods-min.jpg" width="200" alt="">
+                            <img src="../assets/image/min/bg-red.ods-min.jpg" width="200" alt="">
                         </div>
                     </a>
                 </div>
                 <div class="col d-block text-center style_prevu_kit">
                     <a href="./ambiental.php">
                     <div class="py-3">
-                        <img src="./assets/image/action-premio.svg" class="m-3" height="150" alt="">
+                        <img src="../assets/image/action-premio.svg" class="m-3" height="150" alt="">
                     </div>
 
                         <div class="col d-flex justify-content-center align-items-center">
                             <div class="position-absolute text-center">
                                 <h3 class="text-light m-0">AMBIENTAL</h3>
                             </div>
-                            <img src="./assets/image/min/bg-rd-cr-min.jpg" width="200" alt="">
+                            <img src="../assets/image/min/bg-rd-cr-min.jpg" width="200" alt="">
                         </div>
                     </a>
                 </div>
@@ -192,7 +192,7 @@
         <div class="container-sm" style="z-index: 99;">
             <div class="row py-5 m-5">
                 <picture class="py-3">
-                    <img src="./assets/image/line-green.svg" width="200" class="rounded float-start text-primary line-header" alt="...">
+                    <img src="../assets/image/line-green.svg" width="200" class="rounded float-start text-primary line-header" alt="...">
                 </picture>
                 <div class="col-6 d-flex cita-world">
                     <div class="col-2 d-none">
@@ -203,9 +203,9 @@
                         </div>
                         <div class="row py-3">
                             <picture>
-                                <img class="certificates" src="./assets/image/certificado-en-proreso-whitte.svg" height="35" alt="carbono natural">
-                                <img class="certificates" src="./assets/image/certificago-global-whitte.svg" height="35" alt="Global G.A.P.">
-                                <img class="certificates" src="./assets/image/certificacion-frog.svg" height="35" alt="...">
+                                <img class="certificates" src="../assets/image/certificado-en-proreso-whitte.svg" height="35" alt="carbono natural">
+                                <img class="certificates" src="../assets/image/certificago-global-whitte.svg" height="35" alt="Global G.A.P.">
+                                <img class="certificates" src="../assets/image/certificacion-frog.svg" height="35" alt="...">
                             </picture>
                         </div>
                         <div class="row">

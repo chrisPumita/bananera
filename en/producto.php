@@ -11,15 +11,15 @@
 
 </head>
 <body>
-<header style="background: url(./assets/image/min/header-producto1-min.jpg) top center no-repeat;">
+<header style="background: url(../assets/image/min/header-producto1-min.jpg) top center no-repeat;">
     <div class="overlay"></div>
 
-    <?php include "./include/nav.php" ?>
+    <?php include "../include/nav.php" ?>
 
     <div class="container d-flex justify-content-center align-items-center" style="height: 70vh;">
         <div class="row container-headers">
             <div class="col">
-                <img src="./assets/image/banana-vector.svg" class="rounded mx-auto d-block icon-home-img img-gost" alt="Grupo Esfuerzo">
+                <img src="../assets/image/banana-vector.svg" class="rounded mx-auto d-block icon-home-img img-gost" alt="Grupo Esfuerzo">
             </div>
             <div class="col welcome-title">
                 <div class="row">
@@ -36,7 +36,7 @@
             </div>
         </div>
     </div>
-    <div class="circule-back-header" style="background: url('./assets/image/min/bg-img1-min.png')">
+    <div class="circule-back-header" style="background: url('../assets/image/min/bg-img1-min.png')">
     </div>
     <div class="wabe">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -74,11 +74,11 @@
                 </div>
             </div>
             <div class="col">
-                <img src="./assets/image/min/banana-circle-min.png" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
+                <img src="../assets/image/min/banana-circle-min.png" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
             </div>
         </div>
     </div>
-    <div class="container-fluid img-producto-bk" style="background: url(./assets/image/min/pano-2-min.png) no-repeat; background-size:auto;">
+    <div class="container-fluid img-producto-bk" style="background: url(../assets/image/min/pano-2-min.png) no-repeat; background-size:auto;">
         <div class="container-sm bg-mg-producto">
             <div class="row">
                 <div class="col d-none d-sm-none d-md-block">
@@ -87,7 +87,7 @@
                     <div class="container-vitamina">
                         <div class="col d-flex cita-world">
                             <div class="col-2">
-                                <img class="comilla" src="./assets/image/min/comilla-min.png" height="auto" width="150" alt="">
+                                <img class="comilla" src="../assets/image/min/comilla-min.png" height="auto" width="150" alt="">
                             </div>
                             <div class="col-auto text-secondary text-mje cite" >
                                 <h2 class="mje-2">Contiene unos 400mg de</h2>
@@ -138,10 +138,10 @@
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="./assets/image/min/slider-1-min.png" class="d-block w-100" alt="...">
+                            <img src="../assets/image/min/slider-1-min.png" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="./assets/image/min/slider-2-min.png" class="d-block w-100" alt="...">
+                            <img src="../assets/image/min/slider-2-min.png" class="d-block w-100" alt="...">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -158,11 +158,11 @@
     </div>
 </section>
 <section>
-    <div class="container-fluid d-flex justify-content-center align-items-center img-producto-bk flayer-producto" style="background: url(./assets/image/producto-footer.jpg) no-repeat;">
+    <div class="container-fluid d-flex justify-content-center align-items-center img-producto-bk flayer-producto" style="background: url(../assets/image/producto-footer.jpg) no-repeat;">
         <div class="container-sm" style="z-index: 99;">
             <div class="row">
                 <picture>
-                    <img src="./assets/image/line-green.svg" width="200" class="rounded float-start text-primary line-header" alt="...">
+                    <img src="../assets/image/line-green.svg" width="200" class="rounded float-start text-primary line-header" alt="...">
                 </picture>
                 <div class="col-6 d-flex cita-world">
                     <div class="col-2 d-none">
@@ -173,9 +173,9 @@
                         </div>
                         <div class="row py-3">
                             <picture>
-                                <img class="certificates" src="./assets/image/certificado-en-proceso.svg" height="35" alt="carbono natural">
-                                <img class="certificates" src="./assets/image/certificado-global.svg" height="35" alt="Global G.A.P.">
-                                <img class="certificates" src="./assets/image/certificacion-frog.svg" height="35" alt="...">
+                                <img class="certificates" src="../assets/image/certificado-en-proceso.svg" height="35" alt="carbono natural">
+                                <img class="certificates" src="../assets/image/certificado-global.svg" height="35" alt="Global G.A.P.">
+                                <img class="certificates" src="../assets/image/certificacion-frog.svg" height="35" alt="...">
                             </picture>
                         </div>
                         <div class="row">
