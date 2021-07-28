@@ -16,12 +16,12 @@
         <div class="row container-headers-parrafo">
             <div class="col">
                 <div class="text-white text-light">
-                    <h6 class="mb-4 py-3">Sostenibilidad</h6>
-                    <h2 class="mb-3">Social</h2>
-                    <h5 class="mb-4">Aportamos a los ODS 4 Educación de
-                        calidad; 8 Trabajo decente y crecimiento
-                        económico y 11 Ciudades y comunidades
-                        sostenibles</h5>
+                    <h6 class="mb-4 py-3">NACHHALTIGKEIT</h6>
+                    <h2 class="mb-3">Sozial</h2>
+                    <h5 class="mb-4">Wir leisten der Ziele der nachhaltige Entwicklung 
+                        4 Qualitativ hochwertige Bildung; 8 Menschwürdige Arbeit und 
+                        Wirtschaftswachstum und 11 Nachhaltige Städte und Gemeinden.  
+                    </h5>
                 </div>
 
             </div>
@@ -52,36 +52,31 @@
     <div class="container-sm py-5">
         <div class="row">
             <div class="col m-auto text-right">
-                <h2 class="text-secondary">Educación de calidad</h2>
+                <h2 class="text-secondary">Qualitativ hochwertige Bildung</h2>
             </div>
         </div>
     </div>
     <div class=" p-5 container">
         <div class="row d-flex justify-content-center align-items-center">
             <div class="col">
-                <h6 class="text-grey">DONACIÓN DE ÚTILES</h6>
+                <h6 class="text-grey">SPENDE VON SCHULSACHEN</h6>
                 <p class="text-grey py-5">
-                    Cada año, Grupo Esfuerzo entrega más de 300
-                    paquetes de útiles escolares. Este programa está
-                    enfocado en niños y niñas menores de 12 años
-                    que asisten a primaria, hijos e hijas de nuestros
-                    colaboradores y colaboradoras en Limón.
+                Jedes Jahr übergibt Grupo Esfuerzo über 300 Paketen mit Schulsachen. 
+                Dieses Programm richtet sich an Kinder unter 12 Jahren, die die Grundschule besuchen, 
+                Kinder unserer Mitarbeiter/innen in Limón. 
                 </p>
             </div>
             <div class="col border-left border-primary historia">
-                <h6 class="text-grey">BECAS POR DESEMPEÑO</h6>
+                <h6 class="text-grey">STEPENDIUM NACH LEISTUNG: </h6>
                 <p class="text-grey">
-                    Grupo Esfuerzo otorga un reconocimiento
-                    monetario de aproximadamente $50 semestrales
-                    a jóvenes y adolescentes quienes asisten a
-                    secundaria y tienen notas por encima de 80,
-                    como incentivo para que mantengan su
-                    desempeño.
+                Grupo Esfuerzo gewährt eine finanzielle Anerkennung in Höhe von nahezu $50 pro 
+                Semester für Kinder und Jugendliche die die Sekundarstufe besuchen und Noten über 
+                80 haben, als Motivation, damit sie ihre gute Leistung beihalten.
 
                 </p>
                 <p class="text-grey">
-                    Los beneficiados también son hijos e hijas de
-                    colaboradores de la empresa.
+                Davon profitieren auch die Söhne und Töchter
+                von den  Mitarbeitern des Unternehmens. 
                 </p>
             </div>
             <div class="col">
@@ -105,17 +100,17 @@
         <div class="row container-headers-parrafo">
             <div class="col">
                 <div class="text-white text-light">
-                    <h4 class="mb-4 py-3 text-secondary">Trabajo decente y
-                        crecimiento económico</h4>
-                    <h6 class="mb-4 text-grey">Generamos empleo formal en zonas históricamente vulnerabilizadas,
-                        incluyendo Matina, el cantón con mayor rezago según el Atlas de Desarrollo
-                        Humano del Programa de las Naciones Unidas para el Desarrollo (PNUD) y la
-                        Universidad de Costa Rica.</h6>
+                    <h4 class="mb-4 py-3 text-secondary">Menschenwürdige Arbeit 
+                        und Wirtschaftswachstum</h4>
+                    <h6 class="mb-4 text-grey">Wir schaffen formelle Arbeitsplätze in Regionen 
+                        die historisch gefährdet sind, einschließlich Matina, der Kanton mit dem 
+                        größten Rückstand nach den Index der menschlichen Entwicklung vom Programm 
+                        der Vereinten Nationen für die Entwicklung und die Universität aus Costa Rica. </h6>
                 </div>
                 <div class="text-white text-light py-5">
                     <img src="../assets/image/hands.svg" width="60" alt="">
-                    <h5 class="mb-4 text-primary py-3">Brindamos más de 500 puestos de trabajo; de los cuales
-                        100 empleos son para indígenas Tayní – Cábecar.</h5>
+                    <h5 class="mb-4 text-primary py-3">Wir bieten mehr als 500 Arbeitsstellen an, 
+                        davon 100 Arbeitsplätze für Tavaní – Cabécar. </h5>
                 </div>
             </div>
         </div>
@@ -124,59 +119,50 @@
         <div class="row">
             <div class="col m-3 p-5 bg-red">
                 <p class="text-light text-center ">
-                    Entre el 25 y el 30% de nuestro
-                    equipo humano son mujeres.
+                Zwischen 25% und 30% unseres 
+                Personals sind Frauen. 
                 </p>
             </div>
             <div class="col m-3 p-5 bg-primary">
                 <p class="text-light text-center">
-                    Ofrecemos espacios de práctica
-                    profesional a jóvenes locales que
-                    cursan la universidad.
+                Wir bieten Praktikumsplätze für 
+                junge Menschen vor Ort, die an der
+                 Universität studieren.
                 </p>
             </div>
             <div class="col m-3  p-5 bg-secondary">
                 <p class="text-light text-center">
-                    Participamos del programa
-                    gubernamental Empléate del
-                    Ministerio de Trabajo.
+                Wir beteiligen uns am Regierungsprogramm 
+                „Empléate” des Arbeitsministeriums. 
                 </p>
             </div>
         </div>
         <div class="row">
             <div class="col podcast">
                 <p class="text-grey">
-                    Respetamos los derechos laborales y cumplimos
-                    con lo establecido en el Código de Trabajo de
-                    Costa Rica incluyendo el pago de la Caja
-                    Costarricense del Seguro Social (CCSS) y la
-                    cobertura de seguro para Riesgos de Trabajo.
-                    Siendo parte de este paquete, una contribución
-                    del 5% de la planilla para el Programa de
-                    Asignaciones Familiares que contempla ayuda
-                    para las familias de mayor necesidad. Además,
-                    ofrecemos beneficios adicionales establecidos en
-                    el arreglo directo con representantes de los
-                    trabajadores elegidos democráticamente en una
-                    asamblea general.</p>
+                Wir respektieren die Arbeitsrechte und erfüllen die Anforderungen 
+                im costaricanischen Arbeitsgesetzes, einschließlich der Zahlung an 
+                die Costarricanische Sozialversicherungskasse (CCSS) und der Versicherungsschutz
+                 für Unfällen am Arbeitsplatz. Als Teil dieses Pakets ist ein Beitrag 
+                 von 5% des Beitrags zum Programm für Familienbeihilfen vorgesehen, der 
+                 Hilfen für bedürftige Familien vorsieht. Darüber hinaus bieten wir zusätzliche 
+                 Leistungen in direkter Vereinbarung mit demokratisch gewählten Arbeitnehmervertretern 
+                 in einer Hauptversammlung festgelegt.</p>
 
             </div>
             <div class="col podcast">
-                <h5 class="mb-4 py-3 text-secondary">Trabajo decente y
-                    crecimiento económico</h5>
+                <h5 class="mb-4 py-3 text-secondary">Zu diesen Vorteilen gehören</h5>
                 <ul class="text-grey" style="list-style-type: disc">
-                    <li>Permisos con goce de salario
-                        para asistir a citas médicas.</li>
-                    <li>Ayuda económica en el caso de fallecimiento
-                        de parientes cercanos.</li>
-                    <li> Entrega de víveres en casos excepcionales.</li>
-                    <li> Donaciones económicas para la promoción
-                        del deporte, la cultura y recreación.</li>
-                    <li> Actividades de esparcimiento en fechas
-                        especiales como el Día de la Madre y el Día
-                        del Trabajador.</li>
-                    <li> Asociación Solidarista con un 3%
-                        de aporte mensual patronal.</li>
+                    <li>Bezahlter Urlaub für Arzttermine. </li>
+                    <li>Finanzielle Unterstützung im 
+                        Todesfall von engen Verwandten.</li>
+                    <li> Ausgabe von Lebensmitteln in Ausnahmenfällen. </li>
+                    <li> Finanzielle Spenden für die Förderung 
+                        von Sport, Kultur und Erholung.</li>
+                    <li> Freizeitveranstaltungen zu besonderen 
+                        Terminen wie Muttertag oder Tag der Arbeit. </li>
+                    <li> Solidaristische Vereinigung  mit einem 
+                        monatlichen Arbeitgeberanteil von 3%.</li>
                 </ul>
             </div>
         </div>
@@ -190,10 +176,9 @@
                 <div class="text-end">
                     <div class="col cita-world">
                         <div class="col-auto text-mje cite">
-                            <h2 class="mje-2 text-secondary ">Tenemos una filosofía
-                                empresarial de <mark class="mark-green"> no discriminación
-                                </mark> (por género, edad, etnia o cualquier otra condición)
-                                para los procesos de reclutamiento.</h2>
+                            <h2 class="mje-2 text-secondary ">Wir haben eine 
+                                <mark class="mark-green"> nicht-diskriminierende
+                                </mark> (Unternehmensphilosophie für Einstellungsverfahren.</h2>
                         </div>
                     </div>
                 </div>
@@ -210,33 +195,27 @@
             <div class="col text-parrafo">
                 <div class="row">
                     <div class="text-secondary">
-                        <h3 class="mb-3">Ciudades y
-                            comunidades
-                            sostenibles</h3>
-                        <h5 class="py-3">URBANIZACIÓN EL ESFUERZO</h5>
+                        <h3 class="mb-3">Nachhaltige Städte und Gemeinde</h3>
+                        <h5 class="py-3">SIEDLUNG EL ESFUERZO</h5>
                         <p class="text-grey py-3>">
-                            La Urbanización El Esfuerzo fue construida en el año 2012
-                            para dar vivienda digna a 91 familias, la mayoría integradas
-                            por colaboradores de la empresa.
+                        Die Urbanisation El Esfuerzo wurde im Jahr 2012 gebaut, um 91 Familien, 
+                        die meisten von Mitarbeitern des Unternehmens, würdigen Wohnraum zu bieten.
                         </p>
                         <p class="text-grey py-3>">
-                            Este proyecto, liderado por don Eduardo Gómez, se
-                            ejecutó a través de una alianza público - privada con la
-                            Municipalidad de Matina, el BANHVI, el Banco Popular,
-                            JAPDEVA, FUPROVI y la comunidad.
+                        Dieses Projekt, von Eduardo Gómez angeführt, wurde durch eine öffentlich-private
+                         Allianz zusammen mit dem Rathaus von Matina, BANHVI, Banco Popular, JAPDEVA, 
+                         FUPROVI und das Gemeinde errichtet.
                         </p>
                         <p class="text-grey py-3>">
-                            Grupo Esfuerzo donó el terreno de 3 hectáreas y las casas
-                            se construyeron con recursos del Bono Familiar de
-                            Vivienda. Por su parte, las familias aportaron cerca de 32
-                            millones en tareas de autoconstrucción (mano de obra y
-                            materiales por parte de los propios beneficiarios).
+                        Grupo Esfuerzo hat den drei Hektar Grundstück gespendet und die Häuser
+                         wurden mit Mitteln vom Bono Familiar de Vivienda (Familien Wohnungsanleihen)
+                          gebaut. Die Familien trugen ihrerseits fast 32 Mio. EUR für den Eigenbau bei
+                           (Arbeit und Material von den Begünstigten selbst).
                         </p>
                         <p class="text-grey py-3>">
-                            En la actualidad, en la Urbanización El Esfuerzo viven
-                            alrededor de 400 personas, incluyendo 18 mujeres jefas
-                            de hogar, 2 padres solteros, 7 adultos mayores y más de
-                            100 niños y niñas.
+                        Heutzutage wohnen in der Siedlung El Esfuerzo circa 400 Personen, 
+                        einschließlich 18 Hausfrauen, zwei alleinziehende Väter, 7 ältere 
+                        Erwachsene und über 100 Kinder. 
                         </p>
                     </div>
                 </div>
@@ -261,14 +240,13 @@
                     </div>
                     <div class="col-10 text-light text-mje">
                         <div class="row">
-                            <h4 class="text-start">DIQUE PARA PREVENCIÓN DE INUNDACIONES</h4>
+                            <h4 class="text-start">DAMM FÜR HOCHWASSERSCHUTZ</h4>
                         </div>
                         <div class="row py-3">
                             <div class="col-10 text-light text-mje cite">
-                                <h5 class="mje-2">Apoyamos la construcción de un dique
-                                    en 2021 para la <span class="text-primary"> prevención de
-                                    inundaciones en comunidades del
-                                    Atlántico costarricense.</span></h5>
+                                <h5 class="mje-2">Wir unterstützen den Aufbau eines 
+                                    Damms in 2021 für den <span class="text-primary"> ochwasserschutz in den 
+                                        costaricanischen antlantischen Gemeinden.</span></h5>
                             </div>
                         </div>
                         <div class="row">

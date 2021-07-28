@@ -89,7 +89,7 @@
             </div>
             <div class="col text-center ">
                 <div class="text-white text-light py-5">
-                    <img class="py-5" src="./assets/image/certificado-global.svg" height="150" alt="">
+                    <img class="py-5" src="../assets/image/certificado-global.svg" height="150" alt="">
                     <p class="text-grey my-5 p-3 border-center-certificate">
                         Estamos certificados<strong><span class="text-secondary"> Global G.A.P. </span></strong>, una norma para
                         las Buenas Prácticas Agrícolas (BPA) reconocida por

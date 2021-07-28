@@ -16,11 +16,11 @@
         <div class="row container-headers-parrafo">
             <div class="col">
                 <div class="text-white text-light">
-                    <h6 class="mb-4 py-3">Sostenibilidad</h6>
-                    <h2 class="mb-3">Ambiental</h2>
-                    <h5 class="mb-4">Aportamos a los ODS 7 Energía asequible y no contaminante;
-                        12 Producción y consumo responsables y
-                        15 Vida de ecosistemas terrestres</h5>
+                    <h6 class="mb-4 py-3">NACHHALTIGKEIT</h6>
+                    <h2 class="mb-3">Umwelt</h2>
+                    <h5 class="mb-4">Wir tragen zu den SDGs bei 7 Erschwingliche 
+                        und saubere Energie; 12 Verantwortungsvolle Produktion und 
+                        Verbrauch und 15 Leben terrestrischer Ökosysteme</h5>
                 </div>
             </div>
         </div>
@@ -58,32 +58,30 @@
                 </div>
             </div>
             <div class="col">
-                <h4 class="text-grey">Energía asequible
-                   <span class="text-primary"> y no contaminante</span></h4>
+                <h4 class="text-grey">Erschwingliche und  
+                   <span class="text-primary">umweltfreundliche</span> Energie</h4>
                 <p class="text-grey py-5">
-                    En el año 2015, invertimos en la adquisición e instalación de
-                    <span class="text-primary">40 paneles solares</span> para cubrir el gasto energético de los
-                    contenedores de enfriamiento para las frutas.
+                    Im Jahr 2015 haben wir in die Anschaffung und Installation von
+                    <span class="text-primary">40 Sonnenkollektoren investiert,</span> um den Energieverbrauch der 
+                    Kühlcontainer für Obst zu decken.
                 </p>
             </div>
         </div>
     </div>
     <div class="container-sm d-flex justify-content-center align-items-center py-5">
         <div class="row">
-            <h3 class="mb-4 py-3 text-secondary text-center">Producción y
-                <mark class="mark-vitamina">consumo responsable</mark></h3>
+            <h3 class="mb-4 py-3 text-secondary text-center">
+                <mark class="mark-vitamina">Verantwortungsvolle</mark>
+                Produktion und Verbrauch</h3>
             <div class="col  text-center">
                 <div class="text-white text-light py-5">
                     <img class="py-5" src="../assets/image/certificado-en-proceso.svg" height="150" alt="">
                     <p class="text-grey my-5 p-3">
-                        Trabajamos por obtener la<strong><span class="text-secondary"> Carbono Neutralidad</span></strong>
-                        en 2021, lo que garantiza que nuestras
-                        emisiones netas de Gases de Efecto Invernadero
-                        (GEI) expedidas al ambiente equivalen a cero
-                        gracias a acciones de reducción y compensación,
-                        aportando al Plan Nacional de Descarbonización
-                        y al objetivo país de ser una economía con
-                        emisiones netas cero al 2050.
+                        Wir haben 2021 die<strong><span class="text-secondary">CO2-Neutralität</span></strong>
+                        rhalten, was sicherstellt, dass unsere Netto-Treibhausgasemissionen (Treibhausgas) 
+                        in die Umwelt durch Reduktions- und Kompensationsmassnahmen gleich Null sind, was 
+                        zum Nationalen Dekarbonisierungsplan und zum Ziel des Landes beiträgt, bis 2050 
+                        eine Wirtschaft mit Netto-Emissionen zu werden.
                     </p>
                 </div>
             </div>
@@ -91,13 +89,11 @@
                 <div class="text-white text-light py-5">
                     <img class="py-5" src="../assets/image/certificado-global.svg" height="150" alt="">
                     <p class="text-grey my-5 p-3 border-center-certificate">
-                        Estamos certificados<strong><span class="text-secondary"> Global G.A.P. </span></strong>, una norma para
-                        las Buenas Prácticas Agrícolas (BPA) reconocida por
-                        la Iniciativa Mundial de Seguridad Alimentaria
-                        (GFSI), que especifica requisitos de inocuidad y
-                        criterios de trazabilidad; protección de la
-                        biodiversidad; salud, seguridad y bienestar del
-                        trabajador.
+                        Wir sind in den<strong><span class="text-secondary"> Global G.A.P. </span></strong>ertifiziert, 
+                        ein Standard für die gute landwirtschaftlichen Praxis (G.L.P.) 
+                        von der Globalen Initiative für die Ernahrungssicherheit (GFSI) 
+                        anerkannt, die die Normen für Lebensmittelsicherheit und die Rückerfolgbarkeitsstandards
+                         festlegt; Schutz der Biodiersität, Gesundheit, Sicherheit und Wohlergehen der Arbeiter. 
 
                     </p>
                 </div>
@@ -106,12 +102,11 @@
                 <div class="text-white text-light py-5">
                     <img class="py-5" src="../assets/image/certificacion-frog.svg" height="150"  alt="">
                     <p class="text-grey my-5 p-3">
-                        Estamos certificados en la norma internacional
-                        para agricultura sostenible,<strong><span class="text-secondary">  Rainforest Alliance </span></strong>,
-                        por lo que nuestros clientes tienen la certeza de
-                        que nuestros bananos son producidos con
-                        métodos que apoyan los tres pilares de la
-                        sostenibilidad: social, económico y ambiental.
+                        Wir sind in der internationalen Norm für die nachhaltige 
+                        Landwirtschaft,<strong><span class="text-secondary">  Rainforest Alliance </span></strong>,
+                        zertifiziert. Auf dem Grund haben unsere Kunde die Sicherheit, dass unsere Bananen mit Methoden 
+                        produziert werden, die die drei Pfeiler der Nachhaltigkeit unterstützen: sozial, wirtschaftlich 
+                        und umweltbedingt.
                     </p>
                 </div>
             </div>
@@ -135,8 +130,8 @@
                 <div class="col py-5 d-flex cita-world">
                     <div class="col-10 text-light text-mje">
                         <div class="row">
-                            <h4><span class="text-primary">Vida de </span> <br>
-                                ecosistemas terrestres</h4>
+                            <h4><span class="text-primary">Leben der </span> <br>
+                            terrestrischen Ökosysteme</h4>
                         </div>
                         <picture>
                             <img src="../assets/image/line-green.svg" width="200" class="rounded float-start text-primary line-header" alt="...">
@@ -151,9 +146,8 @@
                             </div>
                             <div class="col-9">
                                 <p>
-                                    Mantenemos 240 hectáreas de bosque
-                                    primario para la protección de recursos
-                                    naturales y los ecosistemas terrestres.</p>
+                                Wir behalten 240 Hektar Primärwald für den Schutz der natürlichen 
+                                Ressourcen und der terrestrischen Ökosysteme.</p>
                             </div>
                         </div>
                         <div class="row d-flex justify-content-center align-items-center bg-light py-3  border-six-footer">
@@ -162,12 +156,9 @@
                             </div>
                             <div class="col-9">
                                 <p>
-                                    Implementamos prácticas sostenibles y de
-                                    circularidad, que incluyen reciclaje y
-                                    reutilización total del plástico utilizado
-                                    (bolsas, mecate y otros), y manejo
-                                    adecuado del agua, en todos nuestros
-                                    procesos de producción.</p>
+                                Wir setzen nachhaltige Praktiken und Zirkularitätpraktiken, einschließlich die Recycling  
+                                und die Wiederverwendung des gesammten Kunststoffs, (Tüten, Seile und andere), sowie die 
+                                angemessene Wasserbewirtschaftung in allen unseren Produktionsprozessen.</p>
                             </div>
                         </div>
                         <div class="row d-flex justify-content-center align-items-center bg-light p-3 border-six-footer">
@@ -176,10 +167,9 @@
                             </div>
                             <div class="col-9">
                                 <p>
-                                    Compostamos los desechos de la fruta de
-                                    banano y de la planta para convertirla en
-                                    abono orgánico que es aplicado después en
-                                    las plantaciones.</p>
+                                Wir kompostieren die Abfälle der Bananen und Plfanzen, 
+                                um sie in ornganischen Dünger zu verwandeln, der nachher 
+                                in den Plantagen ausgebracht wird. </p>
                             </div>
                         </div>
                         <div class="row d-flex justify-content-center align-items-center bg-light p-3 border-six-footer">
@@ -188,10 +178,9 @@
                             </div>
                             <div class="col-9">
                                 <p>
-                                    Hemos reducido en un 60% el uso de
-                                    pesticidas y no utilizamos herbicidas, sino
-                                    que implementamos un sistema de
-                                    cobertura vegetal de los suelos.</p>
+                                Wir haben den Einsatz von Pestiziden um 60% reduziert und
+                                 setzen keine Herbizide ein, sondern setzen ein System der 
+                                 Bodenbedeckung ein.</p>
                             </div>
                         </div>
                         <div class="row d-flex justify-content-center align-items-center bg-light p-3 border-six-footer">
@@ -200,8 +189,8 @@
                             </div>
                             <div class="col-9">
                                 <p>
-                                    Prohibimos la caza, la pesca y el
-                                    cautiverio.</p>
+                                    Wir verbieten Jagen,  
+                                    Fischen und die Gefangenschaft. </p>
                             </div>
                         </div>
                         <div class="row d-flex justify-content-center align-items-center bg-light p-3 border-six-footer">
@@ -210,11 +199,9 @@
                             </div>
                             <div class="col-9">
                                 <p>
-                                    Poseemos un inventario actualizado de
-                                    flora y fauna para identificar posibles
-                                    especies en peligro de extensión y tomar
-                                    las medidas para proteger la
-                                    biodiversidad.</p>
+                                Wir besitzen ein aktualilsiertes Verzeichnis der Tier- und Pflanzenarten 
+                                um  mögliche vom Aussterben bedrohte Arten zu indetifizieren und  Maßnahmen 
+                                für den Schutz der biologischen Vielfalt zu ergreifen. </p>
                             </div>
                         </div>
                     </div>

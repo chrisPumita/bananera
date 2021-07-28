@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Sostenibilidad - Grupo Esfuerzo"; ?>
+<?php $titulo = "NACHHALTIGKEIT - Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
 
@@ -21,12 +21,12 @@
             <div class="col">
                 <div class="text-white text-light">
                     <h2 class="mb-3">Responsabilidad Social Corporativa</h2>
-                    <h4 class="mb-4">En Grupo Esfuerzo, la sostenibilidad es nuestra única
-                        forma de hacer negocios. Nuestra estrategia consiste en
-                        construir un negocio exitoso a largo plazo, priorizando el
-                        bienestar de nuestros grupos de interés, y respetando los
-                        recursos naturales y los ecosistemas de los cuales
-                        formamos parte.</h4>
+                    <h4 class="mb-4">Für Grupo Esfuerzo ist die Nachhaltigkeit die 
+                        einzige Möglichkeit um Geschäfte zu tätigen. 
+                        Unsere Strategie ist es, ein langfristiges erfolgreiches Unternehmen aufzubauen, 
+                        indem wir das Wohlergehen unserer Intessengruppen priorisieren und die natürliche 
+                        Ressourcen und Ökosysteme, zu denen wir gehören, respektieren.
+                    </h4>
                 </div>
             </div>
         </div>
@@ -109,9 +109,9 @@
             <div class="row container-headers-parrafo">
                 <div class="col">
                     <div class="text-white text-light">
-                        <p class="mb-4 text-grey">Operamos gestionando nuestro triple impacto de manera
-                            responsable, aportando a la consecución de los <span class="text-blue"> Objetivos de
-                            Desarrollo Sostenible 4, 7, 8, 11, 12, 15 y 17. </span></p>
+                        <p class="mb-4 text-grey">Wir handeln durch verantwortungsvolles Management unserer dreifachen Wirkung,
+                             indem wir einen Beitrag zur <span class="text-blue"> Erreichung der Ziele
+                             4, 7, 8, 11, 12, 15 und 17 der nachhaltigen Entwicklung leisten. </span></p>
                     </div>
                 </div>
             </div>
@@ -138,7 +138,7 @@
             <div class="row py-3">
                 <div class="col text-center">
                     <h2 class="text-grey">
-                        Conozca nuestras acciones
+                        Lernen Sie hier unsere Aktionen kennen:
                     </h2>
                 </div>
             </div>
@@ -152,7 +152,7 @@
 
                         <div class="col d-flex justify-content-center align-items-center">
                             <div class="position-absolute text-center">
-                                <h3 class="text-light m-0">SOCIAL</h3>
+                                <h3 class="text-light m-0">Sozial</h3>
                             </div>
                             <img src="../assets/image/min/bg-red.ods-min.jpg" width="200" alt="">
                         </div>
@@ -165,7 +165,7 @@
                     </div>
                         <div class="col d-flex justify-content-center align-items-center">
                             <div class="position-absolute text-center">
-                                <h3 class="text-light m-0">GOBERNANZA</h3>
+                                <h3 class="text-light m-0">Führung</h3>
                             </div>
                             <img src="../assets/image/min/bg-red.ods-min.jpg" width="200" alt="">
                         </div>
@@ -179,7 +179,7 @@
 
                         <div class="col d-flex justify-content-center align-items-center">
                             <div class="position-absolute text-center">
-                                <h3 class="text-light m-0">AMBIENTAL</h3>
+                                <h3 class="text-light m-0">Umwelt</h3>
                             </div>
                             <img src="../assets/image/min/bg-rd-cr-min.jpg" width="200" alt="">
                         </div>

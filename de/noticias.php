@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Noticias - Grupo Esfuerzo"; ?>
+<?php $titulo = "NACHRICHTEN - Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
 
@@ -59,9 +59,9 @@
             <div class="timeline-img"></div>
             <div class="timeline-content js--fadeInRight">
                 <img src="../assets/notice/notice2/pin-notice-min.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
-                <h5 class="text-grey">Grupo esfuerzo participa en la
-                    construcción de dique para evitar
-                    inundaciones en comunidades del caribe</h5>
+                <h5 class="text-grey">GRUPO ESFUERZO NIMMT TEIL BEIM AUFBAU DES DAMMS 
+                    UM ÜBERSCHWEMMUNGEN IN DEN GEMEINDEN DER KARIBIK
+                     ZU VERMEIDEN</h5>
                 <div class="date">JUN 2021</div>
                 <p class="text-grey">Luego de que, en 2017, el Grupo Esfuerzo adquiriera una finca en
                     la comunidad de Bristol en Matina de Limón, sus directivos
@@ -76,9 +76,9 @@
             <div class="timeline-img"></div>
             <div class="timeline-content js--fadeInLeft">
                 <img src="../assets/notice/notice3/pin-notice-min.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
-                <h5 class="text-grey">Grupo Esfuerzo amplía su presencia en el
-                    mercado bananero con la adquisición de
-                    dos fincas más</h5>
+                <h5 class="text-grey">GRUPO ESFUERZO ERWEITERT SEINE PRÄSENZ AUF 
+                    DEM BANANENMARKT MIT DEM KAUF VON ZWEI WEITEREN
+                     GRUNDSTÜCKEN</h5>
                 <div class="date">MAY 2021</div>
                 <p class="text-grey">LA ADQUISICIÓN DE DOS FINCAS MÁS <br>
                     En diciembre del 2020, el Grupo Esfuerzo, decidió ampliar su
@@ -94,9 +94,9 @@
 
             <div class="timeline-content js--fadeInRight">
                 <img src="../assets/notice/notice4/pin-notice-min.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
-                <h5 class="text-grey">Camiones de Grupo Esfuerzo ahora
-                    cuentan con monitoreo por gps para
-                    mayor seguridad</h5>
+                <h5 class="text-grey">DIE LKWS VON GRUPO 
+                    ESFUERZO VERFÜGEN ÜBER GPS-ÜBERWACHUNG F
+                    ÜR MEHR SICHERHEIT</h5>
                 <div class="date">ABR 2021</div>
                 <p class="text-grey">Gracias a un Sistema de Posicionamiento Global (GPS), todos los
                     camiones del Grupo Esfuerzo cuentan con monitoreo en tiempo

@@ -39,8 +39,8 @@
                         <div class="row">
                             <div class="text-white text-light">
                                 <h3 class="mb-3">GRUPO ESFUERZO,</h3>
-                                <h2 class="mb-4">Producimos desde Costa Rica <br>
-                                    con prácticas sostenibles <br> <span class="text-primary">alimentos que nutren al planeta.</span></h2>
+                                <h2 class="mb-4">Wir produzieren in Costa Rica <br>
+                                mit nachhaltigen Praktiken <br> <span class="text-primary">Lebensmitteln die die Welt ernähren.</span></h2>
                             </div>
                         </div>
                         <picture>
@@ -74,11 +74,11 @@
                         </div>
                         <div class="col welcome-title">
                             <h2 class="text-primary">Lo que hacemos</h2>
-                            <p class="py-5 text-grey">Trabajamos por ser el proveedor referente a nivel <br>
-                                mundial del mejor banano costarricense, siempre <br>
-                                bajo estrictos estándares de producción sostenible <br>
-                                y priorizando el bienestar de nuestros <br>
-                                colaboradores y comunidades.</p>
+                            <p class="py-5 text-grey">Wir arbeiten, um der weltweit führende Lieferant der besten <br>
+                                costaricanischen Bananen zu werden, immer  <br>
+                                unter strenge Standards für eine nachhaltige <br>
+                                Produktion, wo das Wohlergehen  unserer  <br>
+                                Mitarbeiter und Gemeiden priorisiert ist.</p>
                             <button type="button" class="btn btn-outline-primary">Conozca nuestro producto</button>
                         </div>
                     </div>
@@ -96,18 +96,18 @@
                     </div>
                     <div class="col p-4">
 
-                        <span class="counts">màs de</span>
+                        <span class="counts">Über</span>
                         <div class="count-up">
                             <p class="text-primary  counter1 counter-count">500</p>
                         </div>
-                        <span class="counts">colaboradores(as)</span>
+                        <span class="counts">Arbeiter</span>
                     </div>
                     <div class="col p-4">
                         <span class="text-light"> .</span>
                         <div class="count-up">
                             <p class="text-primary  counter1 counter-count">960</p>
                         </div>
-                        <span class="counts">hectáreas</span>
+                        <span class="counts">Hektar Grundstück</span>
                     </div>
                 </div>
             </div>

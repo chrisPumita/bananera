@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Quienes Somos | Grupo Esfuerzo"; ?>
+<?php $titulo = "ÜBER UNS | Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
 
@@ -37,45 +37,43 @@
                 <div class="col-2 time-text">
                     <h5>1989</h5>
                     <p>
-                        Compra de tierras para desarrollo de finca.
+                        Kauf vonLand zur Erschließung von Grundstücken
                     </p>
                 </div>
                 <div class="col-2 time-text">
                     <h5>1992</h5>
                     <p>
-                        Venta de primer caja exportada.
+                    Verkauf der ersten exportierten Kisten
                     </p>
                 </div>
                 <div class="col-2 time-text">
                     <h5>2011</h5>
                     <p>
-                        Incursión en venta a
-                        clientes directos
-                        (supermercados).
+                        Das Unternehmen verkauft
+                         zum ersten Mal direkt an 
+                         Kunden in Supermärkten 
                     </p>
                 </div>
                 <div class="col-2 time-text">
                     <h5>2012</h5>
                     <p>
-                        Proyecto de
-                        urbanización
-                        “El Esfuerzo”.
+                        Urbanisierungprojekt.
                     </p>
                 </div>
                 <div class="col-2 time-text">
                     <h5>2017</h5>
                     <p>
-                        Crecimiento del
-                        50% con compra de
-                        segunda finca.
+                        Kauf vom zweiten Grundstück im 
+                        Jahr 2017, was ein Wachstum von 
+                        50% bedeutet 
                     </p>
                 </div>
                 <div class="col-2 time-text">
                     <h5>2020</h5>
                     <p>
-                        Crecimiento del 60%
-                        con adquisición de
-                        tercera y cuarta finca.
+                        Kauf von zwei weiteren Grundstücken, die ein Wachstum von 60% im
+                        Jahr 2020 darstellten. Für ein Gesamtwachstum von 2017
+                        bis heute, um 160% von 203 auf 540 Hektar.
                     </p>
                 </div>
             </div>
@@ -92,28 +90,26 @@
             </div>
             <div class="col border-left border-secondary historia">
                 <p class="text-grey">
-                    Grupo Esfuerzo es una empresa familiar costarricense,
-                    con más de 30 años de experiencia en la exportación de
-                    banano de excelente calidad y bajo las mejores prácticas
-                    de producción ética y sostenible
+                Grupo Esfuerzo ist ein costaricanisches Faimilienunternehmen,
+                 mit über 30 Jahren Erfahrung im Export von Bananen von 
+                 ausgezeichneter Qualität und unter dem besten ethischen und 
+                 nachhaltigen Produktion.
                 </p>
                 <p class="text-grey">
-                    Nacimos inicialmente como Bananera El Esfuerzo en
-                    1988, con el desarrollo de una finca en 28 Millas de
-                    Matina, en Limón de Costa Rica.
+                Ursprünglich wurden wir als Bananera El Esfuerzo im Jahr 1988
+                gegründet, mit der Entwicklung eines Grundstücks in 28 Millas 
+                de Matina, in Limón, Costa Rica.
                 </p>
                 <p class="text-grey">
-                    Desde entonces, hemos ampliado nuestra área de
-                    siembra de una finca a cuatro para un área total de 960
-                    hectáreas de siembra, y exportamos a regiones tales
-                    como Norteamérica, Caribe, Europa, Medio Oriente y
-                    Asia.
+                Seitdem haben wir unsere Pflanzfläche von einem Grundstück auf
+                vier erweitert, insgesamt 960 Hektar, und wir exportieren in 
+                Nordamerika, Karibik, Europa, Mittleren Osten und Asien. 
                 </p>
                 <p class="text-grey">
-                    Cada año, vendemos en promedio 1.6 millones de cajas,
-                    lo que equivale al 1.5% del mercado costarricense,
-                    impactando la economía local y aportando a la
-                    construcción de marca país alrededor del mundo.
+                Jedes Jahr verkaufen wir im Durchschnitt 1.6 Millionen Kisten, 
+                was 1.5% des costaricanischen Marktes entspricht, was sich auf
+                die lokale Wirtschaft auswirkt und zum Aufbau der 
+                Ländermarke weltweit beigeträgt. 
                 </p>
             </div>
         </div>
@@ -130,20 +126,19 @@
         <div class="row">
             <div class="col m-auto text-center">
                 <img src="../assets/image/medalla.svg" width="60" alt="">
-                <h2 class="text-primary">Propósito y valores</h2>
+                <h2 class="text-primary">ZIEL UND WERTE</h2>
             </div>
             <div class="col border-left border-primary historia">
                 <p class="text-grey">
-                    Somos una empresa caracterizada por su ética,
-                    compromiso y confiabilidad, que se guía por las buenas
-                    prácticas de responsabilidad social y ambiental.
+                Wir sind ein Unternehmen, das sich durch seine Ethik, Engagement 
+                und Zuverlässigkeit ausgezeichnet, die durch gute Praktiken der 
+                sozialen und ökologischen Verantwortung geführt wird.
                 </p>
                 <p class="text-grey">
-                    Trabajamos por ser el proveedor referente a nivel
-                    mundial del mejor banano costarricense, siempre bajo
-                    estrictos estándares de sostenibilidad y en armonía con
-                    el planeta, priorizando el bienestar de nuestros
-                    trabajadores, sus familias y comunidades.
+                Wir arbeiten, um der weltweit führende Lieferant der besten 
+                costaricanischen Bananen zu werden, immer unter strenge Standards 
+                für eine nachhaltige Produktion, wo das Wohlergehen  unserer 
+                Mitarbeiter, ihrer Familien und Gemeiden priorisiert ist. 
                 </p>
                 <p class="text-grey">
                     Además, aspiramos a expandir nuestra oferta a
@@ -154,8 +149,8 @@
                     colaboradores, proveedores, clientes y consumidores.
                 </p>
                 <p class="text-grey">
-                    ¡Hagamos negocios y descubra cómo el banano
-                    costarricense puede cambiar el mundo!
+                    Machen Sie Geschäfte mit uns und entdecken Sie, 
+                    wie die Banane aus Costa Rica die Welt verändern kann!
                 </p>
             </div>
         </div>
@@ -175,7 +170,7 @@
         </div>
     </div>
     <div class="container-sm py-5">
-        <h2>Exitosa trayectoria</h2>
+        <h2>Erfolgreicher Kurs</h2>
         <h2 class="text-primary">Escuche nuestro StoryTelling</h2>
         <audio preload="none" controls>
             <source src="../assets/podcast.mp3" type="audio/mpeg">
@@ -186,87 +181,73 @@
         <div class="row">
             <div class="col podcast">
                 <p class="text-grey">
-                    Todos soñamos con dedicar nuestra vida a aquello que
-                    amamos; hacer un impacto en el mundo y dejar un legado.
-                    Por eso, muchos hombres deciden crear su propio negocio,
-                    pero pocos, como don Eduardo Gómez, lo convierten en un
-                    grupo empresarial exitoso, reconocido internacionalmente y
-                    sostenible durante más de 30 años, y contando…
+                    Wir alle träumen davon, unser Leben dem zu widmen, was wir lieben; 
+                    einen Einfluss auf die Welt zu haben und ein Vermächtnis zu 
+                    hinterlassen. Deshalb entscheiden sich viele Menschen, ihr eigenes Unternehmen
+                    zu gründen, aber nur wenige, wie Don Eduardo Gómez, machen 
+                    daraus eine erfolgreiche, international anerkannte und nachhaltige
+                    Unternehmensgruppe, die seit mehr als 30 Jahren. . .
                 </p>
                 <p class="text-grey">
-                    Y es que, sin duda alguna, este visionario, ha dedicado toda su
-                    vida al banano. Empezó casi siendo un niño, en 1948, como
-                    mensajero en la oficina de contabilidad de la empresa
-                    Chiquita Brands donde trabajaba su padre.
+                    Dieser Visionär hat nähmlich ohne Zweifel sein ganzes Leben 
+                    den Bananen gewidmet. Er fing 1948 als Kind an, als Bote der Buchhaltung
+                    des Unternehmens Chiquita Brands, wo sein Vater gearbeitet hat. 
                 </p>
                 <p class="text-grey">
-                    Desde ese humilde puesto, dedicaba su tiempo libre a
-                    prepararse en contaduría y a sacar la secundaria por
-                    correspondencia. Mientras otros muchachos de su edad
-                    quizás jugaban al fútbol o andaban en bicicleta, Eduardo ya
-                    se alistaba para una carrera en finanzas, administración y
-                    hasta tecnología de la información, puestos que desempeñó
-                    con eficiencia, excelencia y esfuerzo durante sus 40 años en
-                    Chiquita.
+                    Von diesem bescheidenen Posten aus verbrachte er seine Freizeit damit, sich 
+                    auf die Buchhaltung vorzubereiten und die Highschool durch Fernstudium abzuschaffen.
+                    Als alle andere Jungs vielleicht Fußball spielten oder Fahrrad fuhren, bereitete 
+                    sich Eduardo für eine Karriere in der Finanzbranche, Verwaltung und sogar 
+                    Informationstechnologie vor, Stellen die er während seiner 40 Jahre in Chiquita
+                    effizient, vorzüglich und mit Bemühung übernommen hat.
                 </p>
                 <p class="text-grey">
-                    ¿Lo visualiza, joven y delgado, soñando con exportar su
-                    propia marca de bananos al resto del mundo?
-                    Por esa razón es que, desde antes de emprender, Eduardo
-                    Gómez, decidió que le pondría a su anhelada empresa el
-                    nombre de El Esfuerzo “para que reflejara el esfuerzo por
-                    tener algo propio después de ser empleado de una empresa
-                    bananera por muchos años”.
+                    Visualisieren Sie ihn, jung und dünn, als er geträumt hat, seine eigene 
+                    Marke Bananen in den Rest der Welt zu exportieren?
+                    Aus diesem Grund entschied sich Eduardo Gómez schon vor seiner Gründung,
+                    dass er seinem Unternehmen den Namen El Esfuerzo geben würde, «um das Streben 
+                    nach etwas Eigenem widerzuspiegeln, nachdem er viele Jahre lang bei einer
+                    Bananenfirma beschäftigt war. »
                 </p>
                 <p class="text-grey">
-                    Así fue como en el 88 compró las primeras 230 hectáreas en
-                    28 Millas de Bataán de Matina. Dos años después invirtió
-                    todos sus ahorros y consiguió un préstamo bancario que lo
-                    convertiría en empresario, para eso hasta hipotecó su propia
-                    casa.
+                    So kaufte er 1988 die ersten 230 Hektar Land in 28 Meilen von Bataan de Matina. 
+                    Zwei Jahre später investierte er all seine Ersparnisse und bekam einen Bankkredit, der 
+                    ihn zum Geschäftsmann machte, und dafür nahm er sogar eine Hypothek auf sein eigenes Haus auf.
                 </p>
             </div>
             <div class="col podcast">
                 <p class="text-grey">
-                    Pero El Esfuerzo no se transformaría en empresa hasta que,
-                    como pasa con los mejores líderes corporativos del mundo,
-                    enfrentara su primera crisis…
-                    El 22 de abril de 1991, un terremoto de nada más y nada
-                    menos que 7,7 grados en la escala sismológica de magnitud
-                    de momento sacudió Costa Rica y a la zona fronteriza de
-                    Panamá.
+                    Aber El Esfuerzo würde nicht in ein Unternehmen umgewandelt werden, bis es, wie es 
+                    bei den besten Unternehmensführern der Welt der Fall ist, mit seiner ersten Krise konfrontiert
+                    ist.
+                    Am 22. April 1991 erschütterte ein Erdbeben der Stärke 7,7 auf der seismologischen Skala
+                     der momentanen Stärke Costa Rica und das Grenzgebiet Panamas.
                 </p>
                 <p class="text-grey">
-                    Este evento sísmico casi destruye por completo todo lo
-                    avanzado para El Esfuerzo y sumió a la provincia de Limón en
-                    un ambiente espectral y de angustia mientras en las noticias
-                    se hablaba de decenas de muertos y heridos.
+                    Dieses seismisches Ereigniss hat fast alle Fortschritte für El Esfuerzo zerstört, und die ganze 
+                    Provinz von Limón sank in eine dunkle und beängstige Atmosphäre während die Nachrichten über
+                    Dutzende von Verletzten und Toten redeten. 
                 </p>
                 <p class="text-grey">
-                    ¿Cómo superar eso cuando se está empezando? ¿Cómo no
-                    renunciar? Pues haciendo lo que don Eduardo sabe bien, dar
-                    su mayor esfuerzo. ¿Su motivación? Construir un patrimonio
-                    para su familia y hacer un aporte al país.
+                    Wie kann man das überwinden, wenn man gerade angefangen hat? Wie kann man nicht aufgeben? So wie 
+                    Eduardo, sein Bestes geben. Seine Motivation? Ein Erbe für seine Familie aufzubauen und dem Land
+                    seinen Beitrag zu leisten. 
                 </p>
                 <p class="text-grey">
-                    Ese, el esfuerzo, junto a la confiabilidad, el compromiso, la
-                    calidad y la responsabilidad social y ambiental son los valores
-                    que marcan su liderazgo hasta el día de hoy, como
-                    empresario y como miembro de la Junta Directiva de la
-                    Corporación Bananera Nacional (CORBANA).
+                    Diese Anstrengung, im Zusammenhang mit der Zuverlässigkeit, dem Kompromiss, der Qualität, 
+                    der sozialen und ökonomischen Verantwortung, sind die Werte die seiner Führung bis heute bewirkt,
+                     beides als Unternehmensführer und als Vorstandsmitglied der (Nationalen Bananenkorporation (CORBANA). 
                 </p>
                 <p class="text-grey">
-                    Esos también son los valores que inculcó a su hijo Jaime y a
-                    su nieto Roberto, quienes ahora comparten la dirección de la
-                    empresa.
+                    Das sind auch die Werte die er seinem Sohn Jaime und seinem
+                    Enkelsohn Roberto vermittelt hat, die jetzt bei der
+                    Führung des Unternehmens teilnehmen. 
                 </p>
                 <p class="text-grey">
-                    Ellos, y todas las personas que integran El Esfuerzo, han
-                    abrazado esta filosofía a través de una estrategia de
-                    Responsabilidad Social Empresarial que inició mucho antes
-                    de que las Naciones Unidas diseñara su agenda 2030 pero
-                    que también busca garantizar vivienda digna, acceso a la
-                    educación y la salud, y el cuidado del medio ambiente.
+                    Sie und alle anderen Mitglieder von El Esfuerzo haben diese Philosophie durch eine Strategie der 
+                    sozialen Unternehmensverantwortung übernommen, die lange bevor die Vereinten Nationen ihre Agenda
+                    2030 entwarfen, die aber auch darauf abzielt, menschenwürdiges Wohnen, Zugang zu Bildung und Gesundheit
+                    sowie Umweltschutz zu gewährleisten.
                 </p>
             </div>
         </div>

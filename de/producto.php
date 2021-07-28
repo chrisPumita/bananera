@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Nuestro producto - Grupo Esfuerzo"; ?>
+<?php $titulo = "PRODUKTE - Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
 
@@ -51,24 +51,20 @@
             <div class="col text-parrafo">
                 <div class="row">
                     <div class="text-secondary">
-                        <h3 class="mb-3">La variedad Cavedish</h3>
+                        <h3 class="mb-3">CAVENDISH BANANE</h3>
                         <p class="text-grey">
-                            En el mundo hay más de mil variedades de
-                            banano. De hecho, es un alimento básico esencial
-                            en muchos países y cumple un rol fundamental
-                            para la seguridad alimentaria.
+                        Auf der Welt gibt es über 1000 Bananensorten. Tatsächlich ist es in
+                        vielen Ländern ein grundlegendes Grundnahrungsmittel und spielt eine 
+                        entscheidende Rolle für die Ernährungssicherheit.
                         </p>
                         <p class="text-grey">
-                            En Grupo Esfuerzo nos especializados en producir
-                            específicamente banano Cavendish.
+                            In Grupo Esfuerzo spezialisieren wir uns 
+                            spezifisch auf die Produktion von Cavendisch Bananen. 
                         </p>
                         <p class="text-grey">
-                            De acuerdo con la Organización de las Naciones
-                            Unidas para la Alimentación y la Agricultura (FAO),
-                            esta variedad representa el 95% de todos los
-                            bananos comercializados en el mundo. Es una
-                            fruta dulce y no tiene semillas, por lo que resulta
-                            deliciosa y apropiada para el consumo.
+                        Nach Angaben der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (FAO) 
+                        macht diese Sorte 95% aller weltweit vermarkteten Bananen aus. Es ist eine süsse 
+                        Frucht und hat keine Samen, so dass es lecker und geeignet für den Verzehr.
                         </p>
                     </div>
                 </div>
@@ -90,10 +86,10 @@
                                 <img class="comilla" src="../assets/image/min/comilla-min.png" height="auto" width="150" alt="">
                             </div>
                             <div class="col-auto text-secondary text-mje cite" >
-                                <h2 class="mje-2">Contiene unos 400mg de</h2>
-                                <h2 class="mje-2">potasio por cada 100g de</h2>
-                                <h2 class="mje-2">fruta fresca. Es fuente de</h2>
-                                <h2 class="mje-2"><mark class="mark-vitamina">vitamina C y B6”</mark></h2>
+                                <h2 class="mje-2">Es enthält etwa 400 Milligramm </h2>
+                                <h2 class="mje-2">Kalium pro 100 g</h2>
+                                <h2 class="mje-2">frisches Obst. Sie sind</h2>
+                                <h2 class="mje-2"><mark class="mark-vitamina">Vitamin C- und B6-Quelle.”</mark></h2>
                             </div>
                         </div>
                     </div>
@@ -118,14 +114,13 @@
             <div class="col text-parrafo">
                 <div class="row">
                     <div class="text-secondary">
-                        <h3 class="mb-3">Nuestras marcas</h3>
+                        <h3 class="mb-3">UNSERE MARKEN</h3>
                         <p class="text-grey">
-                            Nuestra compañía tiene dos marcas propias: <br>
-                            <span class="text-secondary">Coriban y Laloban.</span> La primera en referencia a
-                            la expresión globalmente conocida Costa Rican
-                            Bananas, y la segunda en honor al apodo
-                            cariñoso y familiar de nuestro fundador.
-                            También somos proveedores de compañías multinacionales que exportan nuestros bananos bajo sus propias marcas.
+                            Unser Unternehmen hat zwei eigene Marken: <br>
+                            <span class="text-secondary">Coriban und Laloban.</span> Die erste im Bezug 
+                            zur weltberühmten Costa Rican Bananas, und die zweite zu Ehren den liebevollen 
+                            und vertrauten Sptiznamen des Gründers.
+                            Wir sind auch Lieferanten von multinationalen Unternehmens die die unter denselben Namen exportieren. 
                         </p>
                     </div>
                 </div>
