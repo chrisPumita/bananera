@@ -140,7 +140,8 @@
         <div class="row d-flex justify-content-center align-items-center position-absolute  mje-wabe">
             <div class="col m-3 p-5 bg-blue">
                 <h2 class="text-light text-center ">Wir erhöhen die Produktivität pro Hektar
-                     in den landwirtschaftlichen Flächen. </h2>
+                     in den landwirtschaftlichen Flächen, Wir erzeugen Devisen und
+                      Wirtschaftsaktivitäten für Costa Rica. </h2>
             </div>
         </div>
         <img class="d-none d-sm-none d-md-block" src="../assets/image/min/wabe-bg-gob-min.png" width="100%" alt="">

@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Quienes Somos | Gobernanza"; ?>
+<?php $titulo = "Quienes Somos | Governance"; ?>
 <html lang="en">
 <head>
 
@@ -16,10 +16,10 @@
         <div class="row container-headers-parrafo">
             <div class="col">
                 <div class="text-white text-light">
-                    <h6 class="mb-4 py-3">Sostenibilidad</h6>
-                    <h2 class="mb-3">Gobernanza</h2>
-                    <h5 class="mb-4">Aportamos al ODS 17 Alianzas
-                        para lograr los objetivos</h5>
+                    <h6 class="mb-4 py-3">SUSTAINABILITY</h6>
+                    <h2 class="mb-3">Governance</h2>
+                    <h5 class="mb-4">We contribute to SDG 17 Partnerships
+                        dedicated to achieving the goals</h5>
                 </div>
 
             </div>
@@ -54,11 +54,9 @@
                 <div class="col d-flex justify-content-center align-items-center">
                     <div class="position-relative text-center">
                         <p class="text-grey py-3">
-                            Durante estos años, ampliamos el
-                            área de siembra de una finca a
-                            cuatro. Actualmente tenemos 960
-                            hectáreas en total, de las cuales
-                            550 están produciendo.
+                        During these years we have extended our farming capacity from one farm to 
+                        four. We now have 960 hectares in total, out of which 534 are producing. 
+                        
                         </p>
                     </div>
                 </div>
@@ -70,11 +68,8 @@
                 <div class="col d-flex justify-content-center align-items-center">
                     <div class="position-relative text-center">
                         <p class="text-grey py-3">
-                            En los últimos 4 años, triplicamos
-                            nuestro tamaño de negocio, gracias
-                            al aporte de nuestros
-                            colaboradores, clientes, socios
-                            comerciales y proveedores.
+                        In the last four years we have tripled our buisness size, thanks to the 
+                        contribution of our employees, customers, business partners and suppliers.
                         </p>
                     </div>
                 </div>
@@ -102,10 +97,8 @@
                 <div class="col d-flex justify-content-center align-items-center">
                     <div class="position-relative text-center">
                         <p class="text-grey py-3">
-                            Contribución anual de
-                            aproximadamente $115 mil a las
-                            municipalidades de los cantones
-                            donde están ubicadas las fincas.
+                        Annual contribution of approximately USD115,000 to the municipalities 
+                        of the counties where the farms are located.
                         </p>
                     </div>
                 </div>
@@ -117,9 +110,7 @@
                 <div class="col d-flex justify-content-center align-items-center">
                     <div class="position-relative text-center">
                         <p class="text-grey py-3">
-                            En este momento, representamos
-                            el 1.5% del mercado nacional de
-                            banano.
+                        At this moment, we represent 1.5% of the national banana market.
                         </p>
                     </div>
                 </div>
@@ -131,8 +122,7 @@
                 <div class="col d-flex justify-content-center align-items-center">
                     <div class="position-relative text-center">
                         <p class="text-grey py-3">
-                            Abrimos nuevos canales de
-                            comercialización independiente.
+                        We opened new independent commerce channels
                         </p>
                     </div>
                 </div>
@@ -146,10 +136,9 @@
         </div>
         <div class="row d-flex justify-content-center align-items-center position-absolute  mje-wabe">
             <div class="col m-3 p-5 bg-blue">
-                <h2 class="text-light text-center ">Aumentamos la productividad
-                    por hectárea en las fincas,
-                    generamos divisas y actividad
-                    económica para Costa Rica.</h2>
+                <h2 class="text-light text-center ">We increased productivity in the farms, 
+                    we generate foreign exchange and economic activity 
+                    for Costa Rica .</h2>
             </div>
         </div>
         <img class="d-none d-sm-none d-md-block" src="../assets/image/min/wabe-bg-gob-min.png" width="100%" alt="">
@@ -159,11 +148,10 @@
         <div class="container-sm globe-contain container-fuid d-flex justify-content-center align-items-center">
             <div class="row d-flex justify-content-center align-items-center position-absolute  mje-wabe">
                 <div class="col m-3 p-5">
-                    <h5 class="text-grey text-center ">Contribución anual de <span class="text-primary">$55 mil para el Fondo Especial de Prevención e
-                        Infraestructura, para el Ministerio de Seguridad Pública de Costa Rica </span>en
-                        ayuda a la seguridad ciudadana de las zonas donde están ubicadas las
-                        fincas, y para el Ministerio de Salud en ayuda con los gastos de las
-                        atenciones médicas de la misma región.</h5>
+                    <h5 class="text-grey text-center ">Annual contribution of <span class="text-primary">USD55,000 to the Special Fund for 
+                        Prevention and Infrastructure, at the Costa Rican Ministry of Public Security</span>eto help with public safety
+                        in the areas where the farms are located, and to the Ministry of Health to 
+                        help with the cost of medical care in the same region.</h5>
                 </div>
             </div>
         </div>

@@ -37,45 +37,39 @@
                 <div class="col-2 time-text">
                     <h5>1989</h5>
                     <p>
-                        Compra de tierras para desarrollo de finca.
+                        Purchase of land for farm 
+                        development
                     </p>
                 </div>
                 <div class="col-2 time-text">
                     <h5>1992</h5>
                     <p>
-                        Venta de primer caja exportada.
+                        Export  of the first banana case
                     </p>
                 </div>
                 <div class="col-2 time-text">
                     <h5>2011</h5>
                     <p>
-                        Incursión en venta a
-                        clientes directos
-                        (supermercados).
+                    First time the company ventured into sales
+                     to direct supermarket customers
                     </p>
                 </div>
                 <div class="col-2 time-text">
                     <h5>2012</h5>
                     <p>
-                        Proyecto de
-                        urbanización
-                        “El Esfuerzo”.
+                    Urban development project 
                     </p>
                 </div>
                 <div class="col-2 time-text">
                     <h5>2017</h5>
                     <p>
-                        Crecimiento del
-                        50% con compra de
-                        segunda finca.
+                    50% growth with the Purchase of a second farm
                     </p>
                 </div>
                 <div class="col-2 time-text">
                     <h5>2020</h5>
                     <p>
-                        Crecimiento del 60%
-                        con adquisición de
-                        tercera y cuarta finca.
+                    60% growth with the Purchase of two other farms
                     </p>
                 </div>
             </div>
@@ -92,28 +86,24 @@
             </div>
             <div class="col border-left border-secondary historia">
                 <p class="text-grey">
-                    Grupo Esfuerzo es una empresa familiar costarricense,
-                    con más de 30 años de experiencia en la exportación de
-                    banano de excelente calidad y bajo las mejores prácticas
-                    de producción ética y sostenible
+                Grupo Esfuerzo is a Costa Rican owned company with more than 30 
+                years of experience exporting bananas of excellent quality and 
+                following the best ethical and sustainable production practices.
                 </p>
                 <p class="text-grey">
-                    Nacimos inicialmente como Bananera El Esfuerzo en
-                    1988, con el desarrollo de una finca en 28 Millas de
-                    Matina, en Limón de Costa Rica.
+                We were first established as Bananera El Esfuerzo in 1988, 
+                with the development of a farm in 28 Millas de Matina, in 
+                Limón, Costa Rica.
                 </p>
                 <p class="text-grey">
-                    Desde entonces, hemos ampliado nuestra área de
-                    siembra de una finca a cuatro para un área total de 960
-                    hectáreas de siembra, y exportamos a regiones tales
-                    como Norteamérica, Caribe, Europa, Medio Oriente y
-                    Asia.
+                Since then, we have expanded our production area from one farm to four 
+                for a total of 960 hectares, and export to North America, Caribbean,
+                Europe, Middle East and Asia. 
                 </p>
                 <p class="text-grey">
-                    Cada año, vendemos en promedio 1.6 millones de cajas,
-                    lo que equivale al 1.5% del mercado costarricense,
-                    impactando la economía local y aportando a la
-                    construcción de marca país alrededor del mundo.
+                Each year we sell an average of 1.6 million cases, which is equivalent 
+                to 1.5% of the Costa Rican market, thus impacting the local economy and 
+                contributing to building the country's brand worldwide.  
                 </p>
             </div>
         </div>
@@ -130,20 +120,19 @@
         <div class="row">
             <div class="col m-auto text-center">
                 <img src="../assets/image/medalla.svg" width="60" alt="">
-                <h2 class="text-primary">Propósito y valores</h2>
+                <h2 class="text-primary">PURPOSE AND VALUES</h2>
             </div>
             <div class="col border-left border-primary historia">
                 <p class="text-grey">
-                    Somos una empresa caracterizada por su ética,
-                    compromiso y confiabilidad, que se guía por las buenas
-                    prácticas de responsabilidad social y ambiental.
+                We are a company known for our ethics, commitment and reliability, 
+                and that is driven by the use of the best practices in social and 
+                environmental responsibility.
                 </p>
                 <p class="text-grey">
-                    Trabajamos por ser el proveedor referente a nivel
-                    mundial del mejor banano costarricense, siempre bajo
-                    estrictos estándares de sostenibilidad y en armonía con
-                    el planeta, priorizando el bienestar de nuestros
-                    trabajadores, sus familias y comunidades.
+                We strive to become the world's leading supplier of the best Costa 
+                Rican bananas, always under strict sustainability standards and in 
+                harmony with the planet, prioritizing the well-being of our workers,
+                their families and communities.
                 </p>
                 <p class="text-grey">
                     Además, aspiramos a expandir nuestra oferta a
@@ -154,8 +143,7 @@
                     colaboradores, proveedores, clientes y consumidores.
                 </p>
                 <p class="text-grey">
-                    ¡Hagamos negocios y descubra cómo el banano
-                    costarricense puede cambiar el mundo!
+                Let's do business and discover how Costa Rican bananas can change the world! 
                 </p>
             </div>
         </div>
@@ -175,7 +163,7 @@
         </div>
     </div>
     <div class="container-sm py-5">
-        <h2>Exitosa trayectoria</h2>
+        <h2>A Successful Story</h2>
         <h2 class="text-primary">Escuche nuestro StoryTelling</h2>
         <audio preload="none" controls>
             <source src="../assets/podcast.mp3" type="audio/mpeg">
@@ -186,87 +174,78 @@
         <div class="row">
             <div class="col podcast">
                 <p class="text-grey">
-                    Todos soñamos con dedicar nuestra vida a aquello que
-                    amamos; hacer un impacto en el mundo y dejar un legado.
-                    Por eso, muchos hombres deciden crear su propio negocio,
-                    pero pocos, como don Eduardo Gómez, lo convierten en un
-                    grupo empresarial exitoso, reconocido internacionalmente y
-                    sostenible durante más de 30 años, y contando…
+                We all dream of devoting our lives to doing what we love; to make 
+                an impact on the world and leave a legacy. That is why many people
+                decide to start their own business, but few, like Mr. Eduardo Gómez,
+                 are able to turn it into a successful, internationally recognized 
+                 and sustainable business group for more than 30 years, and counting...
                 </p>
                 <p class="text-grey">
-                    Y es que, sin duda alguna, este visionario, ha dedicado toda su
-                    vida al banano. Empezó casi siendo un niño, en 1948, como
-                    mensajero en la oficina de contabilidad de la empresa
-                    Chiquita Brands donde trabajaba su padre.
+                Without a doubt, this visionary has dedicated his entire life to 
+                bananas. He began as a young boy, in 1948, as a messenger in the 
+                accounting office of the Chiquita Brands company where his father 
+                worked.
                 </p>
                 <p class="text-grey">
-                    Desde ese humilde puesto, dedicaba su tiempo libre a
-                    prepararse en contaduría y a sacar la secundaria por
-                    correspondencia. Mientras otros muchachos de su edad
-                    quizás jugaban al fútbol o andaban en bicicleta, Eduardo ya
-                    se alistaba para una carrera en finanzas, administración y
-                    hasta tecnología de la información, puestos que desempeñó
-                    con eficiencia, excelencia y esfuerzo durante sus 40 años en
-                    Chiquita.
+                From that humble job, he devoted his free time studying accounting 
+                and obtaining his high school diploma through correspondence. While 
+                other boys his age were playing soccer or riding bicycles, Eduardo 
+                was already preparing for a career in finance, administration and 
+                even information technology, positions he performed efficiently, with 
+                excellence and effort during his 40 years working at Chiquita.
                 </p>
                 <p class="text-grey">
-                    ¿Lo visualiza, joven y delgado, soñando con exportar su
-                    propia marca de bananos al resto del mundo?
-                    Por esa razón es que, desde antes de emprender, Eduardo
-                    Gómez, decidió que le pondría a su anhelada empresa el
-                    nombre de El Esfuerzo “para que reflejara el esfuerzo por
-                    tener algo propio después de ser empleado de una empresa
-                    bananera por muchos años”.
+                    ¿Can you picture him, young and slim, dreaming of exporting
+                    his own brand of bananas to the rest of the world?
+                    For this reason, Eduardo Gómez decided, long before starting his 
+                    business, that he would name his dream company El Esfuerzo "to 
+                    reflect the effort that it took to have something of his own after 
+                    being an employee of a banana company for many years". 
                 </p>
                 <p class="text-grey">
-                    Así fue como en el 88 compró las primeras 230 hectáreas en
-                    28 Millas de Bataán de Matina. Dos años después invirtió
-                    todos sus ahorros y consiguió un préstamo bancario que lo
-                    convertiría en empresario, para eso hasta hipotecó su propia
-                    casa.
+                That is how in 1988 he bought the first 230 hectares in 28 Millas 
+                de Bataán de Matina. Two years later he invested all of his life 
+                savings and secured a bank loan that would turn him into a businessman, 
+                even mortgaging his own house in the process.  
                 </p>
             </div>
             <div class="col podcast">
                 <p class="text-grey">
-                    Pero El Esfuerzo no se transformaría en empresa hasta que,
-                    como pasa con los mejores líderes corporativos del mundo,
-                    enfrentara su primera crisis…
-                    El 22 de abril de 1991, un terremoto de nada más y nada
-                    menos que 7,7 grados en la escala sismológica de magnitud
-                    de momento sacudió Costa Rica y a la zona fronteriza de
-                    Panamá.
+                But El Esfuerzo would not become a real company until, as it 
+                happens with the best corporate leaders in the world, it faced 
+                its first crisis...
+                On April 22, 1991, an earthquake measuring no less than a shocking 
+                7.7 on the seismological moment magnitude scale struck Costa Rica 
+                and the border area of Panama.
                 </p>
                 <p class="text-grey">
-                    Este evento sísmico casi destruye por completo todo lo
-                    avanzado para El Esfuerzo y sumió a la provincia de Limón en
-                    un ambiente espectral y de angustia mientras en las noticias
-                    se hablaba de decenas de muertos y heridos.
+                This seismic event almost completely destroyed everything that had 
+                been accomplished by El Esfuerzo and plunged the province of Limón 
+                into a gloomy atmosphere of anguish, meanwhile the news reported dozens 
+                of deaths and injuries. 
                 </p>
                 <p class="text-grey">
-                    ¿Cómo superar eso cuando se está empezando? ¿Cómo no
-                    renunciar? Pues haciendo lo que don Eduardo sabe bien, dar
-                    su mayor esfuerzo. ¿Su motivación? Construir un patrimonio
-                    para su familia y hacer un aporte al país.
+                ow do you overcome an event like this when you are just starting out? 
+                How do you not give up? Well, by doing what Mr Eduardo knows best, 
+                giving his best effort. His motivation? To build a legacy for his 
+                family and make a contribution to the country... 
                 </p>
                 <p class="text-grey">
-                    Ese, el esfuerzo, junto a la confiabilidad, el compromiso, la
-                    calidad y la responsabilidad social y ambiental son los valores
-                    que marcan su liderazgo hasta el día de hoy, como
-                    empresario y como miembro de la Junta Directiva de la
-                    Corporación Bananera Nacional (CORBANA).
+                That effort, together with reliability, commitment, quality and social
+                and environmental responsibility are the values that mark his leadership 
+                to this day, both as a businessman and as a member of the Board of 
+                Directors of Corporación Bananera Nacional (CORBANA). 
                 </p>
                 <p class="text-grey">
-                    Esos también son los valores que inculcó a su hijo Jaime y a
-                    su nieto Roberto, quienes ahora comparten la dirección de la
-                    empresa.
+                These are also the values he instilled in his son Jaime and 
+                his grandson Roberto, who now share the management of the company.
                 </p>
                 <p class="text-grey">
-                    Ellos, y todas las personas que integran El Esfuerzo, han
-                    abrazado esta filosofía a través de una estrategia de
-                    Responsabilidad Social Empresarial que inició mucho antes
-                    de que las Naciones Unidas diseñara su agenda 2030 pero
-                    que también busca garantizar vivienda digna, acceso a la
-                    educación y la salud, y el cuidado del medio ambiente.
+                Together with all of the people who make up El Esfuerzo, they have embraced 
+                this philosophy through a Corporate Social Responsibility strategy that 
+                began long before the United Nations designed its 2030 agenda, which also
+                 seeks to guarantee proper housing, access to education and health, and 
+                 care for the environment. 
                 </p>
             </div>
         </div>

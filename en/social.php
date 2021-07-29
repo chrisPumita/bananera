@@ -16,12 +16,11 @@
         <div class="row container-headers-parrafo">
             <div class="col">
                 <div class="text-white text-light">
-                    <h6 class="mb-4 py-3">Sostenibilidad</h6>
+                    <h6 class="mb-4 py-3">SUSTAINABILITY</h6>
                     <h2 class="mb-3">Social</h2>
-                    <h5 class="mb-4">Aportamos a los ODS 4 Educación de
-                        calidad; 8 Trabajo decente y crecimiento
-                        económico y 11 Ciudades y comunidades
-                        sostenibles</h5>
+                    <h5 class="mb-4">We contribute to SDGs 4 Quality education; 
+                        8 Decent work and economic growth; and 11 Sustainable cities 
+                        and communities.</h5>
                 </div>
 
             </div>
@@ -59,29 +58,25 @@
     <div class=" p-5 container">
         <div class="row d-flex justify-content-center align-items-center">
             <div class="col">
-                <h6 class="text-grey">DONACIÓN DE ÚTILES</h6>
+                <h6 class="text-grey">DONATION OF SCHOOL SUPPLIES</h6>
                 <p class="text-grey py-5">
-                    Cada año, Grupo Esfuerzo entrega más de 300
-                    paquetes de útiles escolares. Este programa está
-                    enfocado en niños y niñas menores de 12 años
-                    que asisten a primaria, hijos e hijas de nuestros
-                    colaboradores y colaboradoras en Limón.
+                Every year, Grupo Esfuerzo delivers more than 300 packages of school 
+                supplies. This program is focused on children under the age of 12 
+                who attend elementary school, and are the sons and daughters of our 
+                employees in Limón. 
                 </p>
             </div>
             <div class="col border-left border-primary historia">
-                <h6 class="text-grey">BECAS POR DESEMPEÑO</h6>
+                <h6 class="text-grey">PERFORMANCE-BASED GRANTS</h6>
                 <p class="text-grey">
-                    Grupo Esfuerzo otorga un reconocimiento
-                    monetario de aproximadamente $50 semestrales
-                    a jóvenes y adolescentes quienes asisten a
-                    secundaria y tienen notas por encima de 80,
-                    como incentivo para que mantengan su
-                    desempeño.
+                Grupo Esfuerzo grants a monetary award of approximately $50 per semester 
+                to young people and adolescents who attend high school and who maintain a 
+                grade average of 80 and above, as an incentive to continue their performance.
 
                 </p>
                 <p class="text-grey">
-                    Los beneficiados también son hijos e hijas de
-                    colaboradores de la empresa.
+                The beneficiaries are also the sons 
+                and daughters of our company employees.
                 </p>
             </div>
             <div class="col">
@@ -105,17 +100,17 @@
         <div class="row container-headers-parrafo">
             <div class="col">
                 <div class="text-white text-light">
-                    <h4 class="mb-4 py-3 text-secondary">Trabajo decente y
-                        crecimiento económico</h4>
-                    <h6 class="mb-4 text-grey">Generamos empleo formal en zonas históricamente vulnerabilizadas,
-                        incluyendo Matina, el cantón con mayor rezago según el Atlas de Desarrollo
-                        Humano del Programa de las Naciones Unidas para el Desarrollo (PNUD) y la
-                        Universidad de Costa Rica.</h6>
+                    <h4 class="mb-4 py-3 text-secondary">Proper work and economic 
+                                growth</h4>
+                    <h6 class="mb-4 text-grey">We generate formal employment in historically vulnerable areas, 
+                        including Matina, the county in Costa Rica with the greatest disadvantage according to 
+                        the Human Development Atlas of the United Nations Development Program (UNDP) and the
+                         University of Costa Rica.</h6>
                 </div>
                 <div class="text-white text-light py-5">
                     <img src="../assets/image/hands.svg" width="60" alt="">
-                    <h5 class="mb-4 text-primary py-3">Brindamos más de 500 puestos de trabajo; de los cuales
-                        100 empleos son para indígenas Tayní – Cábecar.</h5>
+                    <h5 class="mb-4 text-primary py-3">We offer a total of 500 jobs; 
+                        100 of which are for indigenous Tayní - Cábecar people. </h5>
                 </div>
             </div>
         </div>
@@ -124,59 +119,52 @@
         <div class="row">
             <div class="col m-3 p-5 bg-red">
                 <p class="text-light text-center ">
-                    Entre el 25 y el 30% de nuestro
-                    equipo humano son mujeres.
+                Between 25 and 30% of our workforce
+                 is made up of women.
                 </p>
             </div>
             <div class="col m-3 p-5 bg-primary">
                 <p class="text-light text-center">
-                    Ofrecemos espacios de práctica
-                    profesional a jóvenes locales que
-                    cursan la universidad.
+                We offer internship opportunities 
+                to local young people attending university.
                 </p>
             </div>
             <div class="col m-3  p-5 bg-secondary">
                 <p class="text-light text-center">
-                    Participamos del programa
-                    gubernamental Empléate del
-                    Ministerio de Trabajo.
+                We participate in the Ministry of 
+                Labor's Empléate government program.
                 </p>
             </div>
         </div>
         <div class="row">
             <div class="col podcast">
                 <p class="text-grey">
-                    Respetamos los derechos laborales y cumplimos
-                    con lo establecido en el Código de Trabajo de
-                    Costa Rica incluyendo el pago de la Caja
-                    Costarricense del Seguro Social (CCSS) y la
-                    cobertura de seguro para Riesgos de Trabajo.
-                    Siendo parte de este paquete, una contribución
-                    del 5% de la planilla para el Programa de
-                    Asignaciones Familiares que contempla ayuda
-                    para las familias de mayor necesidad. Además,
-                    ofrecemos beneficios adicionales establecidos en
-                    el arreglo directo con representantes de los
-                    trabajadores elegidos democráticamente en una
-                    asamblea general.</p>
+                We respect and comply with labor rights and the provisions of 
+                the Costa Rican Labor Code, including the payment of the Costa 
+                Rican Social Security Fund (CCSS) and the insurance coverage for 
+                occupational hazards. As part of this package, a contribution of 
+                5% of the payroll is made to the Family Allowance Program, which 
+                provides assistance to families in greatest need. 
+                In addition, we offer additional benefits established in direct arrangement with 
+                workers' representatives who are democratically elected in a general assembly. 
+                Among these benefits are: </p>
 
             </div>
             <div class="col podcast">
-                <h5 class="mb-4 py-3 text-secondary">Trabajo decente y
-                    crecimiento económico</h5>
+                <h5 class="mb-4 py-3 text-secondary">Proper work and economic
+                     growth</h5>
                 <ul class="text-grey" style="list-style-type: disc">
-                    <li>Permisos con goce de salario
-                        para asistir a citas médicas.</li>
-                    <li>Ayuda económica en el caso de fallecimiento
-                        de parientes cercanos.</li>
-                    <li> Entrega de víveres en casos excepcionales.</li>
-                    <li> Donaciones económicas para la promoción
-                        del deporte, la cultura y recreación.</li>
-                    <li> Actividades de esparcimiento en fechas
-                        especiales como el Día de la Madre y el Día
-                        del Trabajador.</li>
-                    <li> Asociación Solidarista con un 3%
-                        de aporte mensual patronal.</li>
+                    <li>Paid sick leave to attend 
+                        medical appointments.</li>
+                    <li>Financial assistance in the 
+                        event of the death of close relatives.</li>
+                    <li> Provision of food items in exceptional cases.</li>
+                    <li> Financial donations for the promotion of 
+                        sports, culture and recreation.</li>
+                    <li> Recreational activities on special 
+                        dates such as Mother's Day and Labor Day.</li>
+                    <li> Solidarity Association with a 
+                        monthly 3% employer's contribution. </li>
                 </ul>
             </div>
         </div>
@@ -190,10 +178,10 @@
                 <div class="text-end">
                     <div class="col cita-world">
                         <div class="col-auto text-mje cite">
-                            <h2 class="mje-2 text-secondary ">Tenemos una filosofía
-                                empresarial de <mark class="mark-green"> no discriminación
+                            <h2 class="mje-2 text-secondary ">TWe follow a corporate
+                                 philosophy of <mark class="mark-green">  non-discrimination
                                 </mark> (por género, edad, etnia o cualquier otra condición)
-                                para los procesos de reclutamiento.</h2>
+                                in all of our recruitment process</h2>
                         </div>
                     </div>
                 </div>
@@ -210,10 +198,9 @@
             <div class="col text-parrafo">
                 <div class="row">
                     <div class="text-secondary">
-                        <h3 class="mb-3">Ciudades y
-                            comunidades
-                            sostenibles</h3>
-                        <h5 class="py-3">URBANIZACIÓN EL ESFUERZO</h5>
+                        <h3 class="mb-3">Sustainable cities 
+                            and communities</h3>
+                        <h5 class="py-3">HOUSING DEVELOPMENT URBANIZACION EL ESFUERZO:</h5>
                         <p class="text-grey py-3>">
                             La Urbanización El Esfuerzo fue construida en el año 2012
                             para dar vivienda digna a 91 familias, la mayoría integradas

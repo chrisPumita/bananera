@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Nuestro producto - Grupo Esfuerzo"; ?>
+<?php $titulo = "PRODUCTS - Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
 
@@ -24,7 +24,7 @@
             <div class="col welcome-title">
                 <div class="row">
                     <div class="text-white text-light">
-                        <h3 class="mb-3">Nuestro producto</h3>
+                        <h3 class="mb-3">PRODUCTS</h3>
                         <h4 class="mb-4">Nos especializamos en la producción
                             sostenible de <span class="text-primary"> banano Cavendish en</span>
                             nuestras 4 fincas localizadas en
@@ -51,24 +51,21 @@
             <div class="col text-parrafo">
                 <div class="row">
                     <div class="text-secondary">
-                        <h3 class="mb-3">La variedad Cavedish</h3>
+                        <h3 class="mb-3">CAVENDISH BANANA</h3>
                         <p class="text-grey">
-                            En el mundo hay más de mil variedades de
-                            banano. De hecho, es un alimento básico esencial
-                            en muchos países y cumple un rol fundamental
-                            para la seguridad alimentaria.
+                        There are more than a thousand varieties of bananas in the world. 
+                        In fact, it is an essential staple food in many countries and plays 
+                        a fundamental role in food safety. 
                         </p>
                         <p class="text-grey">
                             En Grupo Esfuerzo nos especializados en producir
                             específicamente banano Cavendish.
                         </p>
                         <p class="text-grey">
-                            De acuerdo con la Organización de las Naciones
-                            Unidas para la Alimentación y la Agricultura (FAO),
-                            esta variedad representa el 95% de todos los
-                            bananos comercializados en el mundo. Es una
-                            fruta dulce y no tiene semillas, por lo que resulta
-                            deliciosa y apropiada para el consumo.
+                        According to the Food and Agriculture Organization of the 
+                        United Nations (FAO), this variety represents 95% of all 
+                        bananas marketed in the world. It is a sweet and seedless 
+                        fruit, which makes it delicious and ideal for consumption.
                         </p>
                     </div>
                 </div>
@@ -90,9 +87,9 @@
                                 <img class="comilla" src="../assets/image/min/comilla-min.png" height="auto" width="150" alt="">
                             </div>
                             <div class="col-auto text-secondary text-mje cite" >
-                                <h2 class="mje-2">Contiene unos 400mg de</h2>
-                                <h2 class="mje-2">potasio por cada 100g de</h2>
-                                <h2 class="mje-2">fruta fresca. Es fuente de</h2>
+                                <h2 class="mje-2">They contain about 400 milligrams of</h2>
+                                <h2 class="mje-2">otassium per 100 g of </h2>
+                                <h2 class="mje-2">resh fruit. They are also a source of </h2>
                                 <h2 class="mje-2"><mark class="mark-vitamina">vitamina C y B6”</mark></h2>
                             </div>
                         </div>
@@ -118,14 +115,12 @@
             <div class="col text-parrafo">
                 <div class="row">
                     <div class="text-secondary">
-                        <h3 class="mb-3">Nuestras marcas</h3>
+                        <h3 class="mb-3">OUR SEAL</h3>
                         <p class="text-grey">
-                            Nuestra compañía tiene dos marcas propias: <br>
-                            <span class="text-secondary">Coriban y Laloban.</span> La primera en referencia a
-                            la expresión globalmente conocida Costa Rican
-                            Bananas, y la segunda en honor al apodo
-                            cariñoso y familiar de nuestro fundador.
-                            También somos proveedores de compañías multinacionales que exportan nuestros bananos bajo sus propias marcas.
+                            Our company has two brands: <br>
+                            <span class="text-secondary">Coriban y Laloban.</span> The first one in reference 
+                            to the globally known expression of Costa Rican Bananas, and the second one in 
+                            honor of the endearing and familiar nickname of our founder. 
                         </p>
                     </div>
                 </div>

@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Sostenibilidad - Grupo Esfuerzo"; ?>
+<?php $titulo = "SUSTAINABILITY - Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
 
@@ -21,12 +21,11 @@
             <div class="col">
                 <div class="text-white text-light">
                     <h2 class="mb-3">Responsabilidad Social Corporativa</h2>
-                    <h4 class="mb-4">En Grupo Esfuerzo, la sostenibilidad es nuestra única
-                        forma de hacer negocios. Nuestra estrategia consiste en
-                        construir un negocio exitoso a largo plazo, priorizando el
-                        bienestar de nuestros grupos de interés, y respetando los
-                        recursos naturales y los ecosistemas de los cuales
-                        formamos parte.</h4>
+                    <h4 class="mb-4">At Grupo Esfuerzo, sustainability is our only way 
+                        of doing business.  Our strategy is to build a successful 
+                        long-term business, prioritizing the well-being of our stakeholders, 
+                        and respecting the natural resources and ecosystems of which we are 
+                        a part of. </h4>
                 </div>
             </div>
         </div>
@@ -109,9 +108,9 @@
             <div class="row container-headers-parrafo">
                 <div class="col">
                     <div class="text-white text-light">
-                        <p class="mb-4 text-grey">Operamos gestionando nuestro triple impacto de manera
-                            responsable, aportando a la consecución de los <span class="text-blue"> Objetivos de
-                            Desarrollo Sostenible 4, 7, 8, 11, 12, 15 y 17. </span></p>
+                        <p class="mb-4 text-grey">OWe operate by managing our triple impact in a 
+                            responsible manner, contributing to the achievement of <span class="text-blue">Sustainable Development 
+                            Goals 4, 7, 8, 11, 12, 15 and 17. </span></p>
                     </div>
                 </div>
             </div>
@@ -138,7 +137,7 @@
             <div class="row py-3">
                 <div class="col text-center">
                     <h2 class="text-grey">
-                        Conozca nuestras acciones
+                    Learn more about our actions here
                     </h2>
                 </div>
             </div>
@@ -165,7 +164,7 @@
                     </div>
                         <div class="col d-flex justify-content-center align-items-center">
                             <div class="position-absolute text-center">
-                                <h3 class="text-light m-0">GOBERNANZA</h3>
+                                <h3 class="text-light m-0">Governance</h3>
                             </div>
                             <img src="../assets/image/min/bg-red.ods-min.jpg" width="200" alt="">
                         </div>
@@ -179,7 +178,7 @@
 
                         <div class="col d-flex justify-content-center align-items-center">
                             <div class="position-absolute text-center">
-                                <h3 class="text-light m-0">AMBIENTAL</h3>
+                                <h3 class="text-light m-0">Environmental</h3>
                             </div>
                             <img src="../assets/image/min/bg-rd-cr-min.jpg" width="200" alt="">
                         </div>
