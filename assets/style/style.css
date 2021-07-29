@@ -597,7 +597,6 @@ p {
 }
 header {
     height: 100vh;
-    background-attachment: fixed !important;
     background-size: cover;
     color: #ffffff;
 }
@@ -1248,3 +1247,13 @@ ____________________________ shadow effect*/
 }
 
 /*______________________________________ CONTACTO STYLE*/
+
+/*-------------- BLOG -----------------*/
+.top-z-notice{
+
+}
+
+.bg-header-news{
+    background-size: cover !important;
+    background-position-y: bottom !important;
+}

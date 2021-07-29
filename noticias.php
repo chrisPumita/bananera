@@ -51,7 +51,9 @@
                     mano de acciones para ampliar su presencia en el mercado
                     bananero global, Grupo Esfuerzo estrenó su nuevo sitio web, este
                     mes de junio.</p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                <a href="./noticias/jul-2021">
+                    <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                </a>
             </div>
         </div>
 
@@ -68,7 +70,9 @@
                     tomaron consciencia de la necesidad que tenía la población de
                     contar con una estructura para prevenir las temibles y constantes
                     inundaciones durante la época lluviosa.</p>
+                <a href="./noticias/jun-2021">
                 <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                </a>
             </div>
         </div>
 
@@ -85,7 +89,9 @@
                     presencia en el mercado bananero con la adquisición de dos
                     nuevas fincas para alcanzar un área total de 960 hectáreas, de las
                     cuales 534 están produciendo.</p>
+                <a href="./noticias/may-2021">
                 <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                </a>
             </div>
         </div>
 
@@ -101,7 +107,9 @@
                 <p class="text-grey">Gracias a un Sistema de Posicionamiento Global (GPS), todos los
                     camiones del Grupo Esfuerzo cuentan con monitoreo en tiempo
                     real desde el 19 de mayo anterior.</p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                <a href="./noticias/abril-2021">
+                    <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                </a>
             </div>
         </div>
     </div>
