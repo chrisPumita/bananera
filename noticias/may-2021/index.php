@@ -28,7 +28,7 @@
                 Gobernanza (sección)
             </h3>
             <article class="blog-post">
-                <img src="./imgDemo.jpg" class="img-fluid" alt="...">
+                <img src="./img-min.jpg" class="img-fluid" alt="...">
                 <h2 class="blog-post-title py-3 text-grey">GRUPO ESFUERZO AMPLÍA SU PRESENCIA EN EL MERCADO BANANERO CON LA ADQUISICIÓN DE DOS FINCAS MÁS </h2>
                 <p class="blog-post-meta text-greybold">Mayo , 2021 por <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
                 <p class="text-grey">

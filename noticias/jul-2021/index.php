@@ -29,7 +29,7 @@
                 Gobernanza (sección)
             </h3>
             <article class="blog-post">
-                <img src="./imgDemo.jpg" class="img-fluid" alt="...">
+                <img src="./img-min.jpg" class="img-fluid" alt="...">
                 <h2 class="blog-post-title py-3 text-grey">GRUPO ESFUERZO LANZA NUEVO SITIO WEB PARA HONRAR LA CONFIANZA
                     DE SUS CLIENTES ALREDEDOR DEL MUNDO</h2>
                 <p class="blog-post-meta text-greybold">Julio , 2021 por <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>

@@ -192,12 +192,12 @@
 }
 
 .time-text:hover{
-        color: var(--ligth);
+        color: var(--ligth) !important;
         background-color: var(--primary);
 }
 
 .time-text:hover p{
-    color: var(--ligth);
+    color: var(--ligth) !important;
     background-color: var(--primary);
 }
 

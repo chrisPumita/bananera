@@ -384,7 +384,9 @@
                         <span class="circle whatsapp-btn" aria-hidden="true">
                           <span class="icon arrow"></span>
                         </span>
-                            <span class="button-text"><i class="bi bi-whatsapp"></i>&nbsp;WhatsApp Bussines</span>
+                            <a href="https://api.whatsapp.com/send?phone=50687027972" target="_blank">
+                                <span class="button-text"><i class="bi bi-whatsapp"></i>&nbsp;WhatsApp Bussines</span>
+                            </a>
                         </button>
                     </a>
                     <a href="">
@@ -392,7 +394,9 @@
                         <span class="circle mail-btn" aria-hidden="true">
                           <span class="icon arrow"></span>
                         </span>
-                            <span class="button-text"><i class="bi bi-envelope"></i>&nbsp;e-mail</span>
+                            <a href="mailto:info@grupoesfuerzo.com">
+                                <span class="button-text"><i class="bi bi-envelope"></i>&nbsp;e-mail</span>
+                            </a>
                         </button>
                     </a>
 

@@ -34,45 +34,45 @@
                 <img src="./assets/image/timeline.svg" alt="">
             </div>
             <div class="row text-center">
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>1989</h5>
-                    <p>
+                    <p class="text-grey">
                         Compra de tierras para desarrollo de finca.
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>1992</h5>
-                    <p>
+                    <p class="text-grey">
                         Venta de primer caja exportada.
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>2011</h5>
-                    <p>
+                    <p class="text-grey">
                         Incursión en venta a
                         clientes directos
                         (supermercados).
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>2012</h5>
-                    <p>
+                    <p class="text-grey">
                         Proyecto de
                         urbanización
                         “El Esfuerzo”.
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>2017</h5>
-                    <p>
+                    <p class="text-grey">
                         Crecimiento del
                         50% con compra de
                         segunda finca.
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>2020</h5>
-                    <p>
+                    <p class="text-grey">
                         Crecimiento del 60%
                         con adquisición de
                         tercera y cuarta finca.
@@ -87,7 +87,7 @@
     <div class="container-sm p-5">
         <div class="row">
             <div class="col m-auto text-center">
-                <h2 class="text-secondary">Historia</h2>
+                <h2 class="text-secondary">&nbsp;&nbsp;Historia&nbsp;&nbsp;</h2>
                 <img src="./assets/image/pergamino.svg" width="60" alt="">
             </div>
             <div class="col border-left border-secondary historia">

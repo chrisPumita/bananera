@@ -49,7 +49,7 @@ include 'redireccionador.php';
             <div class="container d-flex justify-content-center align-items-center" style="height: 70vh;">
                 <div class="row container-headers">
                     <div class="col">
-                        <img src="./assets/image/min/circleHome-min.png" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
+                        <img src="./assets/image/min/circleHome-min.webp" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
                     </div>
                     <div class="col welcome-title">
                         <div class="row">
@@ -95,7 +95,9 @@ include 'redireccionador.php';
                                 bajo estrictos estándares de producción sostenible <br>
                                 y priorizando el bienestar de nuestros <br>
                                 colaboradores y comunidades.</p>
-                            <button type="button" class="btn btn-outline-primary">Conozca nuestro producto</button>
+                            <a href="./producto.php">
+                                <button type="button" class="btn btn-outline-primary">Conozca nuestro producto</button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -243,7 +245,10 @@ include 'redireccionador.php';
                                     </picture>
                                 </div>
                                 <div class="row">
-                                    <button type="button" class="btn btn-outline-primary btn-contact position-front">Contáctenos</button>
+                                    <a class="position-front" href="./contacto.php">
+                                    <button type="button" class="btn btn-outline-primary btn-contact ">Contáctenos</button>
+
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -270,24 +275,23 @@ if (!isset($_COOKIE["clang"])){?>
             <div class="modal-dialog modal-dialog-centered modal-lg">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Select your lenguage</h5>
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body">
                         <div class="row row-cols-7 text-center  g-2 py-5  hover14 column">
                             <div class="col finca-box">
                                 <a href="./index.php?wlang=es">
-                                    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png" width="150" alt=""></figure>
+                                    <figure><img src="./assets/image/flag_spain.svg" width="150" alt=""></figure>
                                 </a>
                             </div>
                             <div class="col finca-box">
                                 <a href="./en">
-                                    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/2560px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png" alt="" width="150"></figure>
+                                    <figure><img src="./assets/image/flag_united-kingdom.svg" alt="" width="150"></figure>
                                 </a>
                             </div>
                             <div class="col finca-box">
                                 <a href="./de">
-                                    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png" width="150" alt=""></figure>
+                                    <figure><img src="./assets/image/flag_germany.svg" width="150" alt=""></figure>
                                 </a>
                             </div>
                         </div>
