@@ -114,7 +114,7 @@ include 'redireccionador.php';
                     </div>
                     <div class="col p-4">
 
-                        <span class="counts">màs de</span>
+                        <span class="counts">más de</span>
                         <div class="count-up">
                             <p class="text-primary  counter1 counter-count">500</p>
                         </div>
@@ -172,7 +172,7 @@ include 'redireccionador.php';
                     <div class="col finca-box">
                         <div class="card h-100">
                             <figure class="snip0015">
-                                <img src="./assets/image/min/fincaVesta-min.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/image/min/fincaBristol-min.jpg" class="card-img-top" alt="...">
                                 <figcaption>
                                     <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Vesta</h2>
                                 </figcaption>
@@ -182,7 +182,7 @@ include 'redireccionador.php';
                     <div class="col finca-box">
                         <div class="card h-100 ">
                             <figure class="snip0015">
-                                <img src="./assets/image/min/fincaBristol-min.jpg" class="card-img-top" alt="...">
+                                <img src="./assets/image/min/fincaVesta-min.jpg" class="card-img-top" alt="...">
                                 <figcaption>
                                     <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Bristol</h2>
                                 </figcaption>

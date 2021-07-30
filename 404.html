@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css2?family=Cabin&amp;display=swap" rel="stylesheet">
+    <title>404 Pagina no encontrada</title>
+</head>
+
+<style>
+
+    * {
+        margin:0px auto;
+        padding: 0px;
+        text-align:center;
+    }
+    body {
+        background-color: #EDEDED;
+    }
+    .cont_principal {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+    .cont_error {
+        position: absolute;
+        width: 100%;
+        height: 300px;
+        top: 50%;
+        margin-top:-150px;
+    }
+
+    .cont_error > h1  {
+        font-family: 'Lato', sans-serif;
+        font-weight: 400;
+        font-size:150px;
+        color:#76bc21;
+        position: relative;
+        left:-100%;
+        transition: all 0.5s;
+    }
+
+    h3, h4, a {
+        color:#76bc21;
+    }
+
+    .cont_error > p  {
+        font-family: 'Lato', sans-serif;
+        font-weight: 300;
+        font-size:24px;
+        letter-spacing: 5px;
+        color:#1a5632;
+        position: relative;
+        left:100%;
+        transition: all 0.5s;
+        transition-delay: 0.5s;
+        -webkit-transition: all 0.5s;
+        -webkit-transition-delay: 0.5s;
+    }
+
+    .cont_aura_1 {
+        position:absolute;
+        width:300px;
+        height: 120%;
+        top:25px;
+        right: -340px;
+        background-color: #1a5632;
+        box-shadow: 0px 0px  60px  20px  #76bc21;
+        -webkit-transition: all 0.5s;
+        transition: all 0.5s;
+    }
+
+    .cont_aura_2 {
+        position:absolute;
+        width:100%;
+        height: 300px;
+        right:-10%;
+        bottom:-301px;
+        background-color: #76bc21;
+        box-shadow: 0px 0px 60px 10px #76bc21,0px 0px  20px  0px  #ffd100;
+        z-index:5;
+        transition: all 0.5s;
+        -webkit-transition: all 0.5s;
+    }
+
+    .cont_error_active > .cont_error > h1 {
+        left:0%;
+    }
+    .cont_error_active > .cont_error > p {
+        left:0%;
+    }
+
+    .front {
+    z-index: 99 !important;
+    }
+
+    .cont_error_active > .cont_aura_2 {
+        animation-name: animation_error_2;
+        animation-duration: 4s;
+        animation-timing-function: linear;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+        transform: rotate(-20deg);
+    }
+    .cont_error_active > .cont_aura_1 {
+        transform: rotate(20deg);
+        right:-170px;
+        animation-name: animation_error_1;
+        animation-duration: 4s;
+        animation-timing-function: linear;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+    }
+
+    @-webkit-keyframes animation_error_1 {
+        from {
+            -webkit-transform: rotate(20deg);
+            transform: rotate(20deg);
+        }
+        to {  -webkit-transform: rotate(25deg);
+            transform: rotate(25deg);
+        }
+    }
+    @-o-keyframes animation_error_1 {
+        from {
+            -webkit-transform: rotate(20deg);
+            transform: rotate(20deg);
+        }
+        to {  -webkit-transform: rotate(25deg);
+            transform: rotate(25deg);
+        }
+
+    }
+    @-moz-keyframes animation_error_1 {
+        from {
+            -webkit-transform: rotate(20deg);
+            transform: rotate(20deg);
+        }
+        to {  -webkit-transform: rotate(25deg);
+            transform: rotate(25deg);
+        }
+
+    }
+    @keyframes animation_error_1 {
+        from {
+            -webkit-transform: rotate(20deg);
+            transform: rotate(20deg);
+        }
+        to {  -webkit-transform: rotate(25deg);
+            transform: rotate(25deg);
+        }
+    }
+
+
+
+
+    @-webkit-keyframes animation_error_2 {
+        from { -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+        }
+        to { -webkit-transform: rotate(-20deg);
+            transform: rotate(-20deg);
+        }
+    }
+    @-o-keyframes animation_error_2 {
+        from { -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+        }
+        to { -webkit-transform: rotate(-20deg);
+            transform: rotate(-20deg);
+        }
+    }
+    }
+    @-moz-keyframes animation_error_2 {
+        from { -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+        }
+        to { -webkit-transform: rotate(-20deg);
+            transform: rotate(-20deg);
+        }
+    }
+    @keyframes animation_error_2 {
+        from { -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+        }
+        to { -webkit-transform: rotate(-20deg);
+            transform: rotate(-20deg);
+        }
+    }
+
+
+</style>
+<body>
+
+<div class="cont_principal">
+    <div class="cont_error front">
+        <a href="https://grupoesfuerzo.com/">
+            <img src="https://grupoesfuerzo.com/assets/image/logo.svg" width="150" alt="" class="front">
+        </a>
+        <h1 class="front">404</h1>
+        <h3 class="front">Esta página no existe.</h3>
+        <h4 class="front"><a href="https://grupoesfuerzo.com/"> Ir al inicio</a></h4>
+    </div>
+    <div class="cont_aura_1"></div>
+    <div class="cont_aura_2"></div>
+</div>
+
+
+</body>
+</html>
+<script>
+    window.onload = function(){
+        document.querySelector('.cont_principal').className= "cont_principal cont_error_active";
+
+    }
+</script>

@@ -154,7 +154,7 @@
                     <div class="col finca-box">
                         <div class="card h-100">
                             <figure class="snip0015">
-                                <img src="../assets/image/min/fincaVesta-min.jpg" class="card-img-top" alt="...">
+                                <img src="../assets/image/min/fincaBristol-min.jpg" class="card-img-top" alt="...">
                                 <figcaption>
                                     <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Vesta</h2>
                                 </figcaption>
@@ -164,7 +164,7 @@
                     <div class="col finca-box">
                         <div class="card h-100 ">
                             <figure class="snip0015">
-                                <img src="../assets/image/min/fincaBristol-min.jpg" class="card-img-top" alt="...">
+                                <img src="../assets/image/min/fincaVesta-min.jpg" class="card-img-top" alt="...">
                                 <figcaption>
                                     <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Bristol</h2>
                                 </figcaption>
