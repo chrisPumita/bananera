@@ -149,7 +149,7 @@
             <div class="row d-flex justify-content-center align-items-center position-absolute  mje-wabe">
                 <div class="col m-3 p-5">
                     <h5 class="text-grey text-center ">Annual contribution of <span class="text-primary">USD55,000 to the Special Fund for 
-                        Prevention and Infrastructure, at the Costa Rican Ministry of Public Security</span>eto help with public safety
+                        Prevention and Infrastructure, at the Costa Rican Ministry of Public Security</span> to help with public safety
                         in the areas where the farms are located, and to the Ministry of Health to 
                         help with the cost of medical care in the same region.</h5>
                 </div>

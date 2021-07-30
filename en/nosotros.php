@@ -195,7 +195,7 @@
                 excellence and effort during his 40 years working at Chiquita.
                 </p>
                 <p class="text-grey">
-                    ¿Can you picture him, young and slim, dreaming of exporting
+                    Can you picture him, young and slim, dreaming of exporting
                     his own brand of bananas to the rest of the world?
                     For this reason, Eduardo Gómez decided, long before starting his 
                     business, that he would name his dream company El Esfuerzo "to 
@@ -225,7 +225,7 @@
                 of deaths and injuries. 
                 </p>
                 <p class="text-grey">
-                ow do you overcome an event like this when you are just starting out? 
+                How do you overcome an event like this when you are just starting out? 
                 How do you not give up? Well, by doing what Mr Eduardo knows best, 
                 giving his best effort. His motivation? To build a legacy for his 
                 family and make a contribution to the country... 

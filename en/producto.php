@@ -87,9 +87,9 @@
                                 <img class="comilla" src="../assets/image/min/comilla-min.png" height="auto" width="150" alt="">
                             </div>
                             <div class="col-auto text-secondary text-mje cite" >
-                                <h2 class="mje-2">They contain about 400 milligrams of</h2>
-                                <h2 class="mje-2">otassium per 100 g of </h2>
-                                <h2 class="mje-2">resh fruit. They are also a source of </h2>
+                                <h2 class="mje-2">They contain about 400 milligrams of </h2>
+                                <h2 class="mje-2">potassium per 100 g of </h2>
+                                <h2 class="mje-2">fresh fruit. They are also a source of </h2>
                                 <h2 class="mje-2"><mark class="mark-vitamina">vitamina C y B6”</mark></h2>
                             </div>
                         </div>

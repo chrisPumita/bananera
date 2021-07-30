@@ -108,7 +108,7 @@
             <div class="row container-headers-parrafo">
                 <div class="col">
                     <div class="text-white text-light">
-                        <p class="mb-4 text-grey">OWe operate by managing our triple impact in a 
+                        <p class="mb-4 text-grey">We operate by managing our triple impact in a 
                             responsible manner, contributing to the achievement of <span class="text-blue">Sustainable Development 
                             Goals 4, 7, 8, 11, 12, 15 and 17. </span></p>
                     </div>

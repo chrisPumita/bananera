@@ -178,7 +178,7 @@
                 <div class="text-end">
                     <div class="col cita-world">
                         <div class="col-auto text-mje cite">
-                            <h2 class="mje-2 text-secondary ">TWe follow a corporate
+                            <h2 class="mje-2 text-secondary ">We follow a corporate
                                  philosophy of <mark class="mark-green">  non-discrimination
                                 </mark> (por género, edad, etnia o cualquier otra condición)
                                 in all of our recruitment process</h2>

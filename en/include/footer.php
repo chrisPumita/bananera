@@ -81,90 +81,97 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <h5 class="text-center">POLÍTICA DE PRIVACIDAD DEL SITIO WEB DE GRUPO ESFUERZO</h5>
+                <h5 class="text-center">GRUPO ESFUERZO, WEB SITE PRIVACY POLICY</h5>
                 <p>
-                    La presente Política de Privacidad establece los términos en que Grupo Esfuerzo usa y protege la información
-                    que es proporcionada por sus usuarios al momento de utilizar su sitio web.
+                This Privacy Policy establishes the terms under which Grupo Esfuerzo
+                 uses and protects the information provided by its users of this website. 
                 </p>
 
-                <p>Nuestra empresa está comprometida con la seguridad de los datos de sus usuarios. Por eso, cuando le
-                    pedimos llenar los campos de información personal con la cual usted puede ser identificado, lo
-                    hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. </p>
+                <p>Our company is committed to the security of its users' data. Therefore, 
+                    when we ask you to fill in the fields of personal information with which
+                    you can be identified, we do so with the assurance that it will only be
+                    used in accordance with the terms of this document. </p>
                 <p>
-                    Sin embargo, aclaramos que esta Política de Privacidad puede cambiar con el tiempo o ser actualizada
-                    por lo que le recomendamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.
+                However, please note that this Privacy Policy may change over time or be updated 
+                and we encourage you to continually review this page to ensure that you agree to any such changes.
                 </p>
-                <h6>Información recopilada</h6>
+                <h6>Collected information</h6>
                 <p>
-                    Nuestro sitio web podrá recoger información personal, por ejemplo: Nombre, información de contacto
-                    como dirección de correo electrónico o número de teléfono, e información demográfica o sobre su
-                    puesto de trabajo y empresa. Eso especialmente ocurre en nuestra sección de contáctenos.
-                </p>
-                <p>
-                    Así mismo cuando sea necesario podrá ser requerida información adicional específica para procesar
-                    algún pedido o realizar una entrega o facturación.
-                </p>
-                <h6>Uso de la información recogida</h6>
-                <p>
-                    Nuestro sitio web emplea la información recolectada con el fin de proporcionar el mejor servicio
-                    posible y concretar la oportunidad de hacer nuevos negocios.
+                Our website may collect personal information, for example: Name, contact information such as 
+                email address or phone number, demographic information or information about your job title and 
+                company. This is especially true in our "contact us" section. 
                 </p>
                 <p>
-                    Además, la información servirá para mantener un registro de usuarios del sitio web, lo que nos
-                    permitirá diseñar y elaborar mejores contenidos y suministrar la información más oportuna a nuestros públicos de interés.
+                Additional specific information may also be required when necessary 
+                in order to process an order or make a delivery or billing.
+                </p>
+                <h6>Use of collected information</h6>
+                <p>
+                Our web site uses the information collected to provide the best possible 
+                service and to enable us with the opportunity to conduct new business. 
                 </p>
                 <p>
-                    Por otro lado, es posible que sean enviados correos electrónicos periódicamente a través de nuestro
-                    sitio o una plataforma de email marketing, con ofertas especiales, nuevos productos y otra información
-                    publicitaria que consideremos relevante para usted o que pueda brindarle algún beneficio. Estos correos
-                    electrónicos serán enviados a la dirección que usted proporcione y podrán ser cancelados en cualquier momento.
+                In addition, the information will be used to keep a record of website users, which 
+                will allow us to design and develop better content and provide the most appropriate 
+                and relevant information to our target audiences. 
+                </p>
+                <p>
+                We may periodically send you emails through our site or via an email marketing platform 
+                with special offers, new products and other marketing information that we think may be 
+                relevant to you or may be of benefit to you. These emails will be sent to the address you 
+                provide and may be cancelled at any time.
+
                 </p>
                 <h6>Cookies</h6>
-                <p>Una cookie se refiere a un fichero que es enviado con la finalidad de solicitar permiso para
-                    almacenarse en su ordenador, al aceptar dicho fichero se crea y la cookie sirve entonces para tener
-                    información respecto al tráfico web, y también facilita las futuras visitas a una web
-                    recurrente.
-                </p>
-                <p>Otra función que tienen las cookies es que, con ellas, el sitio web puede reconocerle individualmente
-                    y por tanto brindarle un servicio personalizado.
+                <p>
+                A cookie refers to a file that is sent with the purpose of requesting permission to be 
+                stored on your computer; by accepting, the file is generated and the cookie is then used 
+                to gather information regarding web traffic, and facilitate future visits to a recurring
+                 website. 
                 </p>
                 <p>
-                    Nuestro sitio web emplea las cookies para poder identificar las páginas o secciones de nuestro sitio
-                    web que son visitadas y su frecuencia. Esta información es empleada únicamente para análisis estadístico
-                    y después la información se elimina de forma permanente.
+                Another feature of cookies is that they enable the website to recognize you individually 
+                and therefore provide you with a personalized service. 
                 </p>
                 <p>
-                    Es importante aclarar que usted puede eliminar las cookies en cualquier momento desde su computadora.
+                Our website uses cookies to identify the pages or sections that are visited and their frequency. 
+                This information is used only for statistical analysis and is then permanently deleted. 
+
                 </p>
                 <p>
-                    Finalmente, las cookies no dan acceso a información de su computadora ni de usted, a menos de que usted
-                    así lo quiera y la proporcione directamente.
+                    It is important to clarify that you can delete cookies from your computer at any time. 
                 </p>
                 <p>
-                    Usted puede aceptar o negar el uso de cookies, sin embargo, la mayoría de navegadores aceptan cookies
-                    automáticamente pues sirve para tener un mejor servicio web.
+                Finally, cookies do not give access to information about you or your computer unless you choose 
+                to provide it directly.
                 </p>
                 <p>
-                    También usted puede cambiar la configuración de su computadora para declinar las cookies. Si se declinan
-                    es posible que no pueda utilizar algunos de nuestros servicios o acceder a ciertos elementos de este sitio web.
-                </p>
-                <h6>Enlaces a Terceros</h6>
-                <p>
-                    Este sitio web puede contener en laces a otros sitios que pudieran ser de su interés. Una vez que usted
-                    de clic en estos enlaces y abandone nuestra página, ya no tenemos control sobre el sitio al que es redirigido
-                    y por lo tanto no somos responsables de los términos o privacidad ni de la protección de sus datos en esos otros sitios de terceros.
+                    You can accept or deny the use of cookies, however, most browsers automatically accept 
+                    cookies as it allows for a better web service. 
+
                 </p>
                 <p>
-                    Es decir, dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable
-                    que los consulte para confirmar que usted está de acuerdo con ellas.
+                You can also change the settings on your computer to decline cookies. If you decline cookies, 
+                you may not be able to use some of our services or access certain elements of this website. 
                 </p>
-                <h6>Control de su información personal</h6>
+                <h6>Links to Third Parties </h6>
                 <p>
-                    Grupo Esfuerzo no venderá, cederá ni distribuirá la información personal que es recopilada sin su consentimiento,
-                    salvo que sea requerido por un juez con una orden judicial.
+                This website may contain links to other websites that may be of interest to you. Once you click on 
+                these links and leave our site, we no longer have control over the site to which you are redirected 
+                and therefore we are not responsible for the terms, privacy or data protection of those other third 
+                party sites.
                 </p>
                 <p>
-                    Nos reservamos el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.
+                    In other words, these other websites are subject to their own privacy policies, so it is 
+                    recommended that you review them to confirm that you agree with them.                 
+                </p>
+                <h6>Management of your personal information </h6>
+                <p>
+                rupo Esfuerzo will not sell, transfer or distribute the personal information that is collected 
+                without your consent, unless required by a judge with a court order.
+                </p>
+                <p>
+                    We reserve the right to change the terms of this Privacy Policy at any time.
                 </p>
             </div>
             <div class="modal-footer">
