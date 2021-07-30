@@ -202,28 +202,27 @@
                             and communities</h3>
                         <h5 class="py-3">HOUSING DEVELOPMENT URBANIZACION EL ESFUERZO:</h5>
                         <p class="text-grey py-3>">
-                            La Urbanización El Esfuerzo fue construida en el año 2012
-                            para dar vivienda digna a 91 familias, la mayoría integradas
-                            por colaboradores de la empresa.
+                        Urbanización El Esfuerzo housing development was built
+                        in 2012 to provide proper housing for 91 families, most 
+                        of whom are company personnel. 
                         </p>
                         <p class="text-grey py-3>">
-                            Este proyecto, liderado por don Eduardo Gómez, se
-                            ejecutó a través de una alianza público - privada con la
-                            Municipalidad de Matina, el BANHVI, el Banco Popular,
-                            JAPDEVA, FUPROVI y la comunidad.
+                        This project, led by Mr Eduardo Gómez, was executed 
+                        through a public-private partnership with the Municipality
+                        of Matina, BANHVI, Banco Popular, JAPDEVA, FUPROVI and the
+                        community. 
                         </p>
                         <p class="text-grey py-3>">
-                            Grupo Esfuerzo donó el terreno de 3 hectáreas y las casas
-                            se construyeron con recursos del Bono Familiar de
-                            Vivienda. Por su parte, las familias aportaron cerca de 32
-                            millones en tareas de autoconstrucción (mano de obra y
-                            materiales por parte de los propios beneficiarios).
+                        Grupo Esfuerzo donated the 3 hectares of land and the houses 
+                        were built with resources from the Bono Familiar de Vivienda.
+                         For their part, the families contributed close to 32 million 
+                         Colones in self-construction tasks (labor and materials provided 
+                         by the beneficiaries themselves). 
                         </p>
                         <p class="text-grey py-3>">
-                            En la actualidad, en la Urbanización El Esfuerzo viven
-                            alrededor de 400 personas, incluyendo 18 mujeres jefas
-                            de hogar, 2 padres solteros, 7 adultos mayores y más de
-                            100 niños y niñas.
+                        Currently, about 400 people live in Urbanización El Esfuerzo, 
+                        including 18 female heads of household, 2 single parents, 7 
+                        senior citizens and more than 100 boys and girls. 
                         </p>
                     </div>
                 </div>
@@ -248,14 +247,13 @@
                     </div>
                     <div class="col-10 text-light text-mje">
                         <div class="row">
-                            <h4 class="text-start">DIQUE PARA PREVENCIÓN DE INUNDACIONES</h4>
+                            <h4 class="text-start">LEVEE FOR FLOOD PREVENTION </h4>
                         </div>
                         <div class="row py-3">
                             <div class="col-10 text-light text-mje cite">
-                                <h5 class="mje-2">Apoyamos la construcción de un dique
-                                    en 2021 para la <span class="text-primary"> prevención de
-                                    inundaciones en comunidades del
-                                    Atlántico costarricense.</span></h5>
+                                <h5 class="mje-2">We contributed to the construction
+                                     of a levee in 2021 to  <span class="text-primary">revent flooding in communities located
+                                          in Costa Rica's Atlantic region. </span></h5>
                             </div>
                         </div>
                         <div class="row">

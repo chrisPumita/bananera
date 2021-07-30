@@ -74,30 +74,30 @@
                             <ul>
                                 <li>
                                     <div class="grid grid-1">
-                                        <label for="name" class="form-label text-grey">Nombre y apellido(s)*</label>
+                                        <label for="name" class="form-label text-grey">Full Name*</label>
                                         <input type="text" id="name" name="nombre" placeholder="Nombre completo" required>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="grid grid-1">
-                                        <label for="name" class="form-label text-grey">Correo Electrónico*</label>
+                                        <label for="name" class="form-label text-grey">, E-mail*</label>
                                         <input type="email" id="email" name="email" placeholder="ejemplo@suempresa.com" required>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="grid grid-1">
-                                        <label for="empresa" class="form-label text-grey">Empresa*</label>
+                                        <label for="empresa" class="form-label text-grey">Company*</label>
                                         <input type="text" id="empresa" name="empresa" placeholder="Empresa / orgainización" required>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="grid grid-1">
-                                        <label for="telefono" class="form-label text-grey">Número de Teléfono*</label>
+                                        <label for="telefono" class="form-label text-grey">Phone Number*</label>
                                         <input type="tel" id="telefono" name="telefono" placeholder="Eje. 55 5555 5555" required>
                                     </div>
                                 </li>
                                 <li>
-                                    <label for="pais" class="form-label text-grey">País*</label>
+                                    <label for="pais" class="form-label text-grey">Country*</label>
                                     <select name="pais" id="pais">
                                         <option value="Afganistán">Afganistán</option>
                                         <option value="Albania">Albania

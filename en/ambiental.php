@@ -16,11 +16,11 @@
         <div class="row container-headers-parrafo">
             <div class="col">
                 <div class="text-white text-light">
-                    <h6 class="mb-4 py-3">Sostenibilidad</h6>
-                    <h2 class="mb-3">Ambiental</h2>
-                    <h5 class="mb-4">Aportamos a los ODS 7 Energía asequible y no contaminante;
-                        12 Producción y consumo responsables y
-                        15 Vida de ecosistemas terrestres</h5>
+                    <h6 class="mb-4 py-3">SUSTAINABILITY</h6>
+                    <h2 class="mb-3">Environmental</h2>
+                    <h5 class="mb-4">We contribute to SDGs 7 Affordable and clean energy; 
+                        12 Responsible production and consumption; and 15 Living 
+                        terrestrial ecosystems.</h5>
                 </div>
             </div>
         </div>
@@ -58,32 +58,30 @@
                 </div>
             </div>
             <div class="col">
-                <h4 class="text-grey">Energía asequible
-                   <span class="text-primary"> y no contaminante</span></h4>
+                <h4 class="text-grey">Affordable
+                   <span class="text-primary"> and clean energy</span></h4>
                 <p class="text-grey py-5">
-                    En el año 2015, invertimos en la adquisición e instalación de
-                    <span class="text-primary">40 paneles solares</span> para cubrir el gasto energético de los
-                    contenedores de enfriamiento para las frutas.
+                In 2015, we invested in the purchase and installation of 
+                    <span class="text-primary">40 solar panels</span> to cover the energy cost of
+                     the cooling containers for the fruit.
                 </p>
             </div>
         </div>
     </div>
     <div class="container-sm d-flex justify-content-center align-items-center py-5">
         <div class="row">
-            <h3 class="mb-4 py-3 text-secondary text-center">Producción y
-                <mark class="mark-vitamina">consumo responsable</mark></h3>
+            <h3 class="mb-4 py-3 text-secondary text-center">Responsible production and 
+                <mark class="mark-vitamina">consumption</mark></h3>
             <div class="col  text-center">
                 <div class="text-white text-light py-5">
                     <img class="py-5" src="../assets/image/certificado-en-proceso.svg" height="150" alt="">
                     <p class="text-grey my-5 p-3">
-                        Trabajamos por obtener la<strong><span class="text-secondary"> Carbono Neutralidad</span></strong>
-                        en 2021, lo que garantiza que nuestras
-                        emisiones netas de Gases de Efecto Invernadero
-                        (GEI) expedidas al ambiente equivalen a cero
-                        gracias a acciones de reducción y compensación,
-                        aportando al Plan Nacional de Descarbonización
-                        y al objetivo país de ser una economía con
-                        emisiones netas cero al 2050.
+                        We achieved<strong><span class="text-secondary"> Carbon Neutrality </span></strong>
+                        in 2021, which guarantees that our net Greenhouse Gas (GHG) emissions
+                         released into the atmosphere are equivalent to zero thanks to our 
+                         reduction and compensation actions, which in turn contribute to the
+                          National Decarbonization Plan and to the country's goal of being 
+                          an economy with zero net emissions by 2050.
                     </p>
                 </div>
             </div>
@@ -91,13 +89,10 @@
                 <div class="text-white text-light py-5">
                     <img class="py-5" src="../assets/image/certificado-global.svg" height="150" alt="">
                     <p class="text-grey my-5 p-3 border-center-certificate">
-                        Estamos certificados<strong><span class="text-secondary"> Global G.A.P. </span></strong>, una norma para
-                        las Buenas Prácticas Agrícolas (BPA) reconocida por
-                        la Iniciativa Mundial de Seguridad Alimentaria
-                        (GFSI), que especifica requisitos de inocuidad y
-                        criterios de trazabilidad; protección de la
-                        biodiversidad; salud, seguridad y bienestar del
-                        trabajador.
+                        We are certified<strong><span class="text-secondary"> Global G.A.P. </span></strong>, a standard for 
+                        Good Agricultural Practices (GAP) recognized by the Global Food Safety Initiative (GFSI), 
+                        which specifies safety requirements and traceability criteria; biodiversity protection; 
+                        and worker health, safety and welfare.  
 
                     </p>
                 </div>
@@ -106,12 +101,11 @@
                 <div class="text-white text-light py-5">
                     <img class="py-5" src="../assets/image/certificacion-frog.svg" height="150"  alt="">
                     <p class="text-grey my-5 p-3">
-                        Estamos certificados en la norma internacional
-                        para agricultura sostenible,<strong><span class="text-secondary">  Rainforest Alliance </span></strong>,
-                        por lo que nuestros clientes tienen la certeza de
-                        que nuestros bananos son producidos con
-                        métodos que apoyan los tres pilares de la
-                        sostenibilidad: social, económico y ambiental.
+                    We are certified in the international 
+                    standard for sustainable agriculture,<strong><span class="text-secondary">  Rainforest Alliance </span></strong>,
+                    so that our customers have the certainty that our bananas are 
+                    produced with methods that support the three pillars of sustainability: 
+                    social, economic and environmental. 
                     </p>
                 </div>
             </div>
@@ -135,8 +129,8 @@
                 <div class="col py-5 d-flex cita-world">
                     <div class="col-10 text-light text-mje">
                         <div class="row">
-                            <h4><span class="text-primary">Vida de </span> <br>
-                                ecosistemas terrestres</h4>
+                            <h4><span class="text-primary">Terrestrial</span> <br>
+                                ecosystems life</h4>
                         </div>
                         <picture>
                             <img src="../assets/image/line-green.svg" width="200" class="rounded float-start text-primary line-header" alt="...">
@@ -151,9 +145,8 @@
                             </div>
                             <div class="col-9">
                                 <p>
-                                    Mantenemos 240 hectáreas de bosque
-                                    primario para la protección de recursos
-                                    naturales y los ecosistemas terrestres.</p>
+                                We preserve 240 hectares of primary forest for the 
+                                protection of natural resources and terrestrial ecosystems. </p>
                             </div>
                         </div>
                         <div class="row d-flex justify-content-center align-items-center bg-light py-3  border-six-footer">
@@ -162,12 +155,9 @@
                             </div>
                             <div class="col-9">
                                 <p>
-                                    Implementamos prácticas sostenibles y de
-                                    circularidad, que incluyen reciclaje y
-                                    reutilización total del plástico utilizado
-                                    (bolsas, mecate y otros), y manejo
-                                    adecuado del agua, en todos nuestros
-                                    procesos de producción.</p>
+                                We implement sustainable and circular practices, which include recycling 
+                                and the complete reuse of the plastic used (bags, rope and others), as
+                                 well as proper water management in all of our production processes. </p>
                             </div>
                         </div>
                         <div class="row d-flex justify-content-center align-items-center bg-light p-3 border-six-footer">
@@ -176,10 +166,9 @@
                             </div>
                             <div class="col-9">
                                 <p>
-                                    Compostamos los desechos de la fruta de
-                                    banano y de la planta para convertirla en
-                                    abono orgánico que es aplicado después en
-                                    las plantaciones.</p>
+                                We compost the banana fruit and plant waste to convert
+                                 it into organic fertilizer that is then applied to the 
+                                 plantations.  </p>
                             </div>
                         </div>
                         <div class="row d-flex justify-content-center align-items-center bg-light p-3 border-six-footer">
@@ -188,10 +177,9 @@
                             </div>
                             <div class="col-9">
                                 <p>
-                                    Hemos reducido en un 60% el uso de
-                                    pesticidas y no utilizamos herbicidas, sino
-                                    que implementamos un sistema de
-                                    cobertura vegetal de los suelos.</p>
+                                We have reduced the use of pesticides by 60% 
+                                and we do not use herbicides; instead, we 
+                                implement a system of vegetative soil cover</p>
                             </div>
                         </div>
                         <div class="row d-flex justify-content-center align-items-center bg-light p-3 border-six-footer">
@@ -200,8 +188,8 @@
                             </div>
                             <div class="col-9">
                                 <p>
-                                    Prohibimos la caza, la pesca y el
-                                    cautiverio.</p>
+                                We prohibit hunting, 
+                                fishing and captivity. </p>
                             </div>
                         </div>
                         <div class="row d-flex justify-content-center align-items-center bg-light p-3 border-six-footer">
@@ -210,11 +198,9 @@
                             </div>
                             <div class="col-9">
                                 <p>
-                                    Poseemos un inventario actualizado de
-                                    flora y fauna para identificar posibles
-                                    especies en peligro de extensión y tomar
-                                    las medidas para proteger la
-                                    biodiversidad.</p>
+                                We maintain an updated inventory of flora and fauna 
+                                to identify possible endangered species and take 
+                                measures to protect biodiversity.</p>
                             </div>
                         </div>
                     </div>

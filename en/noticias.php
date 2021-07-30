@@ -44,13 +44,14 @@
             <div class="timeline-img"></div>
             <div class="timeline-content js--fadeInLeft">
                 <img src="../assets/notice/notice1/pin-notice-min.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
-                <h5 class="text-grey">Grupo Esfuerzo lanza nuevo sitio web para honrar
-                    la confianza de sus clientes alrededor del mundo</h5>
+                <h5 class="text-grey">GRUPO ESFUERZO LAUNCHES NEW WEBSITE 
+                    TO HONOR THE TRUST OF ITS CUSTOMERS
+                     AROUND THE WORLD</h5>
                 <div class="date">JUL 2021</div>
-                <p class="text-grey">Como un esfuerzo alineado a su estrategia comercial y de la
-                    mano de acciones para ampliar su presencia en el mercado
-                    bananero global, Grupo Esfuerzo estrenó su nuevo sitio web, este
-                    mes de junio.</p>
+                <p class="text-grey">As part of an effort consistent with its 
+                    commercial strategy and in line with actions to expand 
+                    its presence in the global banana market, Grupo Esfuerzo 
+                    launched its new website this July. </p>
                 <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
             </div>
         </div>
@@ -59,15 +60,14 @@
             <div class="timeline-img"></div>
             <div class="timeline-content js--fadeInRight">
                 <img src="../assets/notice/notice2/pin-notice-min.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
-                <h5 class="text-grey">Grupo esfuerzo participa en la
-                    construcción de dique para evitar
-                    inundaciones en comunidades del caribe</h5>
+                <h5 class="text-grey">GRUPO ESFUERZO PARTICIPATES IN THE 
+                    CONSTRUCTION OF A DAM TO PREVENT FLOODING IN CARIBBEAN 
+                    COMMUNITIES</h5>
                 <div class="date">JUN 2021</div>
-                <p class="text-grey">Luego de que, en 2017, el Grupo Esfuerzo adquiriera una finca en
-                    la comunidad de Bristol en Matina de Limón, sus directivos
-                    tomaron consciencia de la necesidad que tenía la población de
-                    contar con una estructura para prevenir las temibles y constantes
-                    inundaciones durante la época lluviosa.</p>
+                <p class="text-grey">After Grupo Esfuerzo acquired a farm in the community 
+                    of Bristol in Matina de Limón in 2017, its directors became aware of 
+                    the local population's need for a structure to prevent the dreaded 
+                    and constant flooding during the rainy season. </p>
                 <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
             </div>
         </div>
@@ -76,15 +76,15 @@
             <div class="timeline-img"></div>
             <div class="timeline-content js--fadeInLeft">
                 <img src="../assets/notice/notice3/pin-notice-min.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
-                <h5 class="text-grey">Grupo Esfuerzo amplía su presencia en el
-                    mercado bananero con la adquisición de
-                    dos fincas más</h5>
+                <h5 class="text-grey">GRUPO ESFUERZO EXPANDS ITS PRESENCE 
+                    IN THE BANANA MARKET WITH 
+                    THE ACQUISITION OF TWO MORE FARMS</h5>
                 <div class="date">MAY 2021</div>
-                <p class="text-grey">LA ADQUISICIÓN DE DOS FINCAS MÁS <br>
-                    En diciembre del 2020, el Grupo Esfuerzo, decidió ampliar su
-                    presencia en el mercado bananero con la adquisición de dos
-                    nuevas fincas para alcanzar un área total de 960 hectáreas, de las
-                    cuales 534 están produciendo.</p>
+                <p class="text-grey">THE ACQUISITION OF TWO MORE FARMS<br>
+                In December 2020, Grupo Esfuerzo decided to expand 
+                its presence in the banana market with the 
+                acquisition of two new farms to reach a total area of 960 hectares, 
+                of which 550 hectares are currently in production. </p>
                 <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
             </div>
         </div>
@@ -94,13 +94,11 @@
 
             <div class="timeline-content js--fadeInRight">
                 <img src="../assets/notice/notice4/pin-notice-min.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
-                <h5 class="text-grey">Camiones de Grupo Esfuerzo ahora
-                    cuentan con monitoreo por gps para
-                    mayor seguridad</h5>
+                <h5 class="text-grey">OUR TRUCKS AT GRUPO ESFUERZO NOW HAVE GPS MONITORING FOR INCREASED SECURITY</h5>
                 <div class="date">ABR 2021</div>
-                <p class="text-grey">Gracias a un Sistema de Posicionamiento Global (GPS), todos los
-                    camiones del Grupo Esfuerzo cuentan con monitoreo en tiempo
-                    real desde el 19 de mayo anterior.</p>
+                <p class="text-grey">Thanks to a Global Positioning System (GPS), all of 
+                    Grupo Esfuerzo's trucks are monitored in real-time since May 19. 
+                </p>
                 <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
             </div>
         </div>
