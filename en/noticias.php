@@ -52,7 +52,9 @@
                     commercial strategy and in line with actions to expand 
                     its presence in the global banana market, Grupo Esfuerzo 
                     launched its new website this July. </p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                <a href="./noticias/jul-2021">
+                    <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                </a>
             </div>
         </div>
 
@@ -68,7 +70,9 @@
                     of Bristol in Matina de Limón in 2017, its directors became aware of 
                     the local population's need for a structure to prevent the dreaded 
                     and constant flooding during the rainy season. </p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                <a href="./noticias/jun-2021">
+                    <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                </a>
             </div>
         </div>
 
