@@ -1,33 +1,76 @@
 <?php
-/*
-$idioma = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
-if($idioma=='en'){
-    header("Location: en.php");
-}elseif($idioma=='fr'){
-    header("Location: fr.php");
-}else{
-}
-*/
-//Header('Location: index.php?wlang=es');
 
 $thisPageLang = "es";
-include 'redireccionador.php';
+//Header('Location: index.php?wlang=es');
+if (!isset($_GET['wlan']))
+{
+    //no esta definida entramos por primera vez
+
+    // Hay una cookie de idioma definida
+    if (isset($_COOKIE["clang"]))
+    {
+        // leer idioma en la cookie
+        $webLang=$_COOKIE["clang"];
+        // No hay ninguna cookie de idioma definida
+    }
+    else
+    {
+        // detectar idioma del navegador
+        $webLang = substr ($_SERVER["HTTP_ACCEPT_LANGUAGE"],0,2);
+        if (($webLang<>"de") AND ($webLang<>"en") AND ($webLang<>"es") ) {
+            // Idioma por defecto, en caso de detectar un idioma raro que no tengamos
+            $webLang="es";
+        }
+        $expire=time()+60*60*24; // 6 meses
+        setcookie("clang", $webLang, $expire);
+    }
+}
+else{
+    $lenguage = $_GET['wlan'];
+    $webLang=$lenguage;
+    if ($webLang<>"") {
+        $expire=time()+60*60*24; // 1 dia meses
+        setcookie("clang", $webLang, $expire);
+    }
+}
+
+//en cualquier caso y una vez definida la cookie
+// Anti bucles infinitos (evita que si estamos en la página española, nos redirija a la página española y así una y otra vez sin parar.
+if ($thisPageLang<>$webLang)
+{
+    // redireccionar al idioma correspondiente
+    switch ($webLang) {
+        case "de":
+            Header('Location: ./de');
+            break;
+        case "en":
+            Header('Location: ./en');
+            break;
+        case "es":
+            Header('Location: ./');
+            break;
+        default:
+            Header('Location: ./');
+            break;
+    }
+}
+
+
+//include 'redireccionador.php';
 
 ?>
 <!doctype html>
 <?php $titulo = "Bienvenidos - Grupo Esfuerzo"; ?>
 <html lang="es">
     <head>
-
         <?php include "include/header.php";?>
-
-        <style>
-
-        </style>
-
     </head>
     <body>
-
+<?php
+    if (!isset($_COOKIE["clang"]) || ($thisPageLang!=$webLang)){
+        include_once "./modal_idioma.php";
+    }
+?>
         <header style="background: url(./assets/image/min/bg-img1-min.png) top center no-repeat;">
             <div class="overlay"></div>
             <div class="video-container">
@@ -72,8 +115,6 @@ include 'redireccionador.php';
 
                     </div>
                 </div>
-            </div>
-            <div class="circule-back-header" style="background: url('./assets/image/min/bg-img1-min.png')">
             </div>
             <div class="wabe">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -265,48 +306,7 @@ include 'redireccionador.php';
             </div>
         </section>
 
-        <!-- Modal -->
 
-        <!-- Modal HTML -->
-<?php
-if (!isset($_COOKIE["clang"])){?>
-        <!-- Modal -->
-        <div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered modal-lg">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class="modal-body">
-                        <div class="row row-cols-7 text-center  g-2 py-5  hover14 column">
-                            <div class="col finca-box">
-                                <a href="./index.php?wlang=es">
-                                    <figure><img src="./assets/image/flag_spain.svg" width="150" alt=""></figure>
-                                </a>
-                            </div>
-                            <div class="col finca-box">
-                                <a href="./en">
-                                    <figure><img src="./assets/image/flag_united-kingdom.svg" alt="" width="150"></figure>
-                                </a>
-                            </div>
-                            <div class="col finca-box">
-                                <a href="./de">
-                                    <figure><img src="./assets/image/flag_germany.svg" width="150" alt=""></figure>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <script>
-            $( document ).ready(function() {
-                $('#myModal').modal('toggle')
-            });
-        </script>
-
-    <?php } ?>
         <?php include_once "./include/footer.php" ?>
         <script type="text/javascript">
             // jQuery counterUp

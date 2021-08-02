@@ -3,7 +3,7 @@
 if (isset($_GET['wlang'])){
     $webLang=trim($_GET["wlang"]);
     if ($webLang<>"") {
-        $expire=time()+60*60*24*30*6; // 6 meses
+        $expire=time()+60*60*24; // 6 meses
         setcookie("clang", $webLang, $expire);
     } else
     {
