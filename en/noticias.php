@@ -23,8 +23,8 @@
                 <img src="../assets/image/icon-notice.svg" width="150" class="rounded mx-auto d-block img-gost py-5" alt="Grupo Esfuerzo">
                 <div class="row text-center">
                     <div class="text-white text-light">
-                        <h3 class="mb-3">Últimas noticias de Grupo Esfuerzo</h3>
-                        <p class="mb-4 text-light">Consulte nuestras últimas noticias</p>
+                        <h3 class="mb-3">Latest news from Grupo Esfuerzo</h3>
+                        <p class="mb-4 text-light">See our latest news</p>
                     </div>
                 </div>
             </div>
@@ -53,7 +53,7 @@
                     its presence in the global banana market, Grupo Esfuerzo 
                     launched its new website this July. </p>
                 <a href="./noticias/jul-2021">
-                    <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                    <button type="button" class="btn btn-outline-primary btn-contact">See more</button>
                 </a>
             </div>
         </div>
@@ -71,7 +71,7 @@
                     the local population's need for a structure to prevent the dreaded 
                     and constant flooding during the rainy season. </p>
                 <a href="./noticias/jun-2021">
-                    <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                    <button type="button" class="btn btn-outline-primary btn-contact">See more</button>
                 </a>
             </div>
         </div>
@@ -89,7 +89,7 @@
                 its presence in the banana market with the 
                 acquisition of two new farms to reach a total area of 960 hectares, 
                 of which 550 hectares are currently in production. </p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                <button type="button" class="btn btn-outline-primary btn-contact">See more</button>
             </div>
         </div>
 
@@ -103,7 +103,7 @@
                 <p class="text-grey">Thanks to a Global Positioning System (GPS), all of 
                     Grupo Esfuerzo's trucks are monitored in real-time since May 19. 
                 </p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                <button type="button" class="btn btn-outline-primary btn-contact">See more</button>
             </div>
         </div>
     </div>

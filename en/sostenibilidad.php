@@ -20,7 +20,7 @@
         <div class="row container-headers-parrafo">
             <div class="col">
                 <div class="text-white text-light">
-                    <h2 class="mb-3">Responsabilidad Social Corporativa</h2>
+                    <h2 class="mb-3">Corporate Social Responsibility</h2>
                     <h4 class="mb-4">At Grupo Esfuerzo, sustainability is our only way 
                         of doing business.  Our strategy is to build a successful 
                         long-term business, prioritizing the well-being of our stakeholders, 
@@ -208,7 +208,7 @@
                             </picture>
                         </div>
                         <div class="row">
-                            <button type="button" class="btn btn-outline-primary btn-contact">Contáctenos</button>
+                            <button type="button" class="btn btn-outline-primary btn-contact">Contact Us</button>
                         </div>
                     </div>
                 </div>

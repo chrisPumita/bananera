@@ -24,9 +24,9 @@
     <div class="container-sm ">
         <div class="row">
             <div class="row text-center text-grey py-4">
-                <h2 class="text-greybold">Un recorrido de 30 años</h2>
-                <h2 class="text-greybold">marca nuestra esencia, nuestra historia.</h2>
-                <h3 class="text-primary">Centrados en la producción sostenible y el bienestar de nuestros colaboradores</h3>
+                <h2 class="text-greybold">A 30-year journey</h2>
+                <h2 class="text-greybold">marks our essence, our history.</h2>
+                <h3 class="text-primary">Focused on sustainable production and the well-being of our employees.</h3>
             </div>
         </div>
         <div class="container overflow-auto py-5">
@@ -81,7 +81,7 @@
     <div class="container-sm p-5">
         <div class="row">
             <div class="col m-auto text-center">
-                <h2 class="text-secondary">Historia</h2>
+                <h2 class="text-secondary">History</h2>
                 <img src="../assets/image/pergamino.svg" width="60" alt="">
             </div>
             <div class="col border-left border-secondary historia">
@@ -164,7 +164,7 @@
     </div>
     <div class="container-sm py-5">
         <h2>A Successful Story</h2>
-        <h2 class="text-primary">Escuche nuestro StoryTelling</h2>
+        <h2 class="text-primary">Listen to our StoryTelling</h2>
         <audio preload="none" controls>
             <source src="../assets/podcast.mp3" type="audio/mpeg">
             Your browser does not support the audio element.

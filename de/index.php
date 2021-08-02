@@ -79,7 +79,7 @@
                                 unter strenge Standards für eine nachhaltige <br>
                                 Produktion, wo das Wohlergehen  unserer  <br>
                                 Mitarbeiter und Gemeiden priorisiert ist.</p>
-                            <button type="button" class="btn btn-outline-primary">Conozca nuestro producto</button>
+                            <button type="button" class="btn btn-outline-primary">Lernen sie unser Produkt kennen.</button>
                         </div>
                     </div>
                 </div>
@@ -107,7 +107,7 @@
                         <div class="count-up">
                             <p class="text-primary  counter1 counter-count">960</p>
                         </div>
-                        <span class="counts">Hektar Grundstück</span>
+                        <span class="counts">Hektar </span>
                     </div>
                 </div>
             </div>
@@ -227,7 +227,7 @@
                                     </picture>
                                 </div>
                                 <div class="row">
-                                    <button type="button" class="btn btn-outline-primary btn-contact position-front">Contáctenos</button>
+                                    <button type="button" class="btn btn-outline-primary btn-contact position-front">Kontaktieren Sie uns</button>
                                 </div>
                             </div>
                         </div>

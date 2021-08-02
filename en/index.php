@@ -73,13 +73,13 @@
                             <img src="../assets/image/min/banana-min.png" class="rounded mx-auto d-block platano img-gost" alt="platano">
                         </div>
                         <div class="col welcome-title">
-                            <h2 class="text-primary">Lo que hacemos</h2>
+                            <h2 class="text-primary">What we do</h2>
                             <p class="py-5 text-grey">We strive to be the world's leading supplier<br>
                             of the best Costa Rican bananas,always <br>
                             under strict standards of sustainable production <br>
                                 and prioritizing the welfare of our <br>
                                 employees and communities.</p>
-                            <button type="button" class="btn btn-outline-primary">Conozca nuestro producto</button>
+                            <button type="button" class="btn btn-outline-primary">Get to know our product</button>
                         </div>
                     </div>
                 </div>
@@ -96,18 +96,18 @@
                     </div>
                     <div class="col p-4">
 
-                        <span class="counts">màs de</span>
+                        <span class="counts">More than </span>
                         <div class="count-up">
                             <p class="text-primary  counter1 counter-count">500</p>
                         </div>
-                        <span class="counts"> employees</span>
+                        <span class="counts"> collaborators</span>
                     </div>
                     <div class="col p-4">
                         <span class="text-light"> .</span>
                         <div class="count-up">
                             <p class="text-primary  counter1 counter-count">960</p>
                         </div>
-                        <span class="counts">hectares of farmland</span>
+                        <span class="counts">hectares </span>
                     </div>
                 </div>
             </div>
@@ -127,7 +127,7 @@
             <div class="container-sm">
                 <div class="row">
                     <div class="row text-center text-grey py-4 contador-cont">
-                        <h5 class="text-greybold">DONDE TODO NACE: NUESTRAS FINCAS</h5>
+                        <h5 class="text-greybold">Where it all starts: our farms</h5>
                     </div>
                 </div>
                 <div class="row row-cols-1 row-cols-md-4 g-4">
@@ -179,9 +179,9 @@
                 <div class="row">
                     <div class="col-1"></div>
                     <div class="col-11">
-                        <h2 class="text-grey">Exportamos desde</h2>
-                        <mark>Costa Rica</mark>
-                        <h2 class="text-grey">al mundo.</h2>
+                        <h2 class="text-grey">We export from </h2>
+                        <mark>Costa Rica </mark>
+                        <h2 class="text-grey">to the world.</h2>
                     </div>
                 </div>
             </div>
@@ -197,9 +197,9 @@
                                     <img class="comilla" src="../assets/image/min/comilla-min.png" height="auto" width="150" alt="">
                                 </div>
                                 <div class="col-10 text-light text-mje cite" >
-                                    <h2 class="mje-2">Mas de <span class="text-primary"><strong>30 años de experiencia</strong></span></h2>
-                                    <h2 class="mje-2">en la exportación de banano</h2>
-                                    <h2 class="mje-2">costarricense”</h2>
+                                    <h2 class="mje-2">More than <span class="text-primary"><strong>30 years of experience</strong></span></h2>
+                                    <h2 class="mje-2">n the Costa Rican banana export</h2>
+                                    <h2 class="mje-2">business”</h2>
                                 </div>
                             </div>
                             <div class="col-6">
@@ -227,7 +227,7 @@
                                     </picture>
                                 </div>
                                 <div class="row">
-                                    <button type="button" class="btn btn-outline-primary btn-contact position-front">Contáctenos</button>
+                                    <button type="button" class="btn btn-outline-primary btn-contact position-front">Contact us</button>
                                 </div>
                             </div>
                         </div>

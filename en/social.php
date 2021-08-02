@@ -51,7 +51,7 @@
     <div class="container-sm py-5">
         <div class="row">
             <div class="col m-auto text-right">
-                <h2 class="text-secondary">Educación de calidad</h2>
+                <h2 class="text-secondary">Quality Education</h2>
             </div>
         </div>
     </div>
@@ -257,7 +257,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <button type="button" class="btn btn-outline-primary btn-contact">Contáctenos</button>
+                            <button type="button" class="btn btn-outline-primary btn-contact">Contact Us</button>
                         </div>
                     </div>
                 </div>

@@ -14,7 +14,7 @@
 <header style="background: url(../assets/image/min/header-producto1-min.jpg) top center no-repeat;">
     <div class="overlay"></div>
 
-    <?php include "../include/nav.php" ?>
+    <?php include "./include/nav.php" ?>
 
     <div class="container d-flex justify-content-center align-items-center" style="height: 70vh;">
         <div class="row container-headers">
@@ -90,7 +90,7 @@
                                 <h2 class="mje-2">They contain about 400 milligrams of </h2>
                                 <h2 class="mje-2">potassium per 100 g of </h2>
                                 <h2 class="mje-2">fresh fruit. They are also a source of </h2>
-                                <h2 class="mje-2"><mark class="mark-vitamina">vitamina C y B6”</mark></h2>
+                                <h2 class="mje-2"><mark class="mark-vitamina">vitamin C y B6”</mark></h2>
                             </div>
                         </div>
                     </div>
@@ -174,7 +174,7 @@
                             </picture>
                         </div>
                         <div class="row">
-                            <button type="button" class="btn btn-outline-primary btn-contact">Contáctenos</button>
+                            <button type="button" class="btn btn-outline-primary btn-contact">Contact Us</button>
                         </div>
                     </div>
                 </div>

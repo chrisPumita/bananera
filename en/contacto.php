@@ -28,28 +28,28 @@
                 </ul>
                 <ul class="navbar-nav mb-2 mb-lg-0 justify-content-end menu">
                     <li class="nav-item">
-                        <a class="nav-link text-secondary" aria-current="page" id="m1" href="./nosotros.php"><span class="text-grey">NOSOTROS</span></a>
+                        <a class="nav-link text-secondary" aria-current="page" id="m1" href="./nosotros.php"><span class="text-grey">About Us</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-secondary" aria-current="page" id="m2"  href="./producto.php"><span class="text-grey">PRODUCTOS</span></a>
+                        <a class="nav-link text-secondary" aria-current="page" id="m2"  href="./producto.php"><span class="text-grey">Products </span></a>
                     </li>
                     <li class="nav-item text-secondary dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            SOSTENIBILIDAD
+                        Sustainability
                         </a>
                         <ul class="dropdown-menu dropdown-menu postition-menu" aria-labelledby="navbarDarkDropdownMenuLink">
-                            <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Compromisos</a></li>
+                            <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Commitment</a></li>
                             <div class="dropdown-divider"></div>
                             <li class="link-menu"><a class="dropdown-item" href="./social.php">Social</a></li>
-                            <li class="link-menu"><a class="dropdown-item" href="./gobernanza.php">Gobernanza</a></li>
-                            <li class="link-menu"><a class="dropdown-item" href="./ambiental.php">Ambiental</a></li>
+                            <li class="link-menu"><a class="dropdown-item" href="./gobernanza.php">Governance</a></li>
+                            <li class="link-menu"><a class="dropdown-item" href="./ambiental.php">Environmental</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-secondary" aria-current="page" id="m4" href="./noticias.php"><span class="text-grey">NOTICIAS</span></a>
+                        <a class="nav-link text-secondary" aria-current="page" id="m4" href="./noticias.php"><span class="text-grey">Notices</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-secondary" aria-current="page"  id="m5" href="./contacto.php"><span class="text-grey">CONTACTO</span></a>
+                        <a class="nav-link text-secondary" aria-current="page"  id="m5" href="./contacto.php"><span class="text-grey">Contact Us</span></a>
                     </li>
                 </ul>
             </div>
@@ -65,7 +65,7 @@
     <div class="container-sm py-5 top-z">
         <div class="container justify-content-center align-items-center">
             <div class="row">
-                <h3 class="text-secondary">¡Hagamos negocios juntos!</h3>
+                <h3 class="text-secondary">Let's do business together!</h3>
             </div>
             <div class="row container-headers py-5">
                 <div class="col">
@@ -74,13 +74,13 @@
                             <ul>
                                 <li>
                                     <div class="grid grid-1">
-                                        <label for="name" class="form-label text-grey">Full Name*</label>
+                                        <label for="name" class="form-label text-grey">First and last name(s)*</label>
                                         <input type="text" id="name" name="nombre" placeholder="Nombre completo" required>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="grid grid-1">
-                                        <label for="name" class="form-label text-grey">, E-mail*</label>
+                                        <label for="name" class="form-label text-grey"> Email Address*</label>
                                         <input type="email" id="email" name="email" placeholder="ejemplo@suempresa.com" required>
                                     </div>
                                 </li>
@@ -92,7 +92,7 @@
                                 </li>
                                 <li>
                                     <div class="grid grid-1">
-                                        <label for="telefono" class="form-label text-grey">Phone Number*</label>
+                                        <label for="telefono" class="form-label text-grey">Telephone Number *</label>
                                         <input type="tel" id="telefono" name="telefono" placeholder="Eje. 55 5555 5555" required>
                                     </div>
                                 </li>
@@ -336,40 +336,40 @@
                                     </select>
                                 </li>
                                 <li>
-                                    <label for="name" class="form-label text-grey">Tipo de Sector*</label>
+                                    <label for="name" class="form-label text-grey">Sector Type*</label>
                                     <select name="sector" id="sector">
-                                        <option>SUPERMERCADO</option>
-                                        <option>MADURADOR</option>
-                                        <option selected>DISTRIBUIDOR</option>
-                                        <option>CONSUMIDOR</option>
-                                        <option>OTROS</option>
+                                        <option>Supermarket</option>
+                                        <option>Ripener</option>
+                                        <option selected>Distributor</option>
+                                        <option>Consumer</option>
+                                        <option>Other</option>
                                     </select>
                                 </li>
                                 <li>
-                                    <label for="name" class="form-label text-grey">Comentario adicional</label>
-                                    <textarea name="comentario" id="comentario"  placeholder="Escriba un comentario adicional"></textarea>
+                                    <label for="name" class="form-label text-grey">Additional comments</label>
+                                    <textarea name="comentario" id="comentario"  placeholder="Write an additional comment"></textarea>
                                 </li>
                                 <li>
                                     <input type="checkbox" id="terms" required>
-                                    <label for="terms" class="form-label text-grey">He leido y acepto
-                                        <a class="linkfooter" href="" data-bs-toggle="modal" data-bs-target="#modalPrivate">términos y condiciones.</a>
+                                    <label for="terms" class="form-label text-grey">I have read and accepted the
+                                        <a class="linkfooter" href="" data-bs-toggle="modal" data-bs-target="#modalPrivate"> Terms and Conditions.</a>
                                     </label>
                                 </li>
                                 <li>
                                     <div class="grid grid-3" >
-                                        <div class="required-msg">Requerido</div>
+                                        <div class="required-msg">Required</div>
                                         <button class="btn-grid" type="submit" disabled>
                                                 <span class="back">
                                                     <i class="fas fa-paper-plane"></i>
                                                   <img src="../assets/image/email-icon.svg" alt="">
                                                 </span>
-                                                <span class="front">Enviar</span>
+                                                <span class="front">Send</span>
                                         </button>
                                         <button class="btn-grid" type="reset" disabled>
                                             <span class="back">
                                               <img src="../assets/image/eraser-icon.svg" alt="">
                                             </span>
-                                            <span class="front">Limpiar</span>
+                                            <span class="front">Clear</span>
                                         </button>
                                     </div>
                                 </li>
