@@ -11,28 +11,28 @@
             </ul>
             <ul class="navbar-nav mb-2 mb-lg-0 justify-content-end menu">
                 <li class="nav-item">
-                    <a class="nav-link text-secondary" aria-current="page" id="m1" href="./nosotros.php">NOSOTROS</a>
+                    <a class="nav-link text-secondary" aria-current="page" id="m1" href="./nosotros.php">Über Uns</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-secondary" aria-current="page" id="m2"  href="./producto.php">PRODUCTOS</a>
+                    <a class="nav-link text-secondary" aria-current="page" id="m2"  href="./producto.php">Produkte</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link text-secondary dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        SOSTENIBILIDAD
+                    NACHHALTIGKEIT
                     </a>
                     <ul class="dropdown-menu dropdown-menu postition-menu" aria-labelledby="navbarDarkDropdownMenuLink">
-                        <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Compromisos</a></li>
+                        <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Die Verpflichtung</a></li>
                         <div class="dropdown-divider"></div>
-                        <li class="link-menu"><a class="dropdown-item" href="./social.php">Social</a></li>
-                        <li class="link-menu"><a class="dropdown-item" href="./gobernanza.php">Gobernanza</a></li>
-                        <li class="link-menu"><a class="dropdown-item" href="./ambiental.php">Ambiental</a></li>
+                        <li class="link-menu"><a class="dropdown-item" href="./social.php">Sozial</a></li>
+                        <li class="link-menu"><a class="dropdown-item" href="./gobernanza.php">Führung</a></li>
+                        <li class="link-menu"><a class="dropdown-item" href="./ambiental.php">Umwelt</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-secondary" aria-current="page" id="m4" href="./noticias.php">NOTICIAS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-secondary" aria-current="page"  id="m5" href="./contacto.php">CONTACTO</a>
+                    <a class="nav-link text-secondary" aria-current="page"  id="m5" href="./contacto.php">Kontaktinfos</a>
                 </li>
             </ul>
         </div>

@@ -69,37 +69,37 @@
             <div class="row row-cols-7 text-center  g-2 py-5  hover14 column">
                 <div class="col finca-box">
                     <a href="./social.php">
-                        <figure><img src="../assets/image/ods-4.svg" width="150" alt=""></figure>
+                        <figure><img src="../assets/image/ods_en/ods-4.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./ambiental.php">
-                    <figure><img src="../assets/image/ods-7.svg" alt="" width="150"></figure>
+                    <figure><img src="../assets/image/ods_en/ods-7.svg" alt="" width="150"></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./social.php">
-                    <figure><img src="../assets/image/ods-8.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/ods_en/ods-8.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./social.php">
-                    <figure><img src="../assets/image/ods-11.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/ods_en/ods-11.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./ambiental.php">
-                    <figure><img src="../assets/image/ods-12.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/ods_en/ods-12.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./ambiental.php">
-                    <figure><img src="../assets/image/ods-15.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/ods_en/ods-15.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./gobernanza.php">
-                    <figure><img src="../assets/image/ods-17.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/ods_en/ods-17.svg" width="150" alt=""></figure>
                     </a>
                 </div>
             </div>

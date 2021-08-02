@@ -4,10 +4,10 @@
             <div class="col-xl-4 col-md-4 col-sm-4 col-12 my-auto mx-auto a">
                 <h6 class="mb-3 mb-lg-4 text-grey "><b>Grupo Esfuerzo, Costa Rica</b></h6>
                 <ul class="list-unstyled text-grey">
-                    <li><a class="linkfooter" href="./contacto.php#map">Finca Agro</a></li>
-                    <li><a class="linkfooter" href="./contacto.php#map">Finca Esfuerzo</a></li>
-                    <li><a class="linkfooter" href="./contacto.php#map">Finca Vesta</a></li>
-                    <li><a class="linkfooter" href="./contacto.php#map">Finca Bristol</a></li>
+                    <li><a class="linkfooter" href="./contacto.php#map">Grundstück Agro</a></li>
+                    <li><a class="linkfooter" href="./contacto.php#map">Grundstück Esfuerzo</a></li>
+                    <li><a class="linkfooter" href="./contacto.php#map">Grundstück Vesta</a></li>
+                    <li><a class="linkfooter" href="./contacto.php#map">Grundstück Bristol</a></li>
                 </ul>
 
                 <p class="text-grey" py-3>
@@ -17,20 +17,20 @@
                 </p>
             </div>
             <div class="col-xl-4 col-md-4 col-sm-4 col-12">
-                <h6 class="mb-3 mb-lg-4 text-grey "><b>Últimas Noticias</b></h6>
+                <h6 class="mb-3 mb-lg-4 text-grey "><b>Neueste Nachrichten</b></h6>
                 <p class="text-grey notice-footer">
-                    <a class="linkfooter" href="#">Nuestro compromiso</a>
+                    <a class="linkfooter" href="./noticias/jun-2021">GRUPO ESFUERZO NIMMT TEIL BEIM AUFBAU EINES DAMMS UM ÜBERSCHWEMMUNGEN</a>
                 <hr class="hr-div-notice">
-                Mayo 2021
+                Jun 2021
                 </p>
                 <p class="text-grey notice-footer">
-                    <a class="linkfooter" href="#">Nuestra responsabilidad </a>
+                    <a class="linkfooter" href="./noticias/jul-2021">GRUPO ESFUERZO SCHUF NEUE WEBSEITE UM </a>
                 <hr class="hr-div-notice">
-                Junio 2021
+                Jul 2021
                 </p>
             </div>
             <div class="col-xl-4 col-md-4 col-sm-4 col-12">
-                <h6 class="mb-3 mb-lg-4 text-grey "><b>Contáctenos</b></h6>
+                <h6 class="mb-3 mb-lg-4 text-grey "><b>Kontaktieren Sie uns</b></h6>
                 <ul class="list-unstyled text-grey">
                     <li>info@grupoesfuerzo.com</li>
                     <li>+506 4036 7160</li>
@@ -56,7 +56,7 @@
         <div class="row privacidad">
             <div class="col-xl-4 col-md-4 col-sm-4 col-auto my-md-0 mt-5 order-sm-1 order-3 align-self-end">
                 <a href="" class="nav-link text-grey"  data-bs-toggle="modal" data-bs-target="#modalPrivate">
-                    <h6>Política de privacidad</h6>
+                    <h6>Datenschutzbestimmung</h6>
                 </a>
 
             </div>
@@ -77,7 +77,7 @@
     <div class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Política de Privacidad</h5>
+                <h5 class="modal-title" id="exampleModalLabel">Datenschutzbestimmung</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">

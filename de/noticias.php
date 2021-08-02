@@ -44,14 +44,13 @@
             <div class="timeline-img"></div>
             <div class="timeline-content js--fadeInLeft">
                 <img src="../assets/notice/notice1/pin-notice-min.png" class="rounded mx-auto d-block img-gost py-5" width="50%" alt="">
-                <h5 class="text-grey">Grupo Esfuerzo lanza nuevo sitio web para honrar
-                    la confianza de sus clientes alrededor del mundo</h5>
+                <h5 class="text-grey">GRUPO ESFUERZO SCHUF NEUE WEBSEITE UM DAS 
+                    VERTRAUEN SEINER KUNDEN WELTWEIT ZU EHREN</h5>
                 <div class="date">JUL 2021</div>
-                <p class="text-grey">Como un esfuerzo alineado a su estrategia comercial y de la
-                    mano de acciones para ampliar su presencia en el mercado
-                    bananero global, Grupo Esfuerzo estrenó su nuevo sitio web, este
-                    mes de junio.</p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                <p class="text-grey">Als eine Bemühung im Einklang mit ihrer Geschäftsstrategie und mit 
+                    Aktionen, um ihre Präsenz auf dem globalen Bananenmarkt auszubauen, hat Grupo Esfuerzo 
+                    im Juni dieses Jahres ihre neue Website veröffentlicht.</p>
+                <button type="button" class="btn btn-outline-primary btn-contact">Mehr </button>
             </div>
         </div>
 
@@ -63,12 +62,12 @@
                     UM ÜBERSCHWEMMUNGEN IN DEN GEMEINDEN DER KARIBIK
                      ZU VERMEIDEN</h5>
                 <div class="date">JUN 2021</div>
-                <p class="text-grey">Luego de que, en 2017, el Grupo Esfuerzo adquiriera una finca en
-                    la comunidad de Bristol en Matina de Limón, sus directivos
-                    tomaron consciencia de la necesidad que tenía la población de
-                    contar con una estructura para prevenir las temibles y constantes
-                    inundaciones durante la época lluviosa.</p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                <p class="text-grey">Nachdem Grupo Esfuerzo einen Grundstück in der Bristol Gemeinde 
+                    in Matina von Limón in 2017 erworben hatte, wurde sich die Unternehmensleitung der 
+                    Notwendigkeit bewusst, dass die Bevölkerung eine Struktur benötigt, um die 
+                    furchterregenden und ständigen Überschwemmungen während der Regenzeit zu 
+                    verhindern.</p>
+                <button type="button" class="btn btn-outline-primary btn-contact">Mehr </button>
             </div>
         </div>
 
@@ -80,12 +79,11 @@
                     DEM BANANENMARKT MIT DEM KAUF VON ZWEI WEITEREN
                      GRUNDSTÜCKEN</h5>
                 <div class="date">MAY 2021</div>
-                <p class="text-grey">LA ADQUISICIÓN DE DOS FINCAS MÁS <br>
-                    En diciembre del 2020, el Grupo Esfuerzo, decidió ampliar su
-                    presencia en el mercado bananero con la adquisición de dos
-                    nuevas fincas para alcanzar un área total de 960 hectáreas, de las
-                    cuales 534 están produciendo.</p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                <p class="text-grey">LMIT DEM ANKAUF VON ZWEI WEITEREN GRUNDSTÜCKEN <br>
+                In Dezember 2020 hat Grupo Esfuerzo entschieden, ihre Präsenz auf dem Bananenmarkt mit 
+                dem Ankauf zweier Grundstücke zu erweitern. Damit erreichen sie eine Gesamtfläche von 
+                960 Hektar, von denen 534 schon produzieren. </p>
+                <button type="button" class="btn btn-outline-primary btn-contact">Mehr </button>
             </div>
         </div>
 
@@ -98,10 +96,10 @@
                     ESFUERZO VERFÜGEN ÜBER GPS-ÜBERWACHUNG F
                     ÜR MEHR SICHERHEIT</h5>
                 <div class="date">ABR 2021</div>
-                <p class="text-grey">Gracias a un Sistema de Posicionamiento Global (GPS), todos los
-                    camiones del Grupo Esfuerzo cuentan con monitoreo en tiempo
-                    real desde el 19 de mayo anterior.</p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Ver más</button>
+                <p class="text-grey">Infolge des Geographysches Positionierungs 
+                    System (GPS), alle LKWs von Grupo Esfuerzo rechnen seit dem letzten 
+                    19. Mai mit Überwachung in Echtzeit.</p>
+                <button type="button" class="btn btn-outline-primary btn-contact">Mehr </button>
             </div>
         </div>
     </div>

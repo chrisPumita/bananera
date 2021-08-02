@@ -28,21 +28,21 @@
                 </ul>
                 <ul class="navbar-nav mb-2 mb-lg-0 justify-content-end menu">
                     <li class="nav-item">
-                        <a class="nav-link text-secondary" aria-current="page" id="m1" href="./nosotros.php"><span class="text-grey">NOSOTROS</span></a>
+                        <a class="nav-link text-secondary" aria-current="page" id="m1" href="./nosotros.php"><span class="text-grey">Über Uns</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-secondary" aria-current="page" id="m2"  href="./producto.php"><span class="text-grey">PRODUCTOS</span></a>
+                        <a class="nav-link text-secondary" aria-current="page" id="m2"  href="./producto.php"><span class="text-grey">Produkte</span></a>
                     </li>
                     <li class="nav-item text-secondary dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            SOSTENIBILIDAD
+                        NACHHALTIGKEIT
                         </a>
                         <ul class="dropdown-menu dropdown-menu postition-menu" aria-labelledby="navbarDarkDropdownMenuLink">
-                            <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Compromisos</a></li>
+                            <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Die Verpflichtung</a></li>
                             <div class="dropdown-divider"></div>
-                            <li class="link-menu"><a class="dropdown-item" href="./social.php">Social</a></li>
-                            <li class="link-menu"><a class="dropdown-item" href="./gobernanza.php">Gobernanza</a></li>
-                            <li class="link-menu"><a class="dropdown-item" href="./ambiental.php">Ambiental</a></li>
+                            <li class="link-menu"><a class="dropdown-item" href="./social.php">Sozial</a></li>
+                            <li class="link-menu"><a class="dropdown-item" href="./gobernanza.php">Führung</a></li>
+                            <li class="link-menu"><a class="dropdown-item" href="./ambiental.php">Umwelt</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -65,7 +65,7 @@
     <div class="container-sm py-5 top-z">
         <div class="container justify-content-center align-items-center">
             <div class="row">
-                <h3 class="text-secondary">¡Hagamos negocios juntos!</h3>
+                <h3 class="text-secondary">Machen Sie Geschäfte mit uns!</h3>
             </div>
             <div class="row container-headers py-5">
                 <div class="col">
@@ -74,7 +74,7 @@
                             <ul>
                                 <li>
                                     <div class="grid grid-1">
-                                        <label for="name" class="form-label text-grey"> Vorname und Name</label>
+                                        <label for="name" class="form-label text-grey"> Vorname und Nachname*</label>
                                         <input type="text" id="name" name="nombre" placeholder="Nombre completo" required>
                                     </div>
                                 </li>
@@ -336,40 +336,40 @@
                                     </select>
                                 </li>
                                 <li>
-                                    <label for="name" class="form-label text-grey">Tipo de Sector*</label>
+                                    <label for="name" class="form-label text-grey">Branche*</label>
                                     <select name="sector" id="sector">
-                                        <option>SUPERMERCADO</option>
-                                        <option>MADURADOR</option>
-                                        <option selected>DISTRIBUIDOR</option>
-                                        <option>CONSUMIDOR</option>
-                                        <option>OTROS</option>
+                                        <option>Supermarkt</option>
+                                        <option>Reifungsunternehmen</option>
+                                        <option selected>Vertreiber</option>
+                                        <option>Verbraucher</option>
+                                        <option>Anderes</option>
                                     </select>
                                 </li>
                                 <li>
-                                    <label for="name" class="form-label text-grey">Comentario adicional</label>
-                                    <textarea name="comentario" id="comentario"  placeholder="Escriba un comentario adicional"></textarea>
+                                    <label for="name" class="form-label text-grey">Weitere Bemerkungen</label>
+                                    <textarea name="comentario" id="comentario"  placeholder="Schreiben Sie einen  Kommentar"></textarea>
                                 </li>
                                 <li>
                                     <input type="checkbox" id="terms" required>
-                                    <label for="terms" class="form-label text-grey">He leido y acepto
-                                        <a class="linkfooter" href="" data-bs-toggle="modal" data-bs-target="#modalPrivate">términos y condiciones.</a>
+                                    <label for="terms" class="form-label text-grey">Ich habe die Bedingungen 
+                                        <a class="linkfooter" href="" data-bs-toggle="modal" data-bs-target="#modalPrivate">gelesen und akzeptiere.</a>
                                     </label>
                                 </li>
                                 <li>
                                     <div class="grid grid-3" >
-                                        <div class="required-msg">Requerido</div>
+                                        <div class="required-msg">Erforderlich</div>
                                         <button class="btn-grid" type="submit" disabled>
                                                 <span class="back">
                                                     <i class="fas fa-paper-plane"></i>
                                                   <img src="../assets/image/email-icon.svg" alt="">
                                                 </span>
-                                                <span class="front">Enviar</span>
+                                                <span class="front">Senden</span>
                                         </button>
                                         <button class="btn-grid" type="reset" disabled>
                                             <span class="back">
                                               <img src="../assets/image/eraser-icon.svg" alt="">
                                             </span>
-                                            <span class="front">Limpiar</span>
+                                            <span class="front">Löschen</span>
                                         </button>
                                     </div>
                                 </li>

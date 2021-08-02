@@ -28,13 +28,13 @@
     <div class="container" style="height: 25vh;">
         <div class="row">
             <div class="col-4 p-3 text-end">
-                <img class="img-responsive imgBoxSocial" src="../assets/image/ods-7-box.svg" alt="">
+                <img class="img-responsive imgBoxSocial" src="../assets/image/ods_en/ods-7-box.svg" alt="">
             </div>
             <div class="col-4 p-3 text-center">
-                <img  class="img-responsive imgBoxSocial" src="../assets/image/ods-12-box.svg"  alt="">
+                <img  class="img-responsive imgBoxSocial" src="../assets/image/ods_en/ods-12-box.svg"  alt="">
             </div>
             <div class="col-4 p-3 text-start">
-                <img class="img-responsive imgBoxSocial" src="../assets/image/ods-15-box.svg" alt="">
+                <img class="img-responsive imgBoxSocial" src="../assets/image/ods_en/ods-15-box.svg" alt="">
             </div>
         </div>
     </div>
