@@ -57,7 +57,7 @@
         </div>
     </div>
     <div class=" p-5 container">
-        <div class="row d-flex justify-content-center align-items-center">
+        <div class="row d-flex justify-content-center align-items-center education">
             <div class="col">
                 <h6 class="text-grey">DONACIÓN DE ÚTILES</h6>
                 <p class="text-grey py-5">
@@ -101,7 +101,7 @@
     </div>
 </section>
 <section class="bg-greyligth">
-    <div class="container-sm d-flex justify-content-center align-items-center" style="height: 40vh;">
+    <div class="container-sm d-flex justify-content-center align-items-center" style="height: auto;">
         <div class="row container-headers-parrafo">
             <div class="col">
                 <div class="text-white text-light">
@@ -205,7 +205,7 @@
         </div>
         <img class="d-none d-sm-none d-md-block" src="./assets/image/min/houses-wabe-min.png" width="100%" alt="">
     </div>
-    <div class="container d-flex justify-content-center align-items-center py-5">
+    <div class="container d-flex justify-content-center align-items-center education py-5">
         <div class="row d-flex justify-content-center align-items-center">
             <div class="col text-parrafo">
                 <div class="row">

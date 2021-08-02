@@ -85,7 +85,7 @@
 
 <section>
     <div class="container-sm p-5">
-        <div class="row">
+        <div class="row row-history">
             <div class="col m-auto text-center">
                 <h2 class="text-secondary">&nbsp;&nbsp;Historia&nbsp;&nbsp;</h2>
                 <img src="./assets/image/pergamino.svg" width="60" alt="">
@@ -127,7 +127,7 @@
     </div>
 
     <div class="container-sm p-5">
-        <div class="row">
+        <div class="row row-history">
             <div class="col m-auto text-center">
                 <img src="./assets/image/medalla.svg" width="60" alt="">
                 <h2 class="text-primary">Propósito y valores</h2>

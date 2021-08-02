@@ -678,6 +678,10 @@ header .overlay {
 
 @media (pointer: coarse) and (hover: none) {
 
+    .cert{
+        display: block !important;
+    }
+
     header video{
         position: absolute;
         top: 50%;
@@ -1256,4 +1260,82 @@ ____________________________ shadow effect*/
 .bg-header-news{
     background-size: cover !important;
     background-position-y: bottom !important;
+}
+
+
+/*--------------------------------------------- RESPONSIVE ///// ---------------*/
+/*-------- telefono horizontal */
+@media (min-width: 470px) and (max-width: 740px) and (orientation: landscape){
+    header .container {
+        height: 50vh !important;
+    }
+
+    .container-headers {
+        display: flex !important;
+    }
+
+    .welcome-title {
+        padding-top: 0em;
+    }
+    .mb-3{
+        font-size: inherit !important;
+    }
+    .mb-4{
+        font-size: inherit !important;
+    }
+
+    .platano {
+        width: 250px;
+    }
+
+    .contador-cont {
+        width: 100%;
+    }
+
+    .privacidad {
+        display: flex;
+    }
+    .row-history{
+        display: block !important;
+    }
+
+    /* PRODUCTO*/
+    .top-header {
+        margin-top: 0vh;
+    }
+    .container-headers {
+        display: block !important;
+    }
+    .icon-home-img {
+        width: 90px;
+    }
+
+    .education {
+        display: block !important;
+    }
+
+
+
+}
+
+
+
+/*-------- telefono vertical */
+@media screen and (max-width: 740px), not all{
+
+
+}
+
+
+/*--------------------------------------------- RESPONSIVE TABLETA ///// ---------------*/
+/* TABLETA VERTICAL*/
+@media (min-width: 470px) and (max-width: 860px){
+
+}
+
+
+/* TABLETA HORIZONTAL*/
+@media (min-width: 861px) and (max-width: 1024px){
+
+
 }

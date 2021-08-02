@@ -86,7 +86,7 @@
                                 </li>
                                 <li>
                                     <div class="grid grid-1">
-                                        <label for="empresa" class="form-label text-grey">Empresa*</label>
+                                        <label for="empresa" class="form-label text-grey">Empresa / organización*</label>
                                         <input type="text" id="empresa" name="empresa" placeholder="Empresa / orgainización" required>
                                     </div>
                                 </li>
@@ -351,7 +351,7 @@
                                 </li>
                                 <li>
                                     <input type="checkbox" id="terms" required>
-                                    <label for="terms" class="form-label text-grey">He leido y acepto
+                                    <label for="terms" class="form-label text-grey">He leído y acepto
                                         <a class="linkfooter" href="" data-bs-toggle="modal" data-bs-target="#modalPrivate">términos y condiciones.</a>
                                     </label>
                                 </li>
@@ -379,24 +379,20 @@
                     <span id="actionSend" ></span>
                 </div>
                 <div class="col m-auto text-center py-5">
-                    <a href="">
+                    <a href="https://api.whatsapp.com/send?phone=50687027972" target="_blank">
                         <button class="learn-more my-5">
                         <span class="circle whatsapp-btn" aria-hidden="true">
                           <span class="icon arrow"></span>
                         </span>
-                            <a href="https://api.whatsapp.com/send?phone=50687027972" target="_blank">
                                 <span class="button-text"><i class="bi bi-whatsapp"></i>&nbsp;WhatsApp Bussines</span>
-                            </a>
                         </button>
                     </a>
-                    <a href="">
+                    <a href="mailto:info@grupoesfuerzo.com">
                         <button class="learn-more my-5">
                         <span class="circle mail-btn" aria-hidden="true">
                           <span class="icon arrow"></span>
                         </span>
-                            <a href="mailto:info@grupoesfuerzo.com">
                                 <span class="button-text"><i class="bi bi-envelope"></i>&nbsp;e-mail</span>
-                            </a>
                         </button>
                     </a>
 

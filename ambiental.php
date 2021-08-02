@@ -57,7 +57,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col py-5">
                 <h4 class="text-grey">Energía asequible
                    <span class="text-primary"> y no contaminante</span></h4>
                 <p class="text-grey py-5">
@@ -69,7 +69,7 @@
         </div>
     </div>
     <div class="container-sm d-flex justify-content-center align-items-center py-5">
-        <div class="row">
+        <div class="row cert">
             <h3 class="mb-4 py-3 text-secondary text-center">Producción y
                 <mark class="mark-vitamina">consumo responsable</mark></h3>
             <div class="col  text-center">
