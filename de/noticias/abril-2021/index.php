@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-    <link rel="stylesheet" href="../../assets/style/style.css">
+    <link rel="stylesheet" href="../../../assets/style/style.css">
 
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cabin&display=swap" rel="stylesheet">
@@ -21,7 +21,7 @@
     <!-- Font Awesome -->
     <title> <?php echo $titulo; ?> </title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="../../assets/style/styleContact.css">
+    <link rel="stylesheet" href="../../../assets/style/styleContact.css">
     <style>
 
 
@@ -29,7 +29,7 @@
 </head>
 <body>
 
-<header style="background: url(../../assets/image/min/bg-dialog-grey-min.png) top center no-repeat;height: 70vh;" class="bg-light contacto-header bg-header-news">
+<header style="background: url(../../../assets/image/min/bg-dialog-grey-min.png) top center no-repeat;height: 70vh;" class="bg-light contacto-header bg-header-news">
     <?php include "../includes/nav.php" ?>
     <div class="container d-flex justify-content-center align-items-center" style="height: 70vh;">
         <div class="row container-headers">
@@ -42,7 +42,7 @@
             </div>
         </div>
     </div>
-    <div class="circule-back-header" style="background: url('../../assets/image/min/bg-img1-min.png')">
+    <div class="circule-back-header" style="background: url('../../../assets/image/min/bg-img1-min.png')">
     </div>
 </header>
 <main class="container">
@@ -121,7 +121,7 @@
             <?php //include "../includes/more-notices.php" ?>
         </div>
     </div>
-    <div class="cont-limine footer-img-contacto" style="background: url(../../assets/image/min/img-footer--cntact-min.png);">
+    <div class="cont-limine footer-img-contacto" style="background: url(../../../assets/image/min/img-footer--cntact-min.png);">
         <div class="h-300">
         </div>
     </div>

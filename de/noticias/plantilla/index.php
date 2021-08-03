@@ -91,7 +91,7 @@
             <?php //include "../includes/more-notices.php" ?>
         </div>
     </div>
-    <div class="cont-limine footer-img-contacto" style="background: url(../../assets/image/min/img-footer--cntact-min.png);">
+    <div class="cont-limine footer-img-contacto" style="background: url(../../../assets/image/min/img-footer--cntact-min.png);">
         <div class="h-300">
         </div>
     </div>
