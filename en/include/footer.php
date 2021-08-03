@@ -41,7 +41,7 @@
                         <img class="" src="../assets/image/l-spain.svg" width="30" class="rounded float-start text-primary line-text" alt="...">
                     </div>
                 </a>
-                <a href="./en">
+                <a href="./">
                     <div class="btn-group" role="group" aria-label="Basic example">
                         <img class="" src="../assets/image/l-united-kingdom.svg" width="30" class="rounded float-start text-primary line-text" alt="...">
                     </div>
@@ -175,8 +175,8 @@
                 </p>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
-                <button type="button" class="btn bg-primary text-light" data-bs-dismiss="modal">De acuerdo</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn bg-primary text-light" data-bs-dismiss="modal">Yes,I'm agree</button>
             </div>
         </div>
     </div>

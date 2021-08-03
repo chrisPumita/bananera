@@ -89,7 +89,9 @@
                 its presence in the banana market with the 
                 acquisition of two new farms to reach a total area of 960 hectares, 
                 of which 550 hectares are currently in production. </p>
-                <button type="button" class="btn btn-outline-primary btn-contact">See more</button>
+                <a href="./noticias/may-2021">
+                    <button type="button" class="btn btn-outline-primary btn-contact">See more</button>
+                </a>
             </div>
         </div>
 
@@ -103,7 +105,9 @@
                 <p class="text-grey">Thanks to a Global Positioning System (GPS), all of 
                     Grupo Esfuerzo's trucks are monitored in real-time since May 19. 
                 </p>
-                <button type="button" class="btn btn-outline-primary btn-contact">See more</button>
+                <a href="./noticias/abril-2021">
+                    <button type="button" class="btn btn-outline-primary btn-contact">See more</button>
+                </a>
             </div>
         </div>
     </div>

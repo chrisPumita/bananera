@@ -40,13 +40,13 @@
                         <ul class="dropdown-menu dropdown-menu postition-menu" aria-labelledby="navbarDarkDropdownMenuLink">
                             <li class="link-menu"><a class="dropdown-item text-uppercase" href="./sostenibilidad.php">Commitment</a></li>
                             <div class="dropdown-divider"></div>
-                            <li class="link-menu"><a class="dropdown-item text-uppercase href="./social.php">Social</a></li>
+                            <li class="link-menu"><a class="dropdown-item text-uppercase" href="./social.php">Social</a></li>
                             <li class="link-menu"><a class="dropdown-item text-uppercase" href="./gobernanza.php">Governance</a></li>
                             <li class="link-menu"><a class="dropdown-item text-uppercase" href="./ambiental.php">Environmental</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-secondary text-uppercase" aria-current="page" id="m4" href="./noticias.php"><span class="text-grey">Notices</span></a>
+                        <a class="nav-link text-secondary text-uppercase" aria-current="page" id="m4" href="./noticias.php"><span class="text-grey">NEWS</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-secondary text-uppercase" aria-current="page"  id="m5" href="./contacto.php"><span class="text-grey">Contact Us</span></a>
@@ -379,7 +379,7 @@
                     <span id="actionSend" ></span>
                 </div>
                 <div class="col m-auto text-center py-5">
-                    <a href="">
+                    <a href="https://api.whatsapp.com/send?phone=50687027972" target="_blank">
                         <button class="learn-more my-5">
                         <span class="circle whatsapp-btn" aria-hidden="true">
                           <span class="icon arrow"></span>

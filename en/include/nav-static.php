@@ -29,7 +29,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-secondary text-uppercase" aria-current="page" id="m4" href="./noticias.php">Notice</a>
+                    <a class="nav-link text-secondary text-uppercase" aria-current="page" id="m4" href="./noticias.php">NEWS</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-secondary text-uppercase" aria-current="page"  id="m5" href="./contacto.php">Contact Us</a>

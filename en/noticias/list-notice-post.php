@@ -3,35 +3,38 @@
 $listNotices = [
     [
         'id' => 4,
-        'category' => 'Tecnología',
+        'category' => 'Tecnology',
         'date' => 'Jul 2021',
         'link' => '../jul-2021',
-        'titulo' => 'GRUPO ESFUERZO LANZA NUEVO SITIO WEB',
-        'preview_text' => 'Como un esfuerzo alineado a su estrategia comercial y de la mano de acciones para ampliar su presencia en el mercado bananero global, Grupo Esfuerzo estrenó su nuevo sitio web...'
+        'titulo' => 'GRUPO ESFUERZO LAUNCHES A NEW WEBSITE',
+        'preview_text' => 'As part of an effort cnsistent with its commercial strategy and in line with actions to expand its 
+        presence in the global banana market, Grupo Esfuerzo launched its new website...'
     ],
     [
         'id' => 3,
         'category' => 'Social',
         'date' => 'Jun 2021',
         'link' => '../jun-2021',
-        'titulo' => 'GRUPO ESFUERZO PARTICIPA EN LA CONSTRUCCIÓN DE DIQUE',
-        'preview_text' => 'Luego de que, en 2017, el Grupo Esfuerzo adquiriera una finca en la comunidad de Bristol en Matina de Limón...'
+        'titulo' => 'GRUPO ESFUERZO PARTICIPATES IN THE CONSTRUCTION OF A DAM',
+        'preview_text' => ' After Grupo Esfuerzo acquired a farm in the community of Bristol in Matina de Limón in 2017...'
     ],
     [
         'id' => 2,
-        'category' => 'Gobernanza ',
+        'category' => 'Governance ',
         'date' => 'May 2021',
         'link' => '../may-2021',
-        'titulo' => 'GRUPO ESFUERZO AMPLÍA SU PRESENCIA EN EL MERCADO BANANERO CON LA ADQUISICIÓN DE DOS FINCAS MÁS.',
-        'preview_text' => 'En diciembre del 2020, el Grupo Esfuerzo, decidió ampliar su presencia en el mercado bananero con la adquisición de dos nuevas fincas para alcanzar un área total de 960 hectáreas...'
+        'titulo' => 'GRUPO ESFUERZO EXPANDS ITS PRESENCE IN THE BANANA MARKET WITH THE ACQUISITION OF TWO MORE FARMS ',
+        'preview_text' => 'In December 2020, Grupo Esfuerzo decided to expand its presence in the banana market with the acquisition of two new farms to 
+        reach a total area of 960 hectares...'
     ],
     [
         'id' => 1,
-        'category' => 'Gobernanza ',
+        'category' => 'Governance ',
         'date' => 'Apr 2021',
         'link' => '../abril-2021',
-        'titulo' => 'CAMIONES DE GRUPO ESFUERZO AHORA CUENTAN AHORA CUENTAN CON MONITOREO POR GPS',
-        'preview_text' => 'Gracias a un Sistema de Posicionamiento Global (GPS), todos los camiones del Grupo Esfuerzo cuentan con monitoreo en tiempo real desde el 19 de mayo anterior....'
+        'titulo' => 'OUR TRUCKS AT GRUPO ESFUERZO NOW HAVE GPS MONITORING FOR INCREASED SECURITY',
+        'preview_text' => 'Thanks to a Global Positioning System (GPS), all of Grupo Esfuerzo´s trucks are
+        monitored in real-time since May 19... '
     ]
 //add new notice
 ];

@@ -42,10 +42,10 @@ function gridNoticeRandom( objs) {
                     <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative ">
                         <div class="col p-4 d-flex flex-column position-static">
                             <strong class="d-inline-block mb-2 text-success">${obj.category}</strong>
-                            <h3 class="mb-0">${obj.titulo}</h3>
+                            <h3 class="mb-0 text-greybold">${obj.titulo}</h3>
                             <div class="mb-1 text-muted">${obj.date}</div>
-                            <p class="mb-auto">${obj.preview_text}</p>
-                            <a href="${obj.link}" class="stretched-link nav-link">Continuar leyendo</a>
+                            <p class="mb-auto text-grey">${obj.preview_text}</p>
+                            <a href="${obj.link}" class="stretched-link nav-link">Read more...</a>
                         </div>
                     </div>
                 </div>
