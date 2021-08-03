@@ -31,7 +31,7 @@
             <?php include "./include/nav.php" ?>
 
             <div class="container d-flex justify-content-center align-items-center" style="height: 70vh;">
-                <div class="row container-headers">
+                <div class="row container-headers home-header">
                     <div class="col">
                         <img src="../assets/image/min/circleHome-min.png" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
                     </div>

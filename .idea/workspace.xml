@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d9161d-1e74-4d21-8efc-ec944a7ab7d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ambiental.php" beforeDir="false" afterPath="$PROJECT_DIR$/ambiental.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto.php" beforeDir="false" afterPath="$PROJECT_DIR$/contacto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nosotros.php" beforeDir="false" afterPath="$PROJECT_DIR$/nosotros.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noticias/includes/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/noticias/includes/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/noticias.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/noticias.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/noticias.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/noticias.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/social.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/social.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noticias.php" beforeDir="false" afterPath="$PROJECT_DIR$/noticias.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/social.php" beforeDir="false" afterPath="$PROJECT_DIR$/social.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sostenibilidad.php" beforeDir="false" afterPath="$PROJECT_DIR$/sostenibilidad.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +121,8 @@
       <workItem from="1627598956189" duration="4755000" />
       <workItem from="1627612396768" duration="2614000" />
       <workItem from="1627781109462" duration="9000" />
-      <workItem from="1627928138598" duration="10916000" />
+      <workItem from="1627928138598" duration="15964000" />
+      <workItem from="1627964672371" duration="7765000" />
     </task>
     <servers />
   </component>

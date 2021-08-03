@@ -1270,9 +1270,6 @@ ____________________________ shadow effect*/
         height: 50vh !important;
     }
 
-    .container-headers {
-        display: flex !important;
-    }
 
     .welcome-title {
         padding-top: 0em;
@@ -1314,7 +1311,16 @@ ____________________________ shadow effect*/
         display: block !important;
     }
 
+    .home-header {
+        display: flex !important;
+    }
 
+    .notice-icon-header{
+        width: 140px;
+        height: 140px;
+        padding: 0em;
+        margin: 0em;
+    }
 
 }
 
@@ -1322,7 +1328,23 @@ ____________________________ shadow effect*/
 
 /*-------- telefono vertical */
 @media screen and (max-width: 740px), not all{
+    .top-header {
+        margin-top: 0vh;
+    }
 
+    dis-block{
+        display: block !important;
+    }
+
+    header{
+        background-position-x: center !important;
+        background-position-y: center !important;
+        background-size: cover !important;
+    }
+
+    .podcast {
+        padding: 1em;
+    }
 
 }
 
@@ -1330,12 +1352,35 @@ ____________________________ shadow effect*/
 /*--------------------------------------------- RESPONSIVE TABLETA ///// ---------------*/
 /* TABLETA VERTICAL*/
 @media (min-width: 470px) and (max-width: 860px){
+    .circule-home-img, .platano {
+        width: 300px !important;
+    }
 
+    .certificates {
+        height: 40px !important;
+        margin-right: 2em;
+    }
+
+    .podcast {
+        padding: 1em;
+    }
 }
 
 
 /* TABLETA HORIZONTAL*/
 @media (min-width: 861px) and (max-width: 1024px){
 
+    .container-headers {
+        display: flex;
+    }
+    .wabe-button-producto {
+        margin-top: -12rem;
+    }
+    .container-headers {
+        display: flex !important;
+    }
 
+    .wabe {
+        bottom: -20px !important;
+    }
 }

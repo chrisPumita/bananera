@@ -127,9 +127,7 @@
     <div class="container-sm py-5">
         <div class="col align-items-center">
             <div class="row">
-                <video width=100%  height=100% controls poster="./assets/image/min/bg-img1-min.png">
-                    <source src="./assets/bg-video.mp4" type="video/mp4">
-                </video>
+                <iframe width="100%" height="550px" src="https://www.youtube.com/embed/4PWXpP3C1uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </div>

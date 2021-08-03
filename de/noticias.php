@@ -20,7 +20,7 @@
     <div class="container d-flex justify-content-center align-items-center" style="height: 70vh;">
         <div class="row container-headers">
             <div class="col welcome-title">
-                <img src="../assets/image/icon-notice.svg" width="150" class="rounded mx-auto d-block img-gost py-5" alt="Grupo Esfuerzo">
+                <img src="../assets/image/icon-notice.svg" width="150" class=" notice-icon-header rounded mx-auto d-block img-gost py-5" alt="Grupo Esfuerzo">
                 <div class="row text-center">
                     <div class="text-white text-light">
                         <h3 class="mb-3">Últimas noticias de Grupo Esfuerzo</h3>
