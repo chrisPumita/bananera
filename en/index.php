@@ -19,7 +19,7 @@
                 <div class="video-inline">
                     <video class="video" poster="../assets/image/min/bg-img1-min.png"  playsinline="playsinline"  autoplay="autoplay" muted="muted" loop="loop" height="100%">
                         <source src="../assets/headerHome.mp4" type="video/mp4" />
-                        Tu navegador no soporta video HTML5.
+                        Video not suported
                     </video>
                     <canvas class="canvas"></canvas>
                     <div class="video-timeline js-timeline">
@@ -79,7 +79,9 @@
                             under strict standards of sustainable production <br>
                                 and prioritizing the welfare of our <br>
                                 employees and communities.</p>
-                            <button type="button" class="btn btn-outline-primary">Get to know our product</button>
+                            <a href="./producto.php">
+                                <button type="button" class="btn btn-outline-primary">Get to know our product</button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -198,7 +200,7 @@
                                 </div>
                                 <div class="col-10 text-light text-mje cite" >
                                     <h2 class="mje-2">More than <span class="text-primary"><strong>30 years of experience</strong></span></h2>
-                                    <h2 class="mje-2">n the Costa Rican banana export</h2>
+                                    <h2 class="mje-2">in the Costa Rican banana export</h2>
                                     <h2 class="mje-2">business”</h2>
                                 </div>
                             </div>
@@ -227,7 +229,9 @@
                                     </picture>
                                 </div>
                                 <div class="row">
-                                    <button type="button" class="btn btn-outline-primary btn-contact position-front">Contact us</button>
+                                    <a class="position-front" href="./contacto.php">
+                                        <button type="button" class="btn btn-outline-primary btn-contact position-front">Contact us</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>

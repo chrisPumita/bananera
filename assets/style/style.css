@@ -1332,6 +1332,15 @@ ____________________________ shadow effect*/
         margin-top: 0vh;
     }
 
+    .time-text{
+        width: 100%;
+        display: inline-block;
+    }
+
+    .container-data{
+        display: block;
+    }
+
     dis-block{
         display: block !important;
     }
@@ -1354,6 +1363,9 @@ ____________________________ shadow effect*/
 @media (min-width: 470px) and (max-width: 860px){
     .circule-home-img, .platano {
         width: 300px !important;
+    }
+    .imgBoxSocial {
+        height: 120px;
     }
 
     .certificates {

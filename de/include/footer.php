@@ -64,7 +64,7 @@
 
             </div>
             <div class="col-xl-4 col-md-4 col-sm-4 col-auto order-2 align-self-end mt-3 ">
-                <a href="#">
+                <a href="https://www.youtube.com/channel/UCpiLI_hR1scPG95UtFJ2gdg/featured" target="_blank">
                     <img class="icon-youtube" src="../assets/image/youtube.svg" width="60" class="rounded float-start text-primary line-text" alt="...">
                 </a>
             </div>

@@ -30,10 +30,10 @@
             </div>
         </div>
         <div class="container overflow-auto py-5">
-            <div class="row my-3">
+            <div class="row my-3  d-none d-sm-none d-md-block">
                 <img src="../assets/image/timeline.svg" alt="">
             </div>
-            <div class="row text-center">
+            <div class="row text-center container-data">
                 <div class="col-2 time-text">
                     <h5>1989</h5>
                     <p>

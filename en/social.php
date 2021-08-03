@@ -257,7 +257,9 @@
                             </div>
                         </div>
                         <div class="row">
-                            <button type="button" class="btn btn-outline-primary btn-contact">Contact Us</button>
+                            <a class="position-front" href="./contacto.php">
+                                <button type="button" class="btn btn-outline-primary btn-contact">Contact Us</button>
+                            </a>
                         </div>
                     </div>
                 </div>

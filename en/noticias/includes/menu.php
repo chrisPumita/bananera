@@ -18,7 +18,7 @@
         </div>
 
         <div class="p-4">
-            <h4 class="fst-italic">Folow Us</h4>
+            <h4 class="fst-italic">Follow Us</h4>
             <ol class="list-unstyled">
                 <li><a href="#" class="nav-link text-grey">Facebook</a></li>
                 <li><a href="#" class="nav-link text-grey">YouTube</a></li>

@@ -288,7 +288,6 @@ if ($thisPageLang<>$webLang)
                                 <div class="row">
                                     <a class="position-front" href="./contacto.php">
                                     <button type="button" class="btn btn-outline-primary btn-contact ">Contáctenos</button>
-
                                     </a>
                                 </div>
                             </div>
