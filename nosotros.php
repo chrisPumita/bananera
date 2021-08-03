@@ -15,7 +15,7 @@
     <div class="container-sm py-5">
         <div class="col align-items-center">
             <div class="row">
-                <iframe width="100%" height="550px" src="https://www.youtube.com/embed/jqTrRBfJnEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="515px" src="https://www.youtube.com/embed/TvMgH1tE48c?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </div>
@@ -170,7 +170,7 @@
     <div class="container-sm py-5">
         <div class="col align-items-center">
             <div class="row">
-                <iframe width="100%" height="550px" src="https://www.youtube.com/embed/jqTrRBfJnEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="500" src="https://www.youtube.com/embed/C6aYc1Yvt1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </div>

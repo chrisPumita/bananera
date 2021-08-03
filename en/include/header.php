@@ -1,6 +1,22 @@
 <!-- Required meta tags -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="../favicon.png">
+
+<meta name="keywords" content="bananera alimentos, grupo esfuerzo, platanos, bananas, verde"/>
+<meta name=»description» content="We strive to be the world's leading supplier
+of the best Costa Rican bananas,always
+under strict standards of sustainable production
+and prioritizing the welfare of our
+employees and communities.."/>
+<meta name="revised" content="29/07/2021" />
+<meta name="og:image" content="../assets/image/logo.svg" />
+<meta name="author" content="ChrisRCGS" />
+<meta name="robots" content="index"/>
+<meta name="robots" content="follow"/>
+
+<meta name="copyright" content="ReCkreaStuDios" />
+
 <!-- Bootstrap CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 <link rel="stylesheet" href="../assets/style/style.css">

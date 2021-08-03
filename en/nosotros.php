@@ -15,7 +15,7 @@
     <div class="container-sm py-5">
         <div class="col align-items-center">
             <div class="row">
-                <iframe width="100%" height="550px" src="https://www.youtube.com/embed/jqTrRBfJnEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="515px" src="https://www.youtube.com/embed/HhQLTpaiXkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </div>
@@ -34,41 +34,41 @@
                 <img src="../assets/image/timeline.svg" alt="">
             </div>
             <div class="row text-center">
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>1989</h5>
-                    <p>
+                    <p class="text-grey">
                         Purchase of land for farm 
                         development
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>1992</h5>
-                    <p>
+                    <p class="text-grey">
                         Export  of the first banana case
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>2011</h5>
-                    <p>
+                    <p class="text-grey">
                     First time the company ventured into sales
                      to direct supermarket customers
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>2012</h5>
-                    <p>
+                    <p class="text-grey">
                     Urban development project 
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>2017</h5>
-                    <p>
+                    <p class="text-grey">
                     50% growth with the Purchase of a second farm
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>2020</h5>
-                    <p>
+                    <p class="text-grey">
                     60% growth with the Purchase of two other farms
                     </p>
                 </div>
@@ -113,7 +113,7 @@
         <div class="contPano imagenPano d-block d-sm-block d-md-none">
 
         </div>
-        <img class="d-none d-sm-none d-md-block" src="./assets/image/min/people-wabe-min.png" width="100%" alt="">
+        <img class="d-none d-sm-none d-md-block" src="../assets/image/min/people-wabe-min.png" width="100%" alt="">
     </div>
 
     <div class="container-sm p-5">
@@ -158,7 +158,7 @@
     <div class="container-sm py-5">
         <div class="col align-items-center">
             <div class="row">
-                <iframe width="100%" height="550px" src="https://www.youtube.com/embed/jqTrRBfJnEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="515px" src="https://www.youtube.com/embed/sU0n3DSDcjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </div>

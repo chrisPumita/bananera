@@ -11,10 +11,10 @@
             </ul>
             <ul class="navbar-nav mb-2 mb-lg-0 justify-content-end menu">
                 <li class="nav-item">
-                    <a class="nav-link text-light" aria-current="page" id="m1" href="./nosotros.php">Über Uns</a>
+                    <a class="nav-link text-light text-uppercase" aria-current="page" id="m1" href="./nosotros.php">Über Uns</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light"  id="m2"  href="./producto.php">Produkte</a>
+                    <a class="nav-link text-light text-uppercase"  id="m2"  href="./producto.php">Produkte</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="dropdown-toggle nav-link text-light" href="#" id="mdrop" role="button" data-bs-toggle="dropdown" aria-expanded="false">
