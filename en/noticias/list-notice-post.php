@@ -12,7 +12,7 @@ $listNotices = [
     [
         'id' => 3,
         'category' => 'Social',
-        'date' => 'Junio 2021',
+        'date' => 'Jun 2021',
         'link' => '../jun-2021',
         'titulo' => 'GRUPO ESFUERZO PARTICIPA EN LA CONSTRUCCIÓN DE DIQUE',
         'preview_text' => 'Luego de que, en 2017, el Grupo Esfuerzo adquiriera una finca en la comunidad de Bristol en Matina de Limón...'
@@ -28,7 +28,7 @@ $listNotices = [
     [
         'id' => 1,
         'category' => 'Gobernanza ',
-        'date' => 'Abril 2021',
+        'date' => 'Apr 2021',
         'link' => '../abril-2021',
         'titulo' => 'CAMIONES DE GRUPO ESFUERZO AHORA CUENTAN AHORA CUENTAN CON MONITOREO POR GPS',
         'preview_text' => 'Gracias a un Sistema de Posicionamiento Global (GPS), todos los camiones del Grupo Esfuerzo cuentan con monitoreo en tiempo real desde el 19 de mayo anterior....'

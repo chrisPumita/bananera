@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-    <link rel="stylesheet" href="../../assets/style/style.css">
+    <link rel="stylesheet" href="../../../assets/style/style.css">
 
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cabin&display=swap" rel="stylesheet">
@@ -21,7 +21,7 @@
     <!-- Font Awesome -->
     <title> <?php echo $titulo; ?> </title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="../../assets/style/styleContact.css">
+    <link rel="stylesheet" href="../../../assets/style/styleContact.css">
     <style>
 
 
@@ -29,69 +29,72 @@
 </head>
 <body>
 
-<header style="background: url(../../assets/image/min/bg-dialog-grey-min.png) top center no-repeat;height: 70vh;" class="bg-light contacto-header bg-header-news">
+<header style="background: url(../../../assets/image/min/bg-dialog-grey-min.png) top center no-repeat;height: 70vh;" class="bg-light contacto-header bg-header-news">
     <?php include "../includes/nav.php" ?>
     <div class="container d-flex justify-content-center align-items-center" style="height: 70vh;">
         <div class="row container-headers">
             <div class="col welcome-title">
                 <div class="row text-center">
                     <div class="text-white text-light">
-                        <h3 class="mb-3 text-secondary">CAMIONES DE GRUPO ESFUERZO AHORA CUENTAN AHORA CUENTAN CON MONITOREO POR GPS PARA MAYOR <span class="text-primary">SEGURIDAD.</span></h3>
+                        <h3 class="mb-3 text-secondary">OUR TRUCKS AT GRUPO ESFUERZO NOW HAVE GPS MONITORING FOR INCREASED <span class="text-primary">SECURITY.</span></h3>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="circule-back-header" style="background: url('../../assets/image/min/bg-img1-min.png')">
+    <div class="circule-back-header" style="background: url('../../../assets/image/min/bg-img1-min.png')">
     </div>
 </header>
 <main class="container">
     <div class="row g-5">
         <div class="col-md-8">
             <h3 class="pb-4 mb-4 fst-italic border-bottom">
-                Gobernanza (sección)
+                Governance (section)
             </h3>
             <article class="blog-post">
                 <img src="./img-min.jpg" class="img-fluid" alt="...">
-                <h2 class="blog-post-title py-3 text-grey">CAMIONES DE GRUPO ESFUERZO AHORA CUENTAN AHORA CUENTAN CON MONITOREO POR GPS PARA MAYOR SEGURIDAD</h2>
-                <p class="blog-post-meta text-greybold">Abril , 2021 por <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
+                <h2 class="blog-post-title py-3 text-grey">OUR TRUCKS AT GRUPO ESFUERZO NOW HAVE GPS MONITORING FOR INCREASED SECURITY</h2>
+                <p class="blog-post-meta text-greybold">Apr , 2021 by <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
 
                 <p class="text-grey">
-                    Gracias a un Sistema de Posicionamiento Global (GPS),
-                    todos los camiones del Grupo Esfuerzo cuentan con monitoreo en tiempo real desde el 19 de mayo anterior.
+                Thanks to a Global Positioning System (GPS), all of Grupo Esfuerzo's trucks are
+                 monitored in real-time since May 19. 
                 </p>
                 <p class="text-grey">
-                    <cite class="font-italic text-grey">“Esto garantiza una mayor seguridad para la carga de nuestros clientes,
-                        permitiéndonos conocer cualquier parada o desvío en la ruta de traslado de las frutas”</cite>, aseguró Roberto Gómez, gerente general de la compañía bananera.
+                    <cite class="font-italic text-grey">"This guarantees greater security for our customer's cargo, allowing us 
+                        to be informed of any stop or detour in the fruit's transport route"</cite>
+                        , assured Roberto Gómez, company general manager.  
 
                 </p>
                 <p class="text-grey">
-                    Implementar el GPS en la flota vehicular, además, permite generar las rutas más eficientes, ahorrando
-                    tiempo y recursos; esto resulta fundamental para cumplir con los plazos de entrega.
+                Implementing GPS in the vehicle fleet, also makes it possible to generate the most efficient routes,
+                 saving time and resources; this is essential to meet delivery deadlines. 
                 </p>
                 <p class="text-grey">
-                    El proyecto contó con una inversión inicial de $1.000, y responde también a una estrategia corporativa
-                    para mitigar los riesgos relacionados con la salud, seguridad y bienestar del trabajador, en este caso de los conductores de los camiones.
+                This project had an initial investment of $1,000 and also responds to a corporate strategy to mitigate 
+                the risks related to the safety, security and well-being of the workers, in this case, our
+                truck drivers. 
                 </p>
                 <p class="text-grey">
                     <cite class="font-italic text-grey">
-                        “Esta acción nos permite no sólo mejorar nuestro sistema de gestión en control y seguridad sino brindar
-                        una mayor tranquilidad a nuestros clientes y colaboradores”
-                    </cite>, dijo Gómez.
+                    "This project allows us to, not only improve our management system in controls and security but 
+                    also provide greater peace of mind to our clients and collaborators"
+                    </cite>, said Gómez.  
                 </p>
                 <p class="text-grey">
-                    Grupo Esfuerzo es una empresa bananera costarricense con más de 30 años de trayectoria, que brinda empleo a alrededor de 500 personas.
+                Grupo Esfuerzo is a Costa Rican banana company with more than 30 years of experience, which provides 
+                employment to, approximately, 500 people. 
                 </p>
                 <p class="text-grey">
-                    En la actualidad, Grupo Esfuerzo exporta banano de la variedad Cavendish a Inglaterra, Estados Unidos,
-                    Francia, Italia, Alemania y Japón. Su producción equivale al 1.5% del mercado costarricense.
+                    EGrupo Esfuerzo currently exports Cavendish bananas to England, the United States, France, Italy,
+                     Germany and Japan. Their production is equivalent to 1.5% of the Costa Rican market.
                 </p>
 
             </article>
 
             <div class="row container-headers py-5">
                 <div class="col m-auto text-center py-5">
-                    <a href="">
+                    <a href="https://api.whatsapp.com/send?phone=50687027972" target="_blank">
                         <button class="learn-more my-5">
                         <span class="circle whatsapp-btn" aria-hidden="true">
                           <span class="icon arrow"></span>
@@ -99,7 +102,7 @@
                             <span class="button-text"><i class="bi bi-whatsapp"></i>&nbsp;WhatsApp Bussines</span>
                         </button>
                     </a>
-                    <a href="">
+                    <a href="mailto:info@grupoesfuerzo.com">
                         <button class="learn-more my-5">
                         <span class="circle mail-btn" aria-hidden="true">
                           <span class="icon arrow"></span>
@@ -121,7 +124,7 @@
             <?php //include "../includes/more-notices.php" ?>
         </div>
     </div>
-    <div class="cont-limine footer-img-contacto" style="background: url(../../assets/image/min/img-footer--cntact-min.png);">
+    <div class="cont-limine footer-img-contacto" style="background: url(../../../assets/image/min/img-footer--cntact-min.png);">
         <div class="h-300">
         </div>
     </div>

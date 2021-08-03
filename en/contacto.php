@@ -387,7 +387,7 @@
                             <span class="button-text"><i class="bi bi-whatsapp"></i>&nbsp;WhatsApp Bussines</span>
                         </button>
                     </a>
-                    <a href="">
+                    <a href="mailto:info@grupoesfuerzo.com">
                         <button class="learn-more my-5">
                         <span class="circle mail-btn" aria-hidden="true">
                           <span class="icon arrow"></span>
