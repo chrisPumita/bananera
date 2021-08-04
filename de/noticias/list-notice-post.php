@@ -6,32 +6,32 @@ $listNotices = [
         'category' => 'Tecnología',
         'date' => 'Jul 2021',
         'link' => '../jul-2021',
-        'titulo' => 'GRUPO ESFUERZO LANZA NUEVO SITIO WEB',
-        'preview_text' => 'Como un esfuerzo alineado a su estrategia comercial y de la mano de acciones para ampliar su presencia en el mercado bananero global, Grupo Esfuerzo estrenó su nuevo sitio web...'
+        'titulo' => 'GRUPO ESFUERZO SCHUF NEUE WEBSEITE',
+        'preview_text' => 'Als eine Bemühung im Einklang mit ihrer Geschäftsstrategie und mit Aktionen, um ihre Präsenz auf dem globalen Bananenmarkt auszubauen, hat Grupo Esfuerzo im Juni dieses Jahres ihre neue Website veröffentlicht...'
     ],
     [
         'id' => 3,
-        'category' => 'Social',
-        'date' => 'Junio 2021',
+        'category' => 'Sozial',
+        'date' => 'Jun 2021',
         'link' => '../jun-2021',
-        'titulo' => 'GRUPO ESFUERZO PARTICIPA EN LA CONSTRUCCIÓN DE DIQUE',
-        'preview_text' => 'Luego de que, en 2017, el Grupo Esfuerzo adquiriera una finca en la comunidad de Bristol en Matina de Limón...'
+        'titulo' => 'GRUPO ESFUERZO NIMMT TEIL BEIM AUFBAU EINES DAMMS UM',
+        'preview_text' => 'Nachdem Grupo Esfuerzo einen Grundstück in der Bristol Gemeinde in Matina von Limón in 2017...'
     ],
     [
         'id' => 2,
         'category' => 'Gobernanza ',
-        'date' => 'May 2021',
+        'date' => 'Mai 2021',
         'link' => '../may-2021',
-        'titulo' => 'GRUPO ESFUERZO AMPLÍA SU PRESENCIA EN EL MERCADO BANANERO CON LA ADQUISICIÓN DE DOS FINCAS MÁS.',
-        'preview_text' => 'En diciembre del 2020, el Grupo Esfuerzo, decidió ampliar su presencia en el mercado bananero con la adquisición de dos nuevas fincas para alcanzar un área total de 960 hectáreas...'
+        'titulo' => 'GRUPO ESFUERZO AUSWEITET IHRE PRÄSENZ AUF DEM BANANENMARKT MIT DEM ANKAUF VON ZWEI WEITEREN GRUNDSTÜCKEN.',
+        'preview_text' => 'In Dezember 2020 hat Grupo Esfuerzo entschieden, ihre Präsenz auf dem Bananenmarkt mit dem Ankauf zweier Grundstücke zu erweitern. Damit erreichen sie eine Gesamtfläche von 960 Hektar...'
     ],
     [
         'id' => 1,
         'category' => 'Gobernanza ',
-        'date' => 'Abril 2021',
+        'date' => 'Apr 2021',
         'link' => '../abril-2021',
-        'titulo' => 'CAMIONES DE GRUPO ESFUERZO AHORA CUENTAN AHORA CUENTAN CON MONITOREO POR GPS',
-        'preview_text' => 'Gracias a un Sistema de Posicionamiento Global (GPS), todos los camiones del Grupo Esfuerzo cuentan con monitoreo en tiempo real desde el 19 de mayo anterior....'
+        'titulo' => 'LASTWAGEN VON GRUPO ESFUERZO RECHNEN JETZT MIT GPS ÜBERWACHUNG FÜR MEHR SICHERHEIT.',
+        'preview_text' => 'Infolge des Geographysches Positionierungs System (GPS), alle LKWs von Grupo Esfuerzo rechnen seit dem letzten 19. Mai mit...'
     ]
 //add new notice
 ];

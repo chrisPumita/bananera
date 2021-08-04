@@ -136,7 +136,7 @@
                             <figure class="snip0015">
                                 <img src="../assets/image/min/fincaAgro-min.jpg" class="card-img-top" alt="...">
                                 <figcaption>
-                                    <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Agro</h2>
+                                    <h2>Grundstück&nbsp;&nbsp;&nbsp;&nbsp;Agro</h2>
                                 </figcaption>
                             </figure>
                         </div>
@@ -146,7 +146,7 @@
                             <figure class="snip0015">
                                 <img src="../assets/image/min/fincaEsfuerzo-min.jpg" class="card-img-top" alt="...">
                                 <figcaption>
-                                    <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Esfuerzo</h2>
+                                    <h2>Grundstück&nbsp;&nbsp;&nbsp;&nbsp;Esfuerzo</h2>
                                 </figcaption>
                             </figure>
                         </div>
@@ -156,7 +156,7 @@
                             <figure class="snip0015">
                                 <img src="../assets/image/min/fincaBristol-min.jpg" class="card-img-top" alt="...">
                                 <figcaption>
-                                    <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Vesta</h2>
+                                    <h2>Grundstück&nbsp;&nbsp;&nbsp;&nbsp;Vesta</h2>
                                 </figcaption>
                             </figure>
                         </div>
@@ -166,7 +166,7 @@
                             <figure class="snip0015">
                                 <img src="../assets/image/min/fincaVesta-min.jpg" class="card-img-top" alt="...">
                                 <figcaption>
-                                    <h2>Finca&nbsp;&nbsp;&nbsp;&nbsp;Bristol</h2>
+                                    <h2>Grundstück&nbsp;&nbsp;&nbsp;&nbsp;Bristol</h2>
                                 </figcaption>
                             </figure>
                         </div>

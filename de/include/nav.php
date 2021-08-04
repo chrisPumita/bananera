@@ -17,22 +17,22 @@
                     <a class="nav-link text-light text-uppercase"  id="m2"  href="./producto.php">Produkte</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="dropdown-toggle nav-link text-light" href="#" id="mdrop" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="dropdown-toggle nav-link text-light text-uppercase" href="#" id="mdrop" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     NACHHALTIGKEIT
                     </a>
                     <ul class="dropdown-menu dropdown-menu postition-menu" aria-labelledby="mdrop">
-                        <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Die Verpflichtung</a></li>
+                        <li class="link-menu text-uppercase"><a class="dropdown-item" href="./sostenibilidad.php">Die Verpflichtung</a></li>
                         <div class="dropdown-divider"></div>
-                        <li class="link-menu"><a class="dropdown-item" href="./social.php">Sozial</a></li>
-                        <li class="link-menu"><a class="dropdown-item" href="./gobernanza.php">Führung</a></li>
-                        <li class="link-menu"><a class="dropdown-item" href="./ambiental.php">Umwelt</a></li>
+                        <li class="link-menu text-uppercase"><a class="dropdown-item" href="./social.php">Sozial</a></li>
+                        <li class="link-menu text-uppercase"><a class="dropdown-item" href="./gobernanza.php">Führung</a></li>
+                        <li class="link-menu text-uppercase"><a class="dropdown-item" href="./ambiental.php">Umwelt</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" id="m4" href="./noticias.php">NOTICIAS</a>
+                    <a class="nav-link text-light text-uppercase" id="m4" href="./noticias.php">Nachrichten</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" id="m5" href="./contacto.php">Kontaktinfos</a>
+                    <a class="nav-link text-light text-uppercase" id="m5" href="./contacto.php">Kontaktinfos</a>
                 </li>
             </ul>
         </div>

@@ -36,7 +36,7 @@
             <div class="col welcome-title">
                 <div class="row text-center">
                     <div class="text-white text-light">
-                        <h3 class="mb-3 text-secondary">CAMIONES DE GRUPO ESFUERZO AHORA CUENTAN AHORA CUENTAN CON MONITOREO POR GPS PARA MAYOR <span class="text-primary">SEGURIDAD.</span></h3>
+                        <h3 class="mb-3 text-secondary">LASTWAGEN VON GRUPO ESFUERZO RECHNEN JETZT MIT GPS ÜBERWACHUNG FÜR MEHR <span class="text-primary">SICHERHEIT.</span></h3>
                     </div>
                 </div>
             </div>
@@ -53,45 +53,48 @@
             </h3>
             <article class="blog-post">
                 <img src="./img-min.jpg" class="img-fluid" alt="...">
-                <h2 class="blog-post-title py-3 text-grey">CAMIONES DE GRUPO ESFUERZO AHORA CUENTAN AHORA CUENTAN CON MONITOREO POR GPS PARA MAYOR SEGURIDAD</h2>
-                <p class="blog-post-meta text-greybold">Abril , 2021 por <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
+                <h2 class="blog-post-title py-3 text-grey">LASTWAGEN VON GRUPO ESFUERZO RECHNEN JETZT MIT GPS ÜBERWACHUNG FÜR MEHR SICHERHEIT.</h2>
+                <p class="blog-post-meta text-greybold">Abr , 2021 FÜR <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
 
                 <p class="text-grey">
-                    Gracias a un Sistema de Posicionamiento Global (GPS),
-                    todos los camiones del Grupo Esfuerzo cuentan con monitoreo en tiempo real desde el 19 de mayo anterior.
+                Infolge des Geographysches Positionierungs System (GPS), alle LKWs von Grupo Esfuerzo rechnen seit 
+                dem letzten 19. Mai mit Überwachung in Echtzeit.
                 </p>
                 <p class="text-grey">
-                    <cite class="font-italic text-grey">“Esto garantiza una mayor seguridad para la carga de nuestros clientes,
-                        permitiéndonos conocer cualquier parada o desvío en la ruta de traslado de las frutas”</cite>, aseguró Roberto Gómez, gerente general de la compañía bananera.
+                    <cite class="font-italic text-grey">„Das garantiert mehr Sicherheit für die Ladung unseren Kunden,
+                         und damit ist es möglich, jede Haltstelle oder Umleitung der Route der Obststransportierung 
+                         kennenzulernen”</cite>, versicherte Roberto Gómez, Geschäftsführer der Bananen-Unternehmen. 
 
                 </p>
                 <p class="text-grey">
-                    Implementar el GPS en la flota vehicular, además, permite generar las rutas más eficientes, ahorrando
-                    tiempo y recursos; esto resulta fundamental para cumplir con los plazos de entrega.
+                Durch die Implemetierung des GPS in der Fahrzeugsflotte, ist es auch möglich effizientere 
+                Routen zu finden, womit Zeit und Mitteln gespart werden; das ist sehr wichtig um die 
+                Lieferzeiten einzuhalten. 
                 </p>
                 <p class="text-grey">
-                    El proyecto contó con una inversión inicial de $1.000, y responde también a una estrategia corporativa
-                    para mitigar los riesgos relacionados con la salud, seguridad y bienestar del trabajador, en este caso de los conductores de los camiones.
+                Das Projekt hat mit einer Erstinversion von $1000 gerechnet, und das antwortet auch zur korporative 
+                Strategie, um die Risikos die die Gesundheit, Sicherheit, und das Wohlergehen den Arbeitern betreffen
+                 abzumildern; in dem Fall den Lastwagenfahrern.
                 </p>
                 <p class="text-grey">
                     <cite class="font-italic text-grey">
-                        “Esta acción nos permite no sólo mejorar nuestro sistema de gestión en control y seguridad sino brindar
-                        una mayor tranquilidad a nuestros clientes y colaboradores”
-                    </cite>, dijo Gómez.
+                        “„Diese Maßnahme ermöglicht uns nicht nur unseres System der Verwaltung der Kontrolle 
+                        und Sciherheit zu verbessern, sondern auch mehr Frieden unseren Kunden und Mitarbeitern zu bieten”
+                    </cite>, sagte Gómez.  
                 </p>
                 <p class="text-grey">
-                    Grupo Esfuerzo es una empresa bananera costarricense con más de 30 años de trayectoria, que brinda empleo a alrededor de 500 personas.
+                Grupo Esfuerzo ist ein über dreißigjähriges costa-ricanisches Bananen-Unternehmen, dass Arbeit für ungefähr 500 Personen bietet. 
                 </p>
                 <p class="text-grey">
-                    En la actualidad, Grupo Esfuerzo exporta banano de la variedad Cavendish a Inglaterra, Estados Unidos,
-                    Francia, Italia, Alemania y Japón. Su producción equivale al 1.5% del mercado costarricense.
+                Heutzutage exportiert Grupo Esfuerzo Cavendish Bananen nach wir exportieren nach Nordamerika, Karibik, Europa, 
+                Mittleren Osten und Asien. Ihre Produktion entspricht 1.5% des costa-ricanisches Markts. 
                 </p>
 
             </article>
 
             <div class="row container-headers py-5">
                 <div class="col m-auto text-center py-5">
-                    <a href="">
+                    <a href="https://api.whatsapp.com/send?phone=50687027972" target="_blank">
                         <button class="learn-more my-5">
                         <span class="circle whatsapp-btn" aria-hidden="true">
                           <span class="icon arrow"></span>
@@ -99,7 +102,7 @@
                             <span class="button-text"><i class="bi bi-whatsapp"></i>&nbsp;WhatsApp Bussines</span>
                         </button>
                     </a>
-                    <a href="">
+                    <a href="mailto:info@grupoesfuerzo.com">
                         <button class="learn-more my-5">
                         <span class="circle mail-btn" aria-hidden="true">
                           <span class="icon arrow"></span>

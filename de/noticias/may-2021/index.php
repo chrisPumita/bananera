@@ -12,7 +12,7 @@
             <div class="col welcome-title">
                 <div class="row text-center">
                     <div class="text-white text-light">
-                        <h3 class="mb-3 text-secondary">GRUPO ESFUERZO AMPLÍA SU PRESENCIA EN EL MERCADO BANANERO CON LA ADQUISICIÓN DE <span class="text-primary">DOS FINCAS MÁS.</span></h3>
+                        <h3 class="mb-3 text-secondary">GRUPO ESFUERZO AUSWEITET IHRE PRÄSENZ AUF DEM BANANENMARKT MIT DEM ANKAUF VON <span class="text-primary">ZWEI WEITEREN GRUNDSTÜCKEN</span></h3>
                     </div>
                 </div>
             </div>
@@ -29,40 +29,43 @@
             </h3>
             <article class="blog-post">
                 <img src="./img-min.jpg" class="img-fluid" alt="...">
-                <h2 class="blog-post-title py-3 text-grey">GRUPO ESFUERZO AMPLÍA SU PRESENCIA EN EL MERCADO BANANERO CON LA ADQUISICIÓN DE DOS FINCAS MÁS </h2>
-                <p class="blog-post-meta text-greybold">Mayo , 2021 por <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
+                <h2 class="blog-post-title py-3 text-grey">GRUPO ESFUERZO AUSWEITET IHRE PRÄSENZ AUF DEM BANANENMARKT MIT 
+                    DEM ANKAUF VON ZWEI WEITEREN GRUNDSTÜCKEN</h2>
+                <p class="blog-post-meta text-greybold">Mayo , 2021 FÜR <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
                 <p class="text-grey">
-                    En diciembre del 2020, el Grupo Esfuerzo, decidió ampliar su presencia en el mercado bananero con la
-                    adquisición de dos nuevas fincas para alcanzar un área total de 960 hectáreas, de las cuales 534 están produciendo.
+                In Dezember 2020 hat Grupo Esfuerzo entschieden, ihre Präsenz auf dem Bananenmarkt mit dem Ankauf zweier 
+                Grundstücke zu erweitern. Damit erreichen sie eine Gesamtfläche von 960 Hektar, von denen 534 schon produzieren. 
                 </p>
                 <p class="text-grey">
-                    Se trata de finca Vesta en Valle La Estrella que incluye más de 240 hectáreas de bosque primario para
-                    la protección de la biodiversidad, y finca Agrotubérculos en Puerto Viejo de Talamanca, en el hermoso
-                    Caribe Sur. Ambas en la provincia de Limón.
+                Diese sind Finca Vesta im Tal La Estrella, dass über 240 Hektar Primärwald für den Schutz der 
+                biologischen Vielfalt umfasst, und Finca Agrotubérculos in Puerto Viejo, Talamanca, im Süden der wudernschönen 
+                Karibischen Küste. Beide befinden sich in der Provinz von Limón. 
                 </p>
-                <p class="text-grey">Las dos fincas fueron compradas a la familia Taylor.
-                    <cite class="font-italic text-grey">“En el caso de Vesta, se sabe que fue la primera finca bananera propiedad de un productor independiente”
+                <p class="text-grey">Beide Grundstücke wurden von der Familie Taylor gekauft. 
+                    <cite class="font-italic text-grey">Im Fall von Vesta, es ist bekannt, dass sie die erste Bananenplantage von einem unabhängingen Produzenten gehörte”,
+                    </cite> erinnerte sich Herr Eduardo Gómez, Begründer des Unternehmens.
+                </p>
+                <p class="text-grey">Jaime Gómez, Vorstandsmitglied von Grupo Esfuerzo, erklärte, dass 
+                    <cite class="font-italic text-grey">«diese Entscheidung darauf abzielte, unsere Produktion zu erweitern 
+                        und mehr Obst auf dem internationalen Bananenmarkt zu platzieren. Darüber hinaus ermöglicht es uns, 
+                        wettbewerbsfähiger zu sein und Risiken für die Sicherheit unserer Kunden zu mindern. »
                     </cite>.
                 </p>
-                <p class="text-grey">Por su parte, Jaime Gómez, miembro de la Junta Directiva de Grupo Esfuerzo, indicó que
-                    <cite class="font-italic text-grey">“esta decisión busca expandir nuestra producción y colocar mayor volumen
-                        de fruta en el mercado internacional de banano. Además, nos permite ser más competitivos y mitigar riesgos para la tranquilidad de nuestros clientes”
-                    </cite>, recordó don Eduardo Gómez, fundador de la compañía.
+                <p class="text-grey">
+                    DAuf diese Weise versucht man auch die lokale Wirtschaft zu beeinflussen und noch mehr zum 
+                    Aufbau von Landmarken auf der ganzen Welt beizutragen, dank der nachhaltigen Produktion von 
+                    hochqualitativen costaricanischen Bananen.
                 </p>
                 <p class="text-grey">
-                    De esta manera, también se busca impactar la economía local y aportar aún más a la construcción de
-                    marca país alrededor del mundo, gracias a la producción sostenible de banano costarricense de altísima calidad.
-                </p>
-                <p class="text-grey">Por su parte, Jaime Gómez, miembro de la Junta Directiva de Grupo Esfuerzo, indicó que
-                    <cite class="font-italic text-grey">“En los últimos 4 años, a través de acciones como esta, triplicamos
-                        nuestro tamaño de negocio, abrimos nuevos canales de comercialización independiente y aumentamos la
-                        productividad por hectárea en las fincas. Todo gracias al aporte de nuestros colaboradores, clientes,
-                        socios comerciales y proveedores”</cite>, finiquitaron los directivos.
+                    <cite class="font-italic text-grey">«In den letzten vier Jahren haben wir durch Aktionen wie diese unsere
+                         Unternehmensgrösse verdreifacht, neue Kanäle für unabhängige Vermarktung erschlossen und die Hektarproduktivität 
+                         auf den landwirtschaftlichen Flächen gesteigert. Das ist dem Beitrag unserer Mitarbeiter, Kunden, 
+                         Geschäftspartner und Lieferanten zu verdanken»</cite>, schlossen die Geschäftsleitung.
                 </p>
             </article>
             <div class="row container-headers py-5">
                 <div class="col m-auto text-center py-5">
-                    <a href="">
+                    <a href="https://api.whatsapp.com/send?phone=50687027972" target="_blank">
                         <button class="learn-more my-5">
                         <span class="circle whatsapp-btn" aria-hidden="true">
                           <span class="icon arrow"></span>
@@ -70,7 +73,7 @@
                             <span class="button-text"><i class="bi bi-whatsapp"></i>&nbsp;WhatsApp Bussines</span>
                         </button>
                     </a>
-                    <a href="">
+                    <a href="mailto:info@grupoesfuerzo.com">
                         <button class="learn-more my-5">
                         <span class="circle mail-btn" aria-hidden="true">
                           <span class="icon arrow"></span>

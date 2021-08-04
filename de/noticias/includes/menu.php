@@ -2,11 +2,12 @@
     <div class="position-sticky" style="top: 2rem;">
         <div class="p-4 mb-3 bg-light rounded">
             <h4 class="fst-italic text-greybold">Lo que hacemos</h4>
-            <p class="mb-0 text-grey">Trabajamos por ser el proveedor referente a nivel
-                mundial del mejor banano costarricense, siempre
-                bajo estrictos estándares de producción sostenible
-                y priorizando el bienestar de nuestros
-                colaboradores y comunidades.</p>
+            <p class="mb-0 text-grey">Wir arbeiten, um der weltweit führende Lieferant der besten 
+                                costaricanischen Bananen zu werden, immer  
+                                unter strenge Standards für eine nachhaltige 
+                                Produktion, wo das Wohlergehen  unserer  
+                                Mitarbeiter und Gemeiden priorisiert ist.
+                            </p>
         </div>
 
         <div class="p-4">

@@ -13,7 +13,7 @@
                 <div class="row text-center">
                     <div class="text-white text-light">
                         <h3 class="mb-3 text-secondary">
-                            GRUPO ESFUERZO LANZA NUEVO <span class="text-primary">SITIO WEB </span>PARA HONRAR LA CONFIANZA DE SUS CLIENTES ALREDEDOR DEL MUNDO.</h3>
+                        GRUPO ESFUERZO SCHUF NEUE <span class="text-primary">WEBSEITE </span>UM DAS VERTRAUEN SEINER KUNDEN WELTWEIT ZU EHREN</h3>
                     </div>
                 </div>
             </div>
@@ -30,69 +30,79 @@
             </h3>
             <article class="blog-post">
                 <img src="./img-min.jpg" class="img-fluid" alt="...">
-                <h2 class="blog-post-title py-3 text-grey">GRUPO ESFUERZO LANZA NUEVO SITIO WEB PARA HONRAR LA CONFIANZA
-                    DE SUS CLIENTES ALREDEDOR DEL MUNDO</h2>
-                <p class="blog-post-meta text-greybold">Julio , 2021 por <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
+                <h2 class="blog-post-title py-3 text-grey">RUPO ESFUERZO SCHUF NEUE WEBSEITE UM DAS
+                     VERTRAUEN SEINER KUNDEN WELTWEIT ZU EHREN</h2>
+                <p class="blog-post-meta text-greybold">Julio , 2021 FÜR <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
                 <p class="text-grey">
-                    Como un esfuerzo alineado a su estrategia comercial y de la mano de acciones para ampliar su
-                    presencia en el mercado bananero global, Grupo Esfuerzo estrenó su nuevo sitio web, este mes de junio.
+                Als eine Bemühung im Einklang mit ihrer Geschäftsstrategie und mit Aktionen, um ihre Präsenz auf dem 
+                globalen Bananenmarkt auszubauen, hat Grupo Esfuerzo im Juni dieses Jahres ihre neue Website veröffentlicht.
                 </p>
                 <p class="text-grey">
                     <cite class="font-italic text-grey">
-                        “Queremos ofrecer un nuevo canal de comunicación y un punto de contacto con nuestros clientes en
-                        Norteamérica, Europa y Asia, al crear un sitio web amigable con el usuario, accesible con
-                        información de valor en 3 idiomas: español, inglés y alemán”
-                    </cite>, indicó Jaime Gómez, directivo de la empresa.
+                    „Wir möchten einen neuen Kommunikationskanal, sowie eine Kontaktstelle für unsere Kunden in Nordamerika, 
+                    Europa und Asien bieten, indem wir eine benutzerfreundliche Website mit wertvollem Informationsmaterial 
+                    in drei Sprachen erstellen: Spanisch, Englisch und Deutsch»
+                    </cite>, so Roberto Gómez, Geschäftsführer des Unternehmens.
                 </p>
                 <p class="text-grey">
-                    El sitio es, además, una herramienta de transparencia y rendición de cuentas integrada a la estrategia
-                    de Responsabilidad Social Empresarial de Grupo Esfuerzo.
-                </p>
-                <p class="text-grey">
-                    Por esta razón, la empresa consultora encargada del desarrollo del proyecto fue Vanguart Agency, una
-                    firma con más de 12 años de experiencia en la comunicación de la RSE y la sostenibilidad.
+                Dieser Raum im Netzwerk wird auch dazu dienen, das Vertrauen von potenziellen Käufern im Ausland zu erhöhen 
+                und die neuesten Nachrichten über die Veranstaltung der costaricanische Unternehmensgruppe zu veröffentlichen.
                 </p>
                 <p class="text-grey">
                     <cite class="font-italic text-grey">
-                        “Al construir este sitio web, queríamos reflejar la esencia de Grupo Esfuerzo, su filosofía para hacer negocios de triple impacto y su aporte país”
-                    </cite>, indicó Laura Villalobos, CEO de Vanguart Agency.
+                    «In Zukunft wollen wir beispielsweise unsere Produktion diversifizieren, und diese Website wird uns 
+                    helfen, der Welt zu zeigen, was wir zu bieten haben»
+                    </cite>, sagte Jaime Gómez, der Geschäftsführer des Unternehmens.
                 </p>
                 <p class="text-grey">
-                    Villalobos aclaró, además, que
-                    <cite class="font-italic text-grey">
-                        “fue una experiencia maravillosa darnos cuenta que hay empresas familiares social y ambientalmente
-                        responsables que corren la milla extra, gestionando sus impactos y priorizando el bienestar de las
-                        y los colaboradores, sus familias y comunidades. Ha sido un honor trabajar con la familia Gómez y
-                        el Grupo Esfuerzo”
-                    </cite>.
+                Die Webseite ist außerdem, ein Instrument für die Transparenz und die Rechenschaftspflicht die in der Strategie 
+                der sozialen Verantwortung der Unternehemen von Grupo Esfuerzo integriert ist.
                 </p>
                 <p class="text-grey">
-                    De hecho, una de las mayores virtudes del sitio web es una robusta sección de Sostenibilidad que plantea,
-                    de manera minuciosa, todas las acciones desarrolladas por la empresa en términos de Gobernanza,
-                    Ambiental y Social, y el aporte de las mismas a la consecución de los Objetivos de Desarrollo
-                    Sostenible (ODS) establecidos en la Agenda 2030 de las Naciones Unidas.
-                </p>
-                <p class="text-grey">
-                    Puntualmente, Grupo Esfuerzo trabaja por los ODS 4, 7, 8, 11, 12, 15 y 17 que se relacionan con educación
-                    de calidad, vivienda digna, trabajo decente y crecimiento económico, comunidades sostenibles,
-                    producción responsable y la protección de la biodiversidad y los ecosistemas terrestres.
-                </p>
-                <p class="text-grey">
-                    Finalmente, el sitio también permitirá recoger y documentar la historia de éxito de Grupo Esfuerzo
-                    desde cuando, en 1988, don Eduardo Gómez adquirió la primera finca hasta el día de hoy en que exportan
-                    a más de 6 países, 1.6 millones de cajas anuales y dan empleo a alrededor de 500 personas locales.
+                   Aus diesem Grund wurde das Projekt von der Vanguart Agency entwickelt, einer Firma mit mehr als 12 Jahren
+                   Erfahrung in der Kommunikation von CSR und Nachhaltigkeit.
                 </p>
                 <p class="text-grey">
                     <cite class="font-italic text-grey">
-                        “A través del sitio web honraremos los valores que nos son inculcados por nuestro fundador, un
-                        líder y un ejemplo de perseverancia, servicio y esfuerzo”
-                    </cite>, aseguró orgulloso el Gerente, al contemplar el lanzamiento del nuevo sitio web que ya está a
-                    disposición de todas las personas interesadas en hacer negocios con Grupo Esfuerzo.
+                    „Durch die Erstellung der Websites, wollten wir das Wesen von Grupo Esfuerzo, ihre Philosophie für 
+                    dreifache Wirkung und ihren Beitrag zum Land wiederspiegeln.”
+                    </cite>, erzählte Laura Villalobos, CEO von Vanguart Agency. 
+                </p>
+                <p class="text-grey">
+                Villalobos erklärte weiter: <cite class="font-italic text-grey">
+                Es war eine wundervolle Erfahrung zu erkennen, dass es sozial und ökologisch verantwortliche Familienunternehmen 
+                gibt, die die Meile laufen, ihre Auswirkungen managen und das Wohlergehen der Mitarbeiter, ihrer Familien und 
+                Gemeinschaften in den Vordergrund stellen. Es war eine Ehre, mit der Familie Gómez und der Gruppe Esfuerzo 
+                zusammenzuarbeiten. » 
+                </cite>
+                </p>
+                <p class="text-grey">
+                Tatsächlich ist einer der größten Vorzüge der Webseite ein robuster Abschnitt von Nachhaltigkeit, welcher alle 
+                entwickelten Maßnahmen des Unternehmens im Hinblick auf soziale Regierungsführung und Umweltmanagement sind, 
+                sowie der Beitrag von denselben für das Erreichen der Ziele der nachhaltigen Entwicklung die von den Vereinten 
+                Nationen (UNO) in der Agenda 2030 festgestellt wurden. 
+                </p>
+                <p class="text-grey">
+                Insbesondere arbeitet Grupo Esfuerzo an den Zielen der nachhaltigen Entwicklung 4, 7, 8, 11, 12, 15 und 17, 
+                in Bezug auf qualitativ hochwärtige Bildung, angemessener Wohnraum, menschwürdige Arbeit und Wirtschaftswachstum, 
+                nachhaltige Gemeinde, verantwortungsvolle Produktion und Schutz der biologischen Vielfalt und terrestrischen
+                 Ökosystemen. 
+                <p class="text-grey">
+                Schliesslich wird die Website auch ermöglichen, die Erfolgsgeschichte von Grupo Esfuerzo zu erfassen und zu 
+                dokumentieren, seit Don Eduardo Gómez im Jahr 1988 die erste Finca erworben hat, bis heute, wo sie in mehr 
+                als 6 Länder exportieren, 1,6 Millionen Schachteln pro Jahr und rund 500 lokale Mitarbeiter beschäftigen.
+                </p>
+                <p class="text-grey">
+                    <cite class="font-italic text-grey">
+                    „Durch die Webseite werden wir unsere Werte ehren, die uns der Begründer eingeflößt hat, 
+                    ein Anführer und ein Vorbild an Ausdauer, Dienst und Anstrengung”,
+                    </cite>versicherte stolz der Manager, als er die Einführung der neuen Website betrachtete, die bereits 
+                    allen Interessenten zur Verfügung steht, die mit der Gruppe Estrenge Geschäfte machen möchten.
                 </p>
             </article>
             <div class="row container-headers py-5">
                 <div class="col m-auto text-center py-5">
-                    <a href="">
+                    <a href="https://api.whatsapp.com/send?phone=50687027972" target="_blank">
                         <button class="learn-more my-5">
                         <span class="circle whatsapp-btn" aria-hidden="true">
                           <span class="icon arrow"></span>
@@ -100,7 +110,7 @@
                             <span class="button-text"><i class="bi bi-whatsapp"></i>&nbsp;WhatsApp Bussines</span>
                         </button>
                     </a>
-                    <a href="">
+                    <a href="mailto:info@grupoesfuerzo.com">
                         <button class="learn-more my-5">
                         <span class="circle mail-btn" aria-hidden="true">
                           <span class="icon arrow"></span>
