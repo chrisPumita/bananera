@@ -25,12 +25,8 @@
                 <div class="row">
                     <div class="text-white text-light">
                         <h3 class="mb-3">PRODUCTS</h3>
-                        <h4 class="mb-4">Nos especializamos en la producción
-                            sostenible de <span class="text-primary"> banano Cavendish en</span>
-                            nuestras 4 fincas localizadas en
-                            Matina, Valle La Estrella y Cahuita de
-                            Limón con un total de <span class="text-primary">550 hectáreas
-                                de producción.</span></h4>
+                        <h4 class="mb-4">We specialize in the sustainable production of <span class="text-primary"> Cavendish bananas in</span>
+                            our 4 farms located in Matina, Valle La Estrella and Cahuita de Limón for a total of <span class="text-primary">550 hectares of production.</span></h4>
                     </div>
                 </div>
             </div>
@@ -58,8 +54,7 @@
                         a fundamental role in food safety. 
                         </p>
                         <p class="text-grey">
-                            En Grupo Esfuerzo nos especializados en producir
-                            específicamente banano Cavendish.
+                            At Grupo Esfuerzo we are specialized in specifically producing Cavendish bananas.
                         </p>
                         <p class="text-grey">
                         According to the Food and Agriculture Organization of the 

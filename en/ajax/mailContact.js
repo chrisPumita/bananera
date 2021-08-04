@@ -26,10 +26,10 @@ $(document).ready(function () {
 
                 let template = `
                             <div class="alert alert-success bg-primary alert-dismissible fade show" role="alert">
-                                   <h4 class="alert-heading">¡Muchas gracias!</h4>
-                              <p>${mje}</p>
+                                   <h4 class="alert-heading">Thank you!</h4>
+                              <p>Thank you! Your submission has been received. Your request will be dealt with shortly at ${email}</p>
                               <hr>
-                              <p class="mb-0">¿Desea enviar otro formulario?</p>
+                              <p class="mb-0">Want to send another request?</p>
                               <form class="my-form w-50 d-flex py-3 form-again ">
                               <a href="./contacto.php">
                                   <button class="btn-grid" type="button">
@@ -37,7 +37,7 @@ $(document).ready(function () {
                                             <i class="fas fa-paper-plane"></i>
                                           <img src="./assets/image/email-icon.svg" alt="">
                                         </span>
-                                        <span class="front">Enviar de nuevo</span>
+                                        <span class="front">New request </span>
                                 </button>
                               </a>
                               <a href="./index.php">
@@ -46,7 +46,7 @@ $(document).ready(function () {
                                         <i class="fas fa-paper-plane"></i>
                                       <img src="./assets/image/logo.svg" width="40" alt="">
                                     </span>
-                                    <span class="front">Regresar al home</span>
+                                    <span class="front">Go Home</span>
                                 </button>
                                 </a>
                             </form>

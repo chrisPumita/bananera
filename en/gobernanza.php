@@ -81,10 +81,8 @@
                 <div class="col d-flex justify-content-center align-items-center">
                     <div class="position-relative text-center">
                         <p class="text-grey py-3">
-                            Impactamos también a través de
-                            exitosas alianzas público – privadas
-                            con instituciones públicas, gobierno
-                            local y otras empresas.
+                            We also make an impact through successful public-private partnerships
+                            with public institutions, local government and other companies.
                         </p>
                     </div>
                 </div>

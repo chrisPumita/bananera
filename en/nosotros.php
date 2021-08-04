@@ -135,12 +135,10 @@
                 their families and communities.
                 </p>
                 <p class="text-grey">
-                    Además, aspiramos a expandir nuestra oferta a
-                    tubérculos y piña. Nosotros no soñamos con un planeta
-                    mejor. Nosotros lo construimos al ofrecer soluciones
-                    locales para necesidades globales, a través de la
-                    producción de alimentos y gracias al apoyo de socios,
-                    colaboradores, proveedores, clientes y consumidores.
+                    In addition, we aim to expand our offer to include tubers and pineapple.
+                    We do not dream of a better planet. We build it by offering local solutions to
+                    global needs through food production, and with the support of our partners,
+                    employees, suppliers, customers and consumers.
                 </p>
                 <p class="text-grey">
                 Let's do business and discover how Costa Rican bananas can change the world! 

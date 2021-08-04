@@ -3,26 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="21d9161d-1e74-4d21-8efc-ec944a7ab7d6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/de/include/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/include/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/de/nosotros.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/nosotros.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/de/noticias/includes/notices-ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/de/noticias/includes/notices-ajax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/de/producto.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/producto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/de/social.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/social.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/de/sostenibilidad.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/sostenibilidad.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/include/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/include/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/ajax/mailContact.js" beforeDir="false" afterPath="$PROJECT_DIR$/en/ajax/mailContact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/gobernanza.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/gobernanza.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/nosotros.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/nosotros.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/noticias/includes/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/noticias/includes/menu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/producto.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/producto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/social.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/social.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/sostenibilidad.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/sostenibilidad.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nosotros.php" beforeDir="false" afterPath="$PROJECT_DIR$/nosotros.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noticias/includes/notices-ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/noticias/includes/notices-ajax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producto.php" beforeDir="false" afterPath="$PROJECT_DIR$/producto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social.php" beforeDir="false" afterPath="$PROJECT_DIR$/social.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sostenibilidad.php" beforeDir="false" afterPath="$PROJECT_DIR$/sostenibilidad.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +117,8 @@
       <workItem from="1627781109462" duration="9000" />
       <workItem from="1627928138598" duration="15964000" />
       <workItem from="1627964672371" duration="11659000" />
+      <workItem from="1628082486908" duration="599000" />
+      <workItem from="1628095686943" duration="2497000" />
     </task>
     <servers />
   </component>
