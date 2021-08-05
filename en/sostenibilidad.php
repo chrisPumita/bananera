@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "SUSTAINABILITY - Grupo Esfuerzo"; ?>
+<?php $titulo = "Commitments | Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
 
@@ -196,7 +196,7 @@
                     </div>
                     <div class="col-10 text-light text-mje">
                         <div class="row">
-                            <h4>Finca Esfuerzo, 2021</h4>
+                            <h4>Grundstück Esfuerzo, 2021</h4>
                         </div>
                         <div class="row py-3">
                             <picture>

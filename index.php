@@ -21,7 +21,7 @@ if (!isset($_GET['wlan']))
             // Idioma por defecto, en caso de detectar un idioma raro que no tengamos
             $webLang="es";
         }
-        $expire=time()+60*60*24; // 6 meses
+        $expire=time()+60*60*24; // 1 dia
         setcookie("clang", $webLang, $expire);
     }
 }
@@ -60,7 +60,7 @@ if ($thisPageLang<>$webLang)
 
 ?>
 <!doctype html>
-<?php $titulo = "Bienvenidos - Grupo Esfuerzo"; ?>
+<?php $titulo = "Bienvenidos | Grupo Esfuerzo"; ?>
 <html lang="es">
     <head>
         <?php include "include/header.php";?>

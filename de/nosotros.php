@@ -15,7 +15,7 @@
     <div class="container-sm py-5">
         <div class="col align-items-center">
             <div class="row">
-                <iframe width="100%" height="550px" src="https://www.youtube.com/embed/jqTrRBfJnEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="550px" src="https://www.youtube.com/embed/HhQLTpaiXkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </div>
@@ -34,43 +34,43 @@
                 <img src="../assets/image/timeline.svg" alt="">
             </div>
             <div class="row text-center container-data">
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>1989</h5>
-                    <p>
+                     <p class="text-grey">
                         Kauf vonLand zur Erschließung von Grundstücken
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>1992</h5>
-                    <p>
+                     <p class="text-grey">
                     Verkauf der ersten exportierten Kisten
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>2011</h5>
-                    <p>
+                     <p class="text-grey">
                         Das Unternehmen verkauft
                          zum ersten Mal direkt an 
                          Kunden in Supermärkten 
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>2012</h5>
-                    <p>
+                     <p class="text-grey">
                         Urbanisierungprojekt.
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>2017</h5>
-                    <p>
+                     <p class="text-grey">
                         Kauf vom zweiten Grundstück im 
                         Jahr 2017, was ein Wachstum von 
                         50% bedeutet 
                     </p>
                 </div>
-                <div class="col-2 time-text">
+                <div class="col-2 time-text text-grey">
                     <h5>2020</h5>
-                    <p>
+                     <p class="text-grey">
                         Kauf von zwei weiteren Grundstücken, die ein Wachstum von 60% im
                         Jahr 2020 darstellten. Für ein Gesamtwachstum von 2017
                         bis heute, um 160% von 203 auf 540 Hektar.
@@ -165,17 +165,19 @@
     <div class="container-sm py-5">
         <div class="col align-items-center">
             <div class="row">
-                <iframe width="100%" height="550px" src="https://www.youtube.com/embed/jqTrRBfJnEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="550px" src="https://www.youtube.com/embed/sU0n3DSDcjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </div>
     <div class="container-sm py-5">
         <h2>Erfolgreicher Kurs</h2>
+        <!--
         <h2 class="text-primary">Escuche nuestro StoryTelling</h2>
         <audio preload="none" controls>
             <source src="../assets/podcast.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
+                -->
     </div>
     <div class="container-sm p-5">
         <div class="row">

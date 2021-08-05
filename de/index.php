@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Almena Version - Grupo Esfuerzo"; ?>
+<?php $titulo = "Willkommen | Grupo Esfuerzo"; ?>
 <html lang="es">
     <head>
 
@@ -227,7 +227,9 @@
                                     </picture>
                                 </div>
                                 <div class="row">
-                                    <button type="button" class="btn btn-outline-primary btn-contact position-front">Kontaktieren Sie uns</button>
+                                    <a href="./contacto.php">
+                                        <button type="button" class="btn btn-outline-primary btn-contact position-front">Kontaktieren Sie uns</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>

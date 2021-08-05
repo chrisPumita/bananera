@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Quienes Somos | Grupo Esfuerzo"; ?>
+<?php $titulo = "Sozial | Die Verpflichtung"; ?>
 <html lang="en">
 <head>
 
@@ -251,7 +251,7 @@
                         </div>
                         <div class="row">
                             <a class="position-front" href="./contacto.php">
-                                <button type="button" class="btn btn-outline-primary btn-contact">Contáctenos</button>
+                                <button type="button" class="btn btn-outline-primary btn-contact">Kontaktieren Sie uns</button>
                             </a>
                         </div>
                     </div>

@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Kontaktinfos - Grupo Esfuerzo"; ?>
+<?php $titulo = "Kontaktinfos | Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
 
@@ -38,7 +38,7 @@
                         NACHHALTIGKEIT
                         </a>
                         <ul class="dropdown-menu dropdown-menu postition-menu" aria-labelledby="navbarDarkDropdownMenuLink">
-                            <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Die Verpflichtung</a></li>
+                            <li class="link-menu text-uppercase"><a class="dropdown-item" href="./sostenibilidad.php">Die Verpflichtung</a></li>
                             <div class="dropdown-divider"></div>
                             <li class="link-menu text-uppercase"><a class="dropdown-item" href="./social.php">Sozial</a></li>
                             <li class="link-menu text-uppercase"><a class="dropdown-item" href="./gobernanza.php">Führung</a></li>

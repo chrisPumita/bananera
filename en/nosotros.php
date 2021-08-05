@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Quienes Somos | Grupo Esfuerzo"; ?>
+<?php $titulo = "About Us | Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
 
@@ -162,11 +162,13 @@
     </div>
     <div class="container-sm py-5">
         <h2>A Successful Story</h2>
+                <!--
         <h2 class="text-primary">Listen to our StoryTelling</h2>
         <audio preload="none" controls>
             <source src="../assets/podcast.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
+                -->
     </div>
     <div class="container-sm p-5">
         <div class="row">

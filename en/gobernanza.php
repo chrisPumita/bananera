@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Quienes Somos | Governance"; ?>
+<?php $titulo = "Governance | Commitments"; ?>
 <html lang="en">
 <head>
 

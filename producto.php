@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Nuestro producto - Grupo Esfuerzo"; ?>
+<?php $titulo = "Nuestro producto | Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
 
