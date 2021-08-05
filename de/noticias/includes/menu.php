@@ -1,7 +1,7 @@
 <div class="col-md-4">
     <div class="position-sticky" style="top: 2rem;">
         <div class="p-4 mb-3 bg-light rounded">
-            <h4 class="fst-italic text-greybold">Lo que hacemos</h4>
+            <h4 class="fst-italic text-greybold">Was wir machen</h4>
             <p class="mb-0 text-grey">Wir arbeiten, um der weltweit führende Lieferant der besten 
                                 costaricanischen Bananen zu werden, immer  
                                 unter strenge Standards für eine nachhaltige 

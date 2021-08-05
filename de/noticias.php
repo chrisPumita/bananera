@@ -23,8 +23,9 @@
                 <img src="../assets/image/icon-notice.svg" width="150" class=" notice-icon-header rounded mx-auto d-block img-gost py-5" alt="Grupo Esfuerzo">
                 <div class="row text-center">
                     <div class="text-white text-light">
-                        <h3 class="mb-3">Últimas noticias de Grupo Esfuerzo</h3>
-                        <p class="mb-4 text-light">Consulte nuestras últimas noticias</p>
+                        <h3 class="mb-3">Neueste Nachrichten von “Grupo esfuerzo”</h3>
+                        <p class="mb-4 text-light">Lesen Sie unsere neuesten Nachrichten
+</p>
                     </div>
                 </div>
             </div>

@@ -73,7 +73,7 @@
                             <img src="../assets/image/min/banana-min.png" class="rounded mx-auto d-block platano img-gost" alt="platano">
                         </div>
                         <div class="col welcome-title">
-                            <h2 class="text-primary">Lo que hacemos</h2>
+                            <h2 class="text-primary">Was wir machen</h2>
                             <p class="py-5 text-grey">Wir arbeiten, um der weltweit führende Lieferant der besten <br>
                                 costaricanischen Bananen zu werden, immer  <br>
                                 unter strenge Standards für eine nachhaltige <br>
@@ -127,7 +127,7 @@
             <div class="container-sm">
                 <div class="row">
                     <div class="row text-center text-grey py-4 contador-cont">
-                        <h5 class="text-greybold">DONDE TODO NACE: NUESTRAS FINCAS</h5>
+                        <h5 class="text-greybold text-uppercase">Wo alles anfängt: unsere Grundstücke</h5>
                     </div>
                 </div>
                 <div class="row row-cols-1 row-cols-md-4 g-4">
@@ -179,9 +179,9 @@
                 <div class="row">
                     <div class="col-1"></div>
                     <div class="col-11">
-                        <h2 class="text-grey">Exportamos desde</h2>
+                        <h2 class="text-grey">Wir exportieren aus </h2>
                         <mark>Costa Rica</mark>
-                        <h2 class="text-grey">al mundo.</h2>
+                        <h2 class="text-grey">in die ganze Welt</h2>
                     </div>
                 </div>
             </div>
@@ -197,9 +197,9 @@
                                     <img class="comilla" src="../assets/image/min/comilla-min.png" height="auto" width="150" alt="">
                                 </div>
                                 <div class="col-10 text-light text-mje cite" >
-                                    <h2 class="mje-2">Mas de <span class="text-primary"><strong>30 años de experiencia</strong></span></h2>
-                                    <h2 class="mje-2">en la exportación de banano</h2>
-                                    <h2 class="mje-2">costarricense”</h2>
+                                    <h2 class="mje-2">Über <span class="text-primary"><strong>30 ahre Erfahrung </strong></span></h2>
+                                    <h2 class="mje-2">mit Export von costaricanischen</h2>
+                                    <h2 class="mje-2">Bananen"</h2>
                                 </div>
                             </div>
                             <div class="col-6">

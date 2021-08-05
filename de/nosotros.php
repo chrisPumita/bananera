@@ -24,9 +24,11 @@
     <div class="container-sm ">
         <div class="row">
             <div class="row text-center text-grey py-4">
-                <h2 class="text-greybold">Un recorrido de 30 años</h2>
-                <h2 class="text-greybold">marca nuestra esencia, nuestra historia.</h2>
-                <h3 class="text-primary">Centrados en la producción sostenible y el bienestar de nuestros colaboradores</h3>
+               
+ 
+                <h2 class="text-greybold"> Ein 30-jähriges Bestehen</h2>
+                <h2 class="text-greybold">prägt unser Wesen, unsere Geschichte.</h2>
+                <h3 class="text-primary">Nachhaltige Produktion und das Wohlgehen unseren Mitarbeitern stehen im Mittelpunkt</h3>
             </div>
         </div>
         <div class="container overflow-auto py-5">
@@ -85,7 +87,7 @@
     <div class="container-sm p-5">
         <div class="row">
             <div class="col m-auto text-center">
-                <h2 class="text-secondary">Historia</h2>
+                <h2 class="text-secondary">Geschichte</h2>
                 <img src="../assets/image/pergamino.svg" width="60" alt="">
             </div>
             <div class="col border-left border-secondary historia">

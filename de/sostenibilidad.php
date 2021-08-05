@@ -20,7 +20,7 @@
         <div class="row container-headers-parrafo">
             <div class="col">
                 <div class="text-white text-light">
-                    <h2 class="mb-3">Responsabilidad Social Corporativa</h2>
+                    <h2 class="mb-3">Soziale Verantwortung von Unternehmen</h2>
                     <h4 class="mb-4">Für Grupo Esfuerzo ist die Nachhaltigkeit die 
                         einzige Möglichkeit um Geschäfte zu tätigen. 
                         Unsere Strategie ist es, ein langfristiges erfolgreiches Unternehmen aufzubauen, 
@@ -199,7 +199,7 @@
                     </div>
                     <div class="col-10 text-light text-mje">
                         <div class="row">
-                            <h4>Finca Esfuerzo, 2021</h4>
+                            <h4>Grundstück Esfuerzo, 2021</h4>
                         </div>
                         <div class="row py-3">
                             <picture>
