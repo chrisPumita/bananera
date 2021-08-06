@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21d9161d-1e74-4d21-8efc-ec944a7ab7d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/image/grey-wabe.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/min/world-min.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="21d9161d-1e74-4d21-8efc-ec944a7ab7d6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +113,7 @@
       <workItem from="1627964672371" duration="11659000" />
       <workItem from="1628082486908" duration="599000" />
       <workItem from="1628095686943" duration="2497000" />
-      <workItem from="1628282381207" duration="1211000" />
+      <workItem from="1628282381207" duration="2034000" />
     </task>
     <servers />
   </component>
