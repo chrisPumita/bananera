@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Plantilla - Grupo Esfuerzo"; ?>
+<?php $titulo = "News | Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
     <?php include "../includes/header.php"?>
@@ -30,7 +30,7 @@
             <article class="blog-post">
                 <img src="./img-min.jpg" class="img-fluid" alt="...">
                 <h2 class="blog-post-title py-3 text-grey">GRUPO ESFUERZO EXPANDS ITS PRESENCE IN THE BANANA MARKET WITH THE ACQUISITION OF TWO MORE FARMS</h2>
-                <p class="blog-post-meta text-greybold">May , 2021 By <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
+                <p class="blog-post-meta text-greybold">May , 2021 By <strong>Grupo Esfuerzo</strong> </p>
                 <p class="text-grey">
                 In December 2020, Grupo Esfuerzo decided to expand its presence in the banana market with the acquisition of two new farms to 
                 reach a total area of 960 hectares, of which 550 hectares are currently in production. 

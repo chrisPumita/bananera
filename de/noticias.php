@@ -51,7 +51,9 @@
                 <p class="text-grey">Als eine Bemühung im Einklang mit ihrer Geschäftsstrategie und mit 
                     Aktionen, um ihre Präsenz auf dem globalen Bananenmarkt auszubauen, hat Grupo Esfuerzo 
                     im Juni dieses Jahres ihre neue Website veröffentlicht.</p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Mehr </button>
+                <a href="./noticias/jul-2021">
+                    <button type="button" class="btn btn-outline-primary btn-contact">Mehr </button>
+                </a>
             </div>
         </div>
 
@@ -68,7 +70,9 @@
                     Notwendigkeit bewusst, dass die Bevölkerung eine Struktur benötigt, um die 
                     furchterregenden und ständigen Überschwemmungen während der Regenzeit zu 
                     verhindern.</p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Mehr </button>
+                <a href="./noticias/jun-2021">
+                    <button type="button" class="btn btn-outline-primary btn-contact">Mehr </button>
+                </a>
             </div>
         </div>
 
@@ -79,12 +83,14 @@
                 <h5 class="text-grey">GRUPO ESFUERZO ERWEITERT SEINE PRÄSENZ AUF 
                     DEM BANANENMARKT MIT DEM KAUF VON ZWEI WEITEREN
                      GRUNDSTÜCKEN</h5>
-                <div class="date">MAY 2021</div>
+                <div class="date">MAI 2021</div>
                 <p class="text-grey">LMIT DEM ANKAUF VON ZWEI WEITEREN GRUNDSTÜCKEN <br>
                 In Dezember 2020 hat Grupo Esfuerzo entschieden, ihre Präsenz auf dem Bananenmarkt mit 
                 dem Ankauf zweier Grundstücke zu erweitern. Damit erreichen sie eine Gesamtfläche von 
                 960 Hektar, von denen 534 schon produzieren. </p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Mehr </button>
+                <a href="./noticias/may-2021">
+                    <button type="button" class="btn btn-outline-primary btn-contact">Mehr </button>
+                </a>
             </div>
         </div>
 
@@ -96,11 +102,13 @@
                 <h5 class="text-grey">DIE LKWS VON GRUPO 
                     ESFUERZO VERFÜGEN ÜBER GPS-ÜBERWACHUNG F
                     ÜR MEHR SICHERHEIT</h5>
-                <div class="date">ABR 2021</div>
+                <div class="date">APR 2021</div>
                 <p class="text-grey">Infolge des Geographysches Positionierungs 
                     System (GPS), alle LKWs von Grupo Esfuerzo rechnen seit dem letzten 
                     19. Mai mit Überwachung in Echtzeit.</p>
-                <button type="button" class="btn btn-outline-primary btn-contact">Mehr </button>
+                    <a href="./noticias/abril-2021">
+                    <button type="button" class="btn btn-outline-primary btn-contact">Mehr </button>
+                </a>
             </div>
         </div>
     </div>

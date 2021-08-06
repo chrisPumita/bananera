@@ -40,9 +40,9 @@
                         <ul class="dropdown-menu dropdown-menu postition-menu" aria-labelledby="navbarDarkDropdownMenuLink">
                             <li class="link-menu"><a class="dropdown-item" href="./sostenibilidad.php">Compromisos</a></li>
                             <div class="dropdown-divider"></div>
-                            <li class="link-menu"><a class="dropdown-item" href="./social.php">Social</a></li>
-                            <li class="link-menu"><a class="dropdown-item" href="./gobernanza.php">Gobernanza</a></li>
-                            <li class="link-menu"><a class="dropdown-item" href="./ambiental.php">Ambiental</a></li>
+                            <li class="link-menu text-uppercase"><a class="dropdown-item" href="./social.php">Social</a></li>
+                            <li class="link-menu text-uppercase"><a class="dropdown-item" href="./gobernanza.php">Gobernanza</a></li>
+                            <li class="link-menu text-uppercase"><a class="dropdown-item" href="./ambiental.php">Ambiental</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">

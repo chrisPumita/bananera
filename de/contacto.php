@@ -379,7 +379,7 @@
                     <span id="actionSend" ></span>
                 </div>
                 <div class="col m-auto text-center py-5">
-                    <a href="">
+                    <a href="https://api.whatsapp.com/send?phone=50687027972" target="_blank">
                         <button class="learn-more my-5">
                         <span class="circle whatsapp-btn" aria-hidden="true">
                           <span class="icon arrow"></span>
@@ -387,7 +387,7 @@
                             <span class="button-text"><i class="bi bi-whatsapp"></i>&nbsp;WhatsApp Bussines</span>
                         </button>
                     </a>
-                    <a href="">
+                    <a href="mailto:info@grupoesfuerzo.com">
                         <button class="learn-more my-5">
                         <span class="circle mail-btn" aria-hidden="true">
                           <span class="icon arrow"></span>

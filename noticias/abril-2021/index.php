@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Plantilla - Grupo Esfuerzo"; ?>
+<?php $titulo = "Noticias | Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
     <!-- Required meta tags -->
@@ -54,7 +54,7 @@
             <article class="blog-post">
                 <img src="./img-min.jpg" class="img-fluid" alt="...">
                 <h2 class="blog-post-title py-3 text-grey">CAMIONES DE GRUPO ESFUERZO AHORA CUENTAN AHORA CUENTAN CON MONITOREO POR GPS PARA MAYOR SEGURIDAD</h2>
-                <p class="blog-post-meta text-greybold">Abril , 2021 por <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
+                <p class="blog-post-meta text-greybold">Abril , 2021 por <strong>Grupo Esfuerzo</strong> </p>
 
                 <p class="text-grey">
                     Gracias a un Sistema de Posicionamiento Global (GPS),
@@ -91,7 +91,7 @@
 
             <div class="row container-headers py-5">
                 <div class="col m-auto text-center py-5">
-                    <a href="">
+                <a href="https://api.whatsapp.com/send?phone=50687027972" target="_blank">
                         <button class="learn-more my-5">
                         <span class="circle whatsapp-btn" aria-hidden="true">
                           <span class="icon arrow"></span>
@@ -99,7 +99,7 @@
                             <span class="button-text"><i class="bi bi-whatsapp"></i>&nbsp;WhatsApp Bussines</span>
                         </button>
                     </a>
-                    <a href="">
+                    <a href="mailto:info@grupoesfuerzo.com">
                         <button class="learn-more my-5">
                         <span class="circle mail-btn" aria-hidden="true">
                           <span class="icon arrow"></span>

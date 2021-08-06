@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Plantilla - Grupo Esfuerzo"; ?>
+<?php $titulo = "News | Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
     <?php include "../includes/header.php"?>
@@ -26,13 +26,13 @@
     <div class="row g-5">
         <div class="col-md-8">
             <h3 class="pb-4 mb-4 fst-italic border-bottom">
-                Governance (section)
+                Tecnology (section)
             </h3>
             <article class="blog-post">
                 <img src="./img-min.jpg" class="img-fluid" alt="...">
                 <h2 class="blog-post-title py-3 text-grey">GRUPO ESFUERZO LAUNCHES NEW WEBSITE TO HONOR 
                     THE TRUST OF ITS CUSTOMERS AROUND THE WORLD</h2>
-                <p class="blog-post-meta text-greybold">Jul , 2021 By <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
+                <p class="blog-post-meta text-greybold">Jul , 2021 By <strong>Grupo Esfuerzo</strong> </p>
                 <p class="text-grey">
                 As part of an effort consistent with its commercial strategy and in line with actions to expand its 
                 presence in the global banana market, Grupo Esfuerzo launched its new website this July. 

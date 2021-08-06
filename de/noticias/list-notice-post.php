@@ -3,7 +3,7 @@
 $listNotices = [
     [
         'id' => 4,
-        'category' => 'Tecnología',
+        'category' => 'Technologie',
         'date' => 'Jul 2021',
         'link' => '../jul-2021',
         'titulo' => 'GRUPO ESFUERZO SCHUF NEUE WEBSEITE',
@@ -19,7 +19,7 @@ $listNotices = [
     ],
     [
         'id' => 2,
-        'category' => 'Gobernanza ',
+        'category' => 'Führung ',
         'date' => 'Mai 2021',
         'link' => '../may-2021',
         'titulo' => 'GRUPO ESFUERZO AUSWEITET IHRE PRÄSENZ AUF DEM BANANENMARKT MIT DEM ANKAUF VON ZWEI WEITEREN GRUNDSTÜCKEN.',
@@ -27,7 +27,7 @@ $listNotices = [
     ],
     [
         'id' => 1,
-        'category' => 'Gobernanza ',
+        'category' => 'Führung ',
         'date' => 'Apr 2021',
         'link' => '../abril-2021',
         'titulo' => 'LASTWAGEN VON GRUPO ESFUERZO RECHNEN JETZT MIT GPS ÜBERWACHUNG FÜR MEHR SICHERHEIT.',

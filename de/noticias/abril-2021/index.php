@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Plantilla - Grupo Esfuerzo"; ?>
+<?php $titulo = "Nachrichten | Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
     <!-- Required meta tags -->
@@ -49,12 +49,12 @@
     <div class="row g-5">
         <div class="col-md-8">
             <h3 class="pb-4 mb-4 fst-italic border-bottom">
-                Gobernanza (sección)
+                Führung (sección)
             </h3>
             <article class="blog-post">
                 <img src="./img-min.jpg" class="img-fluid" alt="...">
                 <h2 class="blog-post-title py-3 text-grey">LASTWAGEN VON GRUPO ESFUERZO RECHNEN JETZT MIT GPS ÜBERWACHUNG FÜR MEHR SICHERHEIT.</h2>
-                <p class="blog-post-meta text-greybold">Abr , 2021 FÜR <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
+                <p class="blog-post-meta text-greybold">Abr , 2021 FÜR <strong>Grupo Esfuerzo</strong> </p>
 
                 <p class="text-grey">
                 Infolge des Geographysches Positionierungs System (GPS), alle LKWs von Grupo Esfuerzo rechnen seit 

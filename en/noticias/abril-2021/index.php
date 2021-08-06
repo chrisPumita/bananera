@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Plantilla - Grupo Esfuerzo"; ?>
+<?php $titulo = "News | Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
     <!-- Required meta tags -->
@@ -54,7 +54,7 @@
             <article class="blog-post">
                 <img src="./img-min.jpg" class="img-fluid" alt="...">
                 <h2 class="blog-post-title py-3 text-grey">OUR TRUCKS AT GRUPO ESFUERZO NOW HAVE GPS MONITORING FOR INCREASED SECURITY</h2>
-                <p class="blog-post-meta text-greybold">Apr , 2021 by <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
+                <p class="blog-post-meta text-greybold">Apr , 2021 by <strong>Grupo Esfuerzo</strong> </p>
 
                 <p class="text-grey">
                 Thanks to a Global Positioning System (GPS), all of Grupo Esfuerzo's trucks are

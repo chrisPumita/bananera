@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Plantilla - Grupo Esfuerzo"; ?>
+<?php $titulo = "News | Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
     <?php include "../includes/header.php"?>
@@ -32,7 +32,7 @@
                 <img src="./img-min.jpg" class="img-fluid" alt="...">
                 <h2 class="blog-post-title py-3 text-grey">GRUPO ESFUERZO PARTICIPATES IN THE CONSTRUCTION OF A DAM TO PREVENT
                      FLOODING IN CARIBBEAN COMMUNITIES</h2>
-                <p class="blog-post-meta text-greybold">Jun , 2021 By <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
+                <p class="blog-post-meta text-greybold">Jun , 2021 By <strong>Grupo Esfuerzo</strong> </p>
                 <p class="text-grey">
                 After Grupo Esfuerzo acquired a farm in the community of Bristol in Matina de Limón in 2017, its directors became
                  aware of the local population's need for a structure to prevent the dreaded and constant flooding during 

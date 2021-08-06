@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Plantilla - Grupo Esfuerzo"; ?>
+<?php $titulo = "Nachrichten | Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
     <?php include "../includes/header.php"?>
@@ -26,13 +26,13 @@
     <div class="row g-5">
         <div class="col-md-8">
             <h3 class="pb-4 mb-4 fst-italic border-bottom">
-                Gobernanza (sección)
+                Technologie (sección)
             </h3>
             <article class="blog-post">
                 <img src="./img-min.jpg" class="img-fluid" alt="...">
-                <h2 class="blog-post-title py-3 text-grey">RUPO ESFUERZO SCHUF NEUE WEBSEITE UM DAS
+                <h2 class="blog-post-title py-3 text-grey">GRUPO ESFUERZO SCHUF NEUE WEBSEITE UM DAS
                      VERTRAUEN SEINER KUNDEN WELTWEIT ZU EHREN</h2>
-                <p class="blog-post-meta text-greybold">Julio , 2021 FÜR <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
+                <p class="blog-post-meta text-greybold">Julio , 2021 FÜR <strong>Grupo Esfuerzo</strong> </p>
                 <p class="text-grey">
                 Als eine Bemühung im Einklang mit ihrer Geschäftsstrategie und mit Aktionen, um ihre Präsenz auf dem 
                 globalen Bananenmarkt auszubauen, hat Grupo Esfuerzo im Juni dieses Jahres ihre neue Website veröffentlicht.

@@ -187,8 +187,10 @@
             </div>
             <div class="container-fluid" style="background: url(../assets/image/min/globe-min.png) no-repeat; background-size:cover;">
                 <div class="container-sm bg-mg">
-                    <div class="row">
-                        <img class="world" src="../assets/image/min/world-min.png" alt="">
+                    <div class="row"  id="bellLogo" onmouseover="hvr(this, 'in')" onmouseleave="hvr(this, 'out')">
+                        <img class="world" class=bell col="g" src="../assets/image/min/world-min.png" alt="">
+                        <img class="world" class=bell style="display:none" col="b" src="../assets/image/mapHoverAleman.svg" alt="">
+
                     </div>
                     <div class="row">
                         <div class="container-experience">
@@ -273,6 +275,22 @@
                 });
             });
 
+        </script>
+        <script>
+            function hvr(dom, action)
+            {
+                if (action == 'in')
+                {
+                    $(dom).find("[col=g]").css("display", "none");
+                    $(dom).find("[col=b]").css("display", "inline-block");
+                }
+
+                else
+                {
+                    $(dom).find("[col=b]").css("display", "none");
+                    $(dom).find("[col=g]").css("display", "inline-block");
+                }
+            }
         </script>
     </body>
 

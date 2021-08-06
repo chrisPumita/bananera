@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $titulo = "Plantilla - Grupo Esfuerzo"; ?>
+<?php $titulo = "Nachrichten | Grupo Esfuerzo"; ?>
 <html lang="en">
 <head>
     <?php include "../includes/header.php"?>
@@ -32,7 +32,7 @@
                 <img src="./img-min.jpg" class="img-fluid" alt="...">
                 <h2 class="blog-post-title py-3 text-grey">GRUPO ESFUERZO NIMMT TEIL BEIM AUFBAU EINES DAMMS UM 
                     ÜBERSCHWEMMUNGEN IN KARIBISCHEN GEMEINDEN ZU VERMEIDEN</h2>
-                <p class="blog-post-meta text-greybold">Jun , 2021 FÜR <strong><a href="#" class=" text-grey">EscritorName</a></strong> </p>
+                <p class="blog-post-meta text-greybold">Jun , 2021 FÜR <strong>Grupo Esfuerzo</strong> </p>
                 <p class="text-grey">
                 Nachdem Grupo Esfuerzo einen Grundstück in der Bristol Gemeinde in Matina von Limón in 2017 erworben hatte,
                  wurde sich die Unternehmensleitung der Notwendigkeit bewusst, dass die Bevölkerung eine Struktur benötigt, 

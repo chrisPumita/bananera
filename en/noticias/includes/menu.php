@@ -20,9 +20,9 @@
         <div class="p-4">
             <h4 class="fst-italic">Follow Us</h4>
             <ol class="list-unstyled">
-                <li><a href="#" class="nav-link text-grey">Facebook</a></li>
-                <li><a href="#" class="nav-link text-grey">YouTube</a></li>
-                <li><a href="#" class="nav-link text-grey">Instagram</a></li>
+                <!--<li><a href="#" class="nav-link text-grey">Facebook</a></li>-->
+                <li><a href="https://www.youtube.com/channel/UCpiLI_hR1scPG95UtFJ2gdg/featured" target="_blank" class="nav-link text-grey">YouTube</a></li>
+                <!--<li><a href="#" class="nav-link text-grey">Instagram</a></li>-->
             </ol>
         </div>
     </div>
