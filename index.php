@@ -117,6 +117,12 @@ if ($thisPageLang<>$webLang)
                 </div>
             </div>
             <div class="wabe">
+                <div class="container-fluid bg-down" style="background: url(./assets/image/min/working-min.png) no-repeat;">
+                    <div class="col-6">
+                    </div>
+                    <div class="col-6 bh">
+                    </div>
+                </div>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
                     <path fill="#ffff" fill-opacity="1" d="M0,128L80,160C160,192,320,256,480,245.3C640,235,800,149,960,133.3C1120,117,1280,171,1360,197.3L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
                 </svg>
@@ -246,8 +252,10 @@ if ($thisPageLang<>$webLang)
             </div>
             <div class="container-fluid" style="background: url(./assets/image/min/globe-min.png) no-repeat; background-size:cover;">
                 <div class="container-sm bg-mg">
-                    <div class="row">
-                        <img class="world" src="./assets/image/min/world-min.png" alt="">
+                    <div class="row"  id="bellLogo" onmouseover="hvr(this, 'in')" onmouseleave="hvr(this, 'out')">
+                        <img class="world" class=bell col="g" src="./assets/image/min/world-min.png" alt="">
+                        <img class="world" class=bell style="display:none" col="b" src="./assets/image/min/world-min.svg" alt="">
+
                     </div>
                     <div class="row">
                         <div class="container-experience">
@@ -329,6 +337,23 @@ if ($thisPageLang<>$webLang)
                 });
             });
 
+        </script>
+
+        <script>
+            function hvr(dom, action)
+            {
+                if (action == 'in')
+                {
+                    $(dom).find("[col=g]").css("display", "none");
+                    $(dom).find("[col=b]").css("display", "inline-block");
+                }
+
+                else
+                {
+                    $(dom).find("[col=b]").css("display", "none");
+                    $(dom).find("[col=g]").css("display", "inline-block");
+                }
+            }
         </script>
     </body>
 

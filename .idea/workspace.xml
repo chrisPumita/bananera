@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d9161d-1e74-4d21-8efc-ec944a7ab7d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/image/grey-wabe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/min/world-min.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/ajax/mailContact.js" beforeDir="false" afterPath="$PROJECT_DIR$/en/ajax/mailContact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/gobernanza.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/gobernanza.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/nosotros.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/nosotros.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/producto.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/producto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/de" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/image" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -60,11 +59,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\bananera\assets\image" />
+      <recent name="C:\xampp\htdocs\bananera\assets\image\min" />
       <recent name="C:\xampp\htdocs\bananera\de" />
       <recent name="C:\xampp\htdocs\bananera\en" />
       <recent name="C:\xampp\htdocs\bananera\assets" />
-      <recent name="C:\xampp\htdocs\bananera" />
-      <recent name="C:\xampp\htdocs\bananera\noticias\jun-2021" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\bananera\assets\image" />
@@ -119,6 +118,7 @@
       <workItem from="1627964672371" duration="11659000" />
       <workItem from="1628082486908" duration="599000" />
       <workItem from="1628095686943" duration="2497000" />
+      <workItem from="1628282381207" duration="1211000" />
     </task>
     <servers />
   </component>
