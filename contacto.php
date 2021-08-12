@@ -87,7 +87,7 @@
                                 <li>
                                     <div class="grid grid-1">
                                         <label for="empresa" class="form-label text-grey">Empresa / organización*</label>
-                                        <input type="text" id="empresa" name="empresa" placeholder="Empresa / orgainización" required>
+                                        <input type="text" id="empresa" name="empresa" placeholder="Empresa / organización" required>
                                     </div>
                                 </li>
                                 <li>

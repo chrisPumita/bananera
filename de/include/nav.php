@@ -1,4 +1,4 @@
-<nav id="menu" class="navbar sticky-top navbar-expand-lg navbar-inverse navbar-light bg-light bg-trasparente">
+<nav id="menu" class="navbar fixed-top navbar-expand-lg navbar-inverse navbar-light bg-light bg-trasparente">
     <div class="container-sm">
         <a class="navbar-brand" href="./">
             <img src="../assets/image/logo.svg" alt="" width="100" height="auto" class="d-inline-block align-text-top">

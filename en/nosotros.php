@@ -81,7 +81,7 @@
     <div class="container-sm p-5">
         <div class="row">
             <div class="col m-auto text-center">
-                <h2 class="text-secondary">History</h2>
+                <h2 class="text-secondary">&nbsp;&nbsp;History&nbsp;&nbsp;</h2>
                 <img src="../assets/image/pergamino.svg" width="60" alt="">
             </div>
             <div class="col border-left border-secondary historia">

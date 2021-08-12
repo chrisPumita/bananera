@@ -72,9 +72,8 @@ if ($thisPageLang<>$webLang)
     }
 ?>
         <header style="background: url(./assets/image/min/bg-img1-min.png) top center no-repeat;">
-            <div class="overlay"></div>
-            <div class="video-container">
 
+            <div class="video-container">
                 <div class="video-inline">
                     <video class="video" poster="./assets/image/min/bg-img1-min.png"  playsinline="playsinline"  autoplay="autoplay" muted="muted" loop="loop" height="100%">
                         <source src="./assets/headerHome.mp4" type="video/mp4" />
@@ -89,7 +88,8 @@ if ($thisPageLang<>$webLang)
 
             <?php include "./include/nav.php" ?>
 
-            <div class="container d-flex justify-content-center align-items-center" style="height: 70vh;">
+            <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
+                <div class="overlay"></div>
                 <div class="row container-headers home-header">
                     <div class="col">
                         <img src="./assets/image/min/circleHome-min.webp" class="rounded mx-auto d-block circule-home-img img-gost" alt="Grupo Esfuerzo">
@@ -116,13 +116,17 @@ if ($thisPageLang<>$webLang)
                     </div>
                 </div>
             </div>
-            <div class="wabe">
-                <div class="container-fluid bg-down" style="background: url(./assets/image/min/working-min.png) no-repeat;">
+            <!--
+            <div class=" wabe-mobile d-block d-sm-block d-md-none">
+                <div class="container-fluid bg-down" style="background: url(./assets/image/wabe.svg) no-repeat;">
                     <div class="col-6">
                     </div>
                     <div class="col-6 bh">
                     </div>
                 </div>
+            </div>
+            -->
+            <div class="wabe d-none d-sm-none d-md-block">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
                     <path fill="#ffff" fill-opacity="1" d="M0,128L80,160C160,192,320,256,480,245.3C640,235,800,149,960,133.3C1120,117,1280,171,1360,197.3L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
                 </svg>
@@ -264,7 +268,7 @@ if ($thisPageLang<>$webLang)
                                     <img class="comilla" src="./assets/image/min/comilla-min.png" height="auto" width="150" alt="">
                                 </div>
                                 <div class="col-10 text-light text-mje cite" >
-                                    <h2 class="mje-2">Mas de <span class="text-primary"><strong>30 años de experiencia</strong></span></h2>
+                                    <h2 class="mje-2">Más de <span class="text-primary"><strong>30 años de experiencia</strong></span></h2>
                                     <h2 class="mje-2">en la exportación de banano</h2>
                                     <h2 class="mje-2">costarricense”</h2>
                                 </div>
