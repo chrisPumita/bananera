@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="21d9161d-1e74-4d21-8efc-ec944a7ab7d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/image/cert-de/certificado-en-proceso-blanco.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/cert-en/certificado-en-proceso-blanco.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacto.php" beforeDir="false" afterPath="$PROJECT_DIR$/contacto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/de/include/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/include/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/CRT/Encabezado home y footers.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/CRT/Encabezado home y footers_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/CRT/Inglés media página home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/CRT/certificado-en-proceso.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/cert-de/certificado-en-proceso-blanco.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/cert-de/certificado-en-proceso-blanco.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/cert-en/certificado-en-proceso-blanco.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/cert-en/certificado-en-proceso-blanco.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/certificado-en-proceso.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/certificado-en-proreso-whitte.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/certificago-global-whitte.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/de/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/de/noticias.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/noticias.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/producto.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/producto.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/de/sostenibilidad.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/sostenibilidad.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/include/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/include/nav.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/nosotros.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/nosotros.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/noticias.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/noticias.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/producto.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/producto.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/sostenibilidad.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/sostenibilidad.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/nav.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noticias.php" beforeDir="false" afterPath="$PROJECT_DIR$/noticias.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producto.php" beforeDir="false" afterPath="$PROJECT_DIR$/producto.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sostenibilidad.php" beforeDir="false" afterPath="$PROJECT_DIR$/sostenibilidad.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +66,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/image/cert-de" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -140,6 +144,7 @@
       <workItem from="1628717963048" duration="3582000" />
       <workItem from="1628784217459" duration="38000" />
       <workItem from="1628784286602" duration="2429000" />
+      <workItem from="1628805635925" duration="2526000" />
     </task>
     <servers />
   </component>

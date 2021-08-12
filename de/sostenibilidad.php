@@ -70,37 +70,37 @@
             <div class="row row-cols-7 text-center  g-2 py-5  hover14 column">
                 <div class="col finca-box">
                     <a href="./social.php">
-                        <figure><img src="../assets/image/ods-4.svg" width="150" alt=""></figure>
+                        <figure><img src="../assets/image/osd-de/ods-4.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./ambiental.php">
-                    <figure><img src="../assets/image/ods-7.svg" alt="" width="150"></figure>
+                    <figure><img src="../assets/image/osd-de/ods-7.svg" alt="" width="150"></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./social.php">
-                    <figure><img src="../assets/image/ods-8.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/osd-de/ods-8.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./social.php">
-                    <figure><img src="../assets/image/ods-11.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/osd-de/ods-11.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./ambiental.php">
-                    <figure><img src="../assets/image/ods-12.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/osd-de/ods-12.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./ambiental.php">
-                    <figure><img src="../assets/image/ods-15.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/osd-de/ods-15.svg" width="150" alt=""></figure>
                     </a>
                 </div>
                 <div class="col finca-box">
                     <a href="./gobernanza.php">
-                    <figure><img src="../assets/image/ods-17.svg" width="150" alt=""></figure>
+                    <figure><img src="../assets/image/osd-de/ods-17.svg" width="150" alt=""></figure>
                     </a>
                 </div>
             </div>
@@ -203,8 +203,8 @@
                         </div>
                         <div class="row py-3">
                             <picture>
-                                <img class="certificates" src="../assets/image/certificado-en-proreso-whitte.svg" height="35" alt="carbono natural">
-                                <img class="certificates" src="../assets/image/certificago-global-whitte.svg" height="35" alt="Global G.A.P.">
+                                <img class="certificates" src="../assets/image/cert-de/certificado-en-proceso-blanco.svg" height="35" alt="carbono natural">
+                                <img class="certificates" src="../assets/image/certificado-global-blanco.svg" height="35" alt="Global G.A.P.">
                                 <img class="certificates" src="../assets/image/certificacion-frog.svg" height="35" alt="...">
                             </picture>
                         </div>

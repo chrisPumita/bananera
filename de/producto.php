@@ -168,8 +168,8 @@
                         </div>
                         <div class="row py-3">
                             <picture>
-                                <img class="certificates" src="../assets/image/certificado-en-proceso.svg" height="35" alt="carbono natural">
-                                <img class="certificates" src="../assets/image/certificado-global.svg" height="35" alt="Global G.A.P.">
+                                <img class="certificates" src="../assets/image/cert-de/certificado-en-proceso-blanco.svg" height="35" alt="carbono natural">
+                                <img class="certificates" src="../assets/image/certificado-global-blanco.svg" height="35" alt="Global G.A.P.">
                                 <img class="certificates" src="../assets/image/certificacion-frog.svg" height="35" alt="...">
                             </picture>
                         </div>

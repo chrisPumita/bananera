@@ -107,8 +107,8 @@ if ($thisPageLang<>$webLang)
                         </picture>
                         <div class="py-3">
                             <picture>
-                                <img class="certificates" src="./assets/image/certificado-en-proreso-whitte.svg" height="35" class="" alt="carbono natural">
-                                <img class="certificates" src="./assets/image/certificago-global-whitte.svg" height="35" class="" alt="Global G.A.P.">
+                                <img class="certificates" src="./assets/image/cert-es/certificado-en-proreso-blanco.svg" height="35" class="" alt="carbono natural">
+                                <img class="certificates" src="./assets/image/certificado-global-blanco.svg" height="35" class="" alt="Global G.A.P.">
                                 <img class="certificates" src="./assets/image/certificacion-frog.svg" height="35" class="" alt="...">
                             </picture>
                         </div>
@@ -184,7 +184,7 @@ if ($thisPageLang<>$webLang)
             <div class="container-sm">
                 <div class="row text-center text-grey py-5 contador-cont">
                     <picture>
-                        <img class="certificates" src="./assets/image/certificado-en-proceso.svg" height="60" class="" alt="carbono natural">
+                        <img class="certificates" src="./assets/image/cert-es/certificado-en-proceso.svg" height="60" class="" alt="carbono natural">
                         <img class="certificates" src="./assets/image/certificado-global.svg" height="60" class="" alt="Global G.A.P.">
                         <img class="certificates" src="./assets/image/certificacion-frog.svg" height="60" class="" alt="...">
                     </picture>
@@ -292,8 +292,8 @@ if ($thisPageLang<>$webLang)
                                 </div>
                                 <div class="row py-3">
                                     <picture>
-                                        <img class="certificates" src="./assets/image/certificado-en-proceso.svg" height="35" class="" alt="carbono natural">
-                                        <img class="certificates" src="./assets/image/certificado-global.svg" height="35" class="" alt="Global G.A.P.">
+                                        <img class="certificates" src="./assets/image/cert-es/certificado-en-proreso-blanco.svg" height="35" class="" alt="carbono natural">
+                                        <img class="certificates" src="./assets/image/certificado-global-blanco.svg" height="35" class="" alt="Global G.A.P.">
                                         <img class="certificates" src="./assets/image/certificacion-frog.svg" height="35" class="" alt="...">
                                     </picture>
                                 </div>
