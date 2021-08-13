@@ -1,5 +1,10 @@
 <!-- Required meta tags -->
-<!-- ----- VERSION DEL DOCUMENTO --------- VERSION BETA 1.07.1 BUILD 29.07.21 @autor: ReCkrea StuDios @website: reckreastudios.com @webdev: ChrisRCGS -->
+<!-- ----- VERSION DEL DOCUMENTO ---------
+    VERSION 1.08.1 BUILD 12.08.21
+    @autor: ReCkrea StuDios & Limonne Comunicación Gráfica
+    @website: reckreastudios.com
+    @webdev: ChrisRCGS
+    @designer: Bárbara BR ( limonne-->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -8,7 +13,7 @@
 <meta name="keywords" content="bananera alimentos, grupo esfuerzo, platanos, bananas, verde"/>
 <meta name=»description» content="Nos especializamos en la producción sostenible de banano Cavendish en nuestras 4 fincas localizadas en Matina,
  Valle La Estrella y Cahuita de Limón con un total de 550 hectáreas de producción."/>
-<meta name="revised" content="29/07/2021" />
+<meta name="revised" content="12/08/2021" />
 <meta name="og:image" content="./assets/image/logo.svg" />
 <meta name="author" content="ChrisRCGS" />
 <meta name="robots" content="index"/>

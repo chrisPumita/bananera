@@ -638,7 +638,7 @@ header .container {
 }
 header .overlay {
     position: absolute;
-    height: 100%;
+    height: 100vh;
     width: 100vw;
     background-color: #0a401d85;
     opacity: 0.8;
@@ -1399,7 +1399,13 @@ ____________________________ shadow effect*/
     .container-headers {
         display: flex !important;
     }
+    .contador-cont {
+        width: 100%;
+    }
 
+    .cert {
+        display: flex !important;
+    }
     .wabe {
         bottom: -20px !important;
     }
