@@ -30,13 +30,13 @@
     <div class="container" style="height: 25vh;">
         <div class="row">
             <div class="col-4 p-3 text-end">
-                <img class="img-responsive imgBoxSocial" src="../assets/image/ods-4-box.svg" alt="">
+                <img class="img-responsive imgBoxSocial" src="../assets/image/osd-de/ods-4-box.svg" alt="">
             </div>
             <div class="col-4 p-3 text-center">
-                <img  class="img-responsive imgBoxSocial" src="../assets/image/ods-8-box.svg"  alt="">
+                <img  class="img-responsive imgBoxSocial" src="../assets/image/osd-de/ods-8-box.svg"  alt="">
             </div>
             <div class="col-4 p-3 text-start">
-                <img class="img-responsive imgBoxSocial" src="../assets/image/ods-11-box.svg" alt="">
+                <img class="img-responsive imgBoxSocial" src="../assets/image/osd-de/ods-11-box.svg" alt="">
             </div>
         </div>
     </div>

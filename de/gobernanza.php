@@ -30,7 +30,7 @@
             <div class="col-4 p-3 text-end">
             </div>
             <div class="col-4 p-3 text-center">
-                <img  class="img-responsive imgBoxSocial bg-img-bottom" src="../assets/image/ods-17-box.svg"  alt="">
+                <img  class="img-responsive imgBoxSocial bg-img-bottom" src="../assets/image/osd-de/ods-17-box.svg"  alt="">
             </div>
             <div class="col-4 p-3 text-start">
             </div>

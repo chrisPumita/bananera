@@ -5,16 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21d9161d-1e74-4d21-8efc-ec944a7ab7d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/style/style-min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image/min/bg-img1-min.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/min/bg-img1-min.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 25.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 26.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 27.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 28.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 29.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 30.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 31.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 32.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 33.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 34.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 35.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 36.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 37.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Alemán/Recurso 38.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 82.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 83.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 84.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 85.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 86.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 87.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 88.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 89.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 90.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 91.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 92.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 93.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 94.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ODS-NEW/Inglés/Recurso 95.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-11-box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/ods_en/ods-11-box.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-11.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/ods_en/ods-11.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-12-box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/ods_en/ods-12-box.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-12.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/ods_en/ods-12.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-15-box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/ods_en/ods-15-box.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-15.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/ods_en/ods-15.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-17-box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/ods_en/ods-17-box.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-17.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/ods_en/ods-17.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-18-box.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-4-box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/ods_en/ods-4-box.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/ods_en/ods-4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-7-box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/ods_en/ods-7-box.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-7.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/ods_en/ods-7.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/ods_en/ods-8.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/ods_en/ods-8.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-11-box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-11-box.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-11.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-11.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-12-box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-12-box.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-12.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-12.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-15-box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-15-box.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-15.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-15.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-17-box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-17-box.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-17.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-17.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-4-box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-4-box.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-7-box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-7-box.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-7.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-7.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-8-box.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-8-box.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image/osd-de/ods-8.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/image/osd-de/ods-8.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/ambiental.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/ambiental.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/gobernanza.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/gobernanza.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/de/include/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/include/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/de/producto.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/producto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/nosotros.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/nosotros.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/social.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/social.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/sostenibilidad.php" beforeDir="false" afterPath="$PROJECT_DIR$/de/sostenibilidad.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/include/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/include/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/producto.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/producto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producto.php" beforeDir="false" afterPath="$PROJECT_DIR$/producto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/social.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/social.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +112,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TAO" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -138,6 +193,7 @@
       <workItem from="1628805635925" duration="2526000" />
       <workItem from="1628870580362" duration="5305000" />
       <workItem from="1628893828869" duration="1034000" />
+      <workItem from="1628897084104" duration="741000" />
     </task>
     <servers />
   </component>

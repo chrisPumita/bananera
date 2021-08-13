@@ -128,7 +128,7 @@
         <div class="row">
             <div class="col m-auto text-center">
                 <img src="../assets/image/medalla.svg" width="60" alt="">
-                <h2 class="text-primary">ZIEL UND WERTE</h2>
+                <h2 class="text-primary"> Ziel und werte</h2>
             </div>
             <div class="col border-left border-primary historia">
                 <p class="text-grey">

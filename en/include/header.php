@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="shortcut icon" href="../favicon.png">
 
-<meta name="keywords" content="bananera alimentos, grupo esfuerzo, platanos, bananas, verde"/>
+<meta name="keywords" content="banana food, effort group, plantains, bananas, green"/>
 <meta name=»description» content="We strive to be the world's leading supplier
 of the best Costa Rican bananas,always
 under strict standards of sustainable production
